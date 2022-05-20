@@ -1,0 +1,27 @@
+ ************* Module assignment1
+ assignment1.py:14: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:19: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:20: convention (C0303, trailing-whitespace, ) Trailing whitespace
+ assignment1.py:21: warning (W0311, bad-indentation, ) Bad indentation. Found 2 spaces, expected 4
+ assignment1.py:24: convention (C0303, trailing-whitespace, ) Trailing whitespace
+ assignment1.py:33: convention (C0303, trailing-whitespace, ) Trailing whitespace
+ assignment1.py:34: convention (C0301, line-too-long, ) Line too long (140/100)
+ assignment1.py:38: convention (C0301, line-too-long, ) Line too long (146/100)
+ assignment1.py:41: convention (C0303, trailing-whitespace, ) Trailing whitespace
+ assignment1.py:44: convention (C0303, trailing-whitespace, ) Trailing whitespace
+ assignment1.py:1: convention (C0114, missing-module-docstring, ) Missing module docstring
+ assignment1.py:13: convention (C0116, missing-function-docstring, ncbi_references) Missing function or method docstring
+ assignment1.py:13: warning (W0621, redefined-outer-name, ncbi_references) Redefining name 'pmid' from outer scope (line 42)
+ assignment1.py:14: warning (W0621, redefined-outer-name, ncbi_references) Redefining name 'results' from outer scope (line 46)
+ assignment1.py:19: warning (W0621, redefined-outer-name, ncbi_references) Redefining name 'references' from outer scope (line 43)
+ assignment1.py:24: convention (C0116, missing-function-docstring, ncbi_articles) Missing function or method docstring
+ assignment1.py:24: warning (W0621, redefined-outer-name, ncbi_articles) Redefining name 'pmid' from outer scope (line 42)
+ assignment1.py:5: warning (W0611, unused-import, ) Unused import time
+ assignment1.py:4: convention (C0411, wrong-import-order, ) standard import "import argparse as ap" should be placed before "from Bio import Entrez"
+ assignment1.py:5: convention (C0411, wrong-import-order, ) standard import "import time" should be placed before "from Bio import Entrez"
+ assignment1.py:6: convention (C0411, wrong-import-order, ) standard import "from pathlib import Path" should be placed before "from Bio import Entrez"
+ 
+ -------------------------------------------------------------------
+ Your code has been rated at 2.22/10 (previous run: -0.53/10, +2.75)
+ 
+ 
