@@ -1,0 +1,454 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Pan Afr Med J</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Pan Afr Med J</journal-id>
+      <journal-id journal-id-type="publisher-id">PAMJ</journal-id>
+      <journal-title-group>
+        <journal-title>The Pan African Medical Journal</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1937-8688</issn>
+      <publisher>
+        <publisher-name>The African Field Epidemiology Network</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">33777296</article-id>
+      <article-id pub-id-type="pmc">7955594</article-id>
+      <article-id pub-id-type="publisher-id">PAMJ-38-28</article-id>
+      <article-id pub-id-type="doi">10.11604/pamj.2021.38.28.25758</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Perspectives</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>COVID-19 control pitfalls and challenges and drivers of SARS-CoV-2 transmission in Zimbabwe</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Murewanhema</surname>
+            <given-names>Grant</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="corresp" rid="cor1">&amp;</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><label>1</label>Department of Obstetrics and Gynaecology, College of Health Sciences, University of Zimbabwe, Harare, Zimbabwe</aff>
+      <author-notes>
+        <corresp id="cor1"><bold>Corresponding author:</bold> Grant Murewanhema, Department of Obstetrics and Gynaecology, College of Health Sciences, University of Zimbabwe, Harare, Zimbabwe. <email>gmurewanhema@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>1</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2021</year>
+      </pub-date>
+      <volume>38</volume>
+      <elocation-id>28</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>8</month>
+          <year>2020</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>1</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement><bold>Copyright:</bold> Grant Murewanhema et al.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0">
+          <license-p>The Pan African Medical Journal (ISSN: 1937-8688). This is an Open Access article distributed under the terms of the Creative Commons Attribution International 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Despite numerous public health interventions introduced by the Zimbabwean government, the COVID-19 burden continues to grow. The number of confirmed cases increased from less than 600 to over 6000 in a period of two months, and the fatalities now exceed 150. The source of infection has significantly changed from imported cases to community transmission. The greatest burden of COVID-19 is in the country&#x2019;s two biggest provinces, Harare and Bulawayo, and differentiated approaches are urgently required to curb further transmissions whilst allowing other aspects of the population&#x2019;s livelihood to continue. We discuss some of the pitfalls and challenges for COVID-19 control, and the possible drivers of SARS-CoV-2 community transmission in the country. An urgent multi-sectoral intersection to effectively deal with these caveats is required, and political commitment to deal with the crisis remains an indispensable variable.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>SARS-CoV-2</kwd>
+        <kwd>COVID-19</kwd>
+        <kwd>Zimbabwe</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="S1">
+      <title>Perspective</title>
+      <p>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the aetiological virus for coronavirus disease 2019, popularly known as COVID-19 [<xref rid="ref1" ref-type="bibr">1</xref>]. From the initial cases detected in Wuhan in December 2019, the outbreak of this novel virus rapidly evolved to become a global pandemic by March 2010 [<xref rid="ref2" ref-type="bibr">2</xref>,<xref rid="ref3" ref-type="bibr">3</xref>]. World Health Organization (WHO) situation reports indicate that by 24 August 2020, an estimated 21 million individuals had contracted SARS-CoV-2, with slightly over 800 000 fatalities [<xref rid="ref4" ref-type="bibr">4</xref>]. Another estimated 1.7 million individuals had contracted the virus in the preceding 7 days [<xref rid="ref4" ref-type="bibr">4</xref>], making SARS-CoV-2 the most aggressive virus ever, with a high effective reproduction number R<sub>0</sub>. Africa is the fifth most affected continent, with slightly over one million cases, constituting an estimated four percent of the global burden, with about 20 000 fatalities [<xref rid="ref4" ref-type="bibr">4</xref>]. Zimbabwe reported the first cases of COVID-19 in March 2020, which were all imported [<xref rid="ref5" ref-type="bibr">5</xref>]. The trajectory was very slow in the first 3-4 months of the pandemic, with less than 600 cases by the end of June 2020. Despite scholarly projections that Zimbabwe would reach 1000 cases by mid-April 2020 [<xref rid="ref6" ref-type="bibr">6</xref>]. The confirmed cases were still less than 60% of the projection. The majority of cases during this period were imported, as indicated by the daily situation reports from the Ministry of Health and Child Care (MOHCC), and the highest number of returning residents were from the neighboring South Africa. However, since July 2020, the number of reported cases increased significantly, with over 100 cases confirmed per day in many instances. The balance of infection source shifted heavily towards locally acquired infections as Zimbabwe entered into the dreaded phase of community SARS-CoV-2 transmission. As of 25 August 2020, the cumulative number of cases in Zimbabwe stood at 6196, with 166 fatalities, and a case fatality ratio of 2.7% and 80% recovery rate according to the WHO de-isolation criteria [<xref rid="ref7" ref-type="bibr">7</xref>]. Harare Province contributed an estimated 40% of the disease burden, and 56% of the fatalities, and Bulawayo Province was the second most affected with 20% of the cases and 17.5% of the fatalities. The other eight provinces contributed 40% of the infection burden, and 62.5% of the deaths. Controlling transmission effectively requires an urgent evaluation and understanding of the infection dynamics, including hotspots and possible drivers for new infections. As the country is now in community transmission, differentiated models of control are required based on local transmission patterns. Unfortunately, no formal research has been published to date to explore this situation, and the focus has been on quarantining returning travelers, and testing, treating and isolating confirmed cases. We describe the mitigating public health interventions introduced by the Zimbabwean government since March 2020, and discuss the pitfalls and challenges for control, and the possible drivers of transmission since the beginning of the outbreak in Zimbabwe.</p>
+      <p><bold>Responses to the COVID-19 pandemic by the Zimbabwean government</bold>: a state of national disaster was pronounced at the outset of the pandemic, culminating in a total lockdown effected on 30 March 2020 [<xref rid="ref8" ref-type="bibr">8</xref>]. The initial 21-day lockdown period meant stoppage of all non-essential services except for healthcare and security [<xref rid="ref5" ref-type="bibr">5</xref>]. Local and international travel was banned, with the requirement for exemption letters at road checks. Retail outlets were permitted to operate for restricted hours during the day with screening and sanitizing of hands at entrances. The sale of alcoholic beverages was banned. The lockdowns have been gradually relaxed, with resumption of most services under strict regulations. Mass gatherings, including religious gatherings were initially banned but are now permitted with not more than 50 congregants. On 04 April 2020, mandatory wearing of facemasks in all public places was pronounced. Returning residents were mandated to go into quarantine at designated facilities throughout the country [<xref rid="ref5" ref-type="bibr">5</xref>]. Rapid response teams were activated to respond swiftly to rumors and alerts, and surveillance teams were constituted to facilitate contact tracing, follow-up, and case investigation. An expanded testing strategy was released in April 2020 to increase the scope of surveillance, and detect and isolate confirmed cases, and protect healthcare workers and patients [<xref rid="ref9" ref-type="bibr">9</xref>]. Despite a comprehensive testing strategy, implementation has been complicated by regular stock outs of essential testing reagents. Targets to test 40 000 people per month as was proposed in the Zimbabwe COVID-19 operational plan [<xref rid="ref5" ref-type="bibr">5</xref>] have not been met. Zimbabwe imports test kits for COVID-19 and provincial testing capacitation through GeneXpert platforms has not materialized adequately. The requirement for mandatory quarantine of returning residents has been removed as the need to deal with community transmission has grown.</p>
+      <sec id="S1_1">
+        <title>Pitfalls, challenges and drivers of SARS-CoV-2 transmission</title>
+        <p><bold>Quarantine centers:</bold> the primary purpose of the quarantine centers was to house returning residents for the duration of the incubation period, and contain any possible infections in these centers to avoid local transmission. However, the conditions in the quarantine centers were anecdotally reported as unsuitable [<xref rid="ref10" ref-type="bibr">10</xref>]. Reports of overcrowding, sharing of amenities and sexual activities within the quarantine centers were noted. There were multiple reports on inmates running away from inhumane conditions in the centers and escaping into communities. Administrative factors including mixing of different cohorts and delayed release of results further complicated the situation, as inmates went beyond 21 days without results. During the early phases of the outbreak in Zimbabwe, the highest number of cases were diagnosed in quarantine centers; therefore, it is possible they were the sources of infection.</p>
+        <p><bold>Porous borders:</bold> Zimbabwe shares borders with a number of neighbors, including South Africa, Botswana, Zambia, Malawi and Mozambique. Though the actual numbers are unknown, a number of residents entered illegally into their communities through porous borders and escaped mandatory quarantine. Some who were reported by their communities subsequently tested positive for SARS-CoV-2, and possibly may have been contagion sources for the community.</p>
+        <p><bold>Testing:</bold> the testing capacity falls grossly short of expectations. Real-time polymerase chain reaction (RT-PCR) testing is scarce and expensive, and the role of antibody testing in the management of COVID-19 remains controversial [<xref rid="ref11" ref-type="bibr">11</xref>], with the world health organization advising rapid detection tests (RDTs) to be reserved for academic research and community surveillance [<xref rid="ref12" ref-type="bibr">12</xref>]. RDTs can have a high incidence of false negatives who subsequently turn positive on RT-PCR. The testing in the country remains centralized to reference laboratories in Harare and Bulawayo. Shortage of cartridges has hampered efforts to capacitate GeneXpert testing at provincial level. Therefore, the reference labs remain overwhelmed with backlogs. Sometimes, patients have to go beyond ten days without receiving their results. Meanwhile, especially considering that the initial situation reports indicated that most cases were asymptomatic, they could pass on SARS-CoV-2 unknowingly.</p>
+        <p><bold>Population dynamics:</bold> Africa has a relatively young population [<xref rid="ref13" ref-type="bibr">13</xref>]. It is postulated that young people who contract SARS-CoV-2 may remain asymptomatic for COVID-19 and be drivers of transmission [<xref rid="ref13" ref-type="bibr">13</xref>]. In the initial phases, the majority of cases were confirmed among young people returning from other countries for economic reasons and they were reported as asymptomatic, and deaths in the young are rare. With the thriving informal sector driven by young people in Zimbabwe, silent SARS-CoV-2 infections maybe a common occurrence.</p>
+        <p><bold>Public health sector challenges:</bold> the public health sector in Zimbabwe faces many challenges. Constant industrial actions by healthcare personnel, shortages of equipment, medicines and sundries, including personal protective equipment (PPE) are widely reported [<xref rid="ref14" ref-type="bibr">14</xref>]. These may have been further worsened by supply chain disruptions owing to travel restrictions [<xref rid="ref15" ref-type="bibr">15</xref>]. Prices of imported commodities including medicines may go up by 10-25%. Fear and anxiety by healthcare practitioners further worsens the situation [<xref rid="ref16" ref-type="bibr">16</xref>]. Public health facilities have not been offering clinical services regarded as non-emergency, and patients without COVID-19 test results have been denied services, the majority of whom are not on medical insurance and cannot afford private testing. People have been forced to look after their sick relatives at home without adequate infection prevention control measures, which could potentially result in widespread community transmissions. Without adequately dealing with healthcare issues, COVID-19 control is likely to remain a challenge.</p>
+        <p><bold>Risk perception:</bold> an unpublished report by the risk communication and community engagement (RCCE) pillar observed low risk perception among Zimbabweans, especially the young. People believe what they see, and similar to the HIV epidemic, people would not believe it was a reality until they lost close family members. Similarly, there are some who still believe that COVID-19 is not an African disease. Low risk perception serves as an inhibitor fo</p>
+        <p>r the uptake of preventive measures and must be addressed urgently. Physical distancing and wearing of masks in public places such as supermarkets and banks remains a huge challenge.</p>
+        <p><bold>Economic and social challenges:</bold> the majority of the working population depends on public transport to go to work. Most forms of public transport were banned at the beginning of the lockdown period, except for those affiliated to the Zimbabwe united passenger company, which unfortunately does not have enough vehicles to service the public. Overcrowding in these buses is common and does not permit physical distancing. A good proportion of the population in the high-density suburbs of Harare and Chitungwiza fetches water from community boreholes where people queue for long hours without physical distancing and facemasks. With an unemployment rate estimated to be in excess of 90%, and with the hyperinflationary economic environment, many have taken to the informal sector for livelihood. There is no basic infection screening including temperature checks; there are no facilities for hand hygiene, common ablution facilities shared are not hygienic, and physical distancing is a luxury. High unemployment rate means many cannot afford to seek treatment on time, and may drive SARS-CoV-2 community transmission before access to testing and results.</p>
+        <p><bold>Political challenges:</bold> political commitment to dealing with a national security threat entails prioritisation of resource allocation to the health sector to effectively deal with the ongoing challenges. It also entails wide consultative forums with public health experts to obtain evidence-based recommendations to effectively deal with the pandemic. Whilst political commitment remains an indispensable variable of the COVID-19 pandemic control, the scientific world must be allowed to take the lead.</p>
+        <p><bold>Surveillance and operational research:</bold> generation of local evidence is a critical missing link between SARS-CoV-2 community transmission and control. Documenting challenges and pitfalls, strengths and best practices, and meaningful analysis of available data is the crux of evidence-based public health and clinical practice for COVID-19. The academia must be regarded as an important sector to advice the research pillar, and this must be prioritized as differentiated interventions are urgently required to deal with the pandemic whilst allowing other aspects of people&#xB4;s livelihoods to continue.</p>
+      </sec>
+    </sec>
+    <sec id="S2">
+      <title>Conclusion</title>
+      <p>Dealing with the COVID-19 pandemic and curbing further spread of SARS-CoV-2 remains an urgent need in Zimbabwe. Controlling community transmission requires differentiated approaches premised on comprehension of the pitfalls and challenges for control, and the drivers for transmission. An urgent discourse between politics, science, academia and public health is needed for the generation and implementation of evidence-based public health interventions to effectively deal with the pandemic.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="fn1">
+        <p><bold>Cite this article:</bold> Grant Murewanhema et al. COVID-19 control pitfalls and challenges and drivers of SARS-CoV-2 transmission in Zimbabwe. Pan African Medical Journal. 2021;38(28). 10.11604/pamj.2021.38.28.25758</p>
+      </fn>
+    </fn-group>
+    <sec id="S3" sec-type="COI-statement">
+      <title>Competing interests</title>
+      <p>The author declares no competing interests.</p>
+    </sec>
+    <sec id="S4">
+      <title>Authors' contributions</title>
+      <p>GM developed the concept and primary manuscript, and he edited and finalised the manuscript for submission. The author has read and agreed to the final manuscript.</p>
+    </sec>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guo</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Ye</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Kejing</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>New Insights of Emerging SARS-CoV-2: Epidemiology, Etiology, Clinical Features, Clinical Treatment, and Prevention</article-title>
+          <source>Front Cell Dev Biol</source>
+          <year>2020</year>
+          <month>5</month>
+          <day>22</day>
+          <volume>8</volume>
+          <fpage>410</fpage>
+          <pub-id pub-id-type="pmid">32574318</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>La Maestra</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Abbondandolo</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>De Flora</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiological trends of COVID-19 epidemic in Italy during March 2020 From 1.000 to 100,000 cases</article-title>
+          <source>J Med Virol</source>
+          <year>2020</year>
+          <month>10</month>
+          <volume>92</volume>
+          <issue>10</issue>
+          <fpage>1956</fpage>
+          <lpage>1961</lpage>
+          <pub-id pub-id-type="pmid">32314804</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Remuzzi</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Remuzzi</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19 and Italy: what next?</article-title>
+          <source>Lancet-11</source>
+          <year>2020</year>
+          <month>4</month>
+          <day>17</day>
+          <volume>395</volume>
+          <issue>10231</issue>
+          <fpage>1225</fpage>
+          <lpage>8</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="other">
+          <collab>World health organisation</collab>
+          <article-title>Weekly Epidemiological Update</article-title>
+          <source>Coronavirus disease</source>
+          <year>2019</year>
+          <comment>(COVID-19)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="other">
+          <collab>Government of Zimbabwe</collab>
+          <article-title>Zimbabwe COVID-19 operational plan May-July</article-title>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pearson</surname>
+              <given-names>CAB</given-names>
+            </name>
+            <name>
+              <surname>van Schalkwyk</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Foss</surname>
+              <given-names>AM</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Projected early spread of COVID-19 in Africa through 1 June 2020</article-title>
+          <source>Eurosurveillance</source>
+          <year>2020</year>
+          <month>5</month>
+          <volume>25</volume>
+          <issue>18</issue>
+          <fpage>2000543</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="other">
+          <collab>Ministry of Health and Child Care</collab>
+          <article-title>Daily COVID-19 situation reports</article-title>
+          <source>August 25</source>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="book">
+          <collab>United Nations Zimbabwe</collab>
+          <article-title>immediate socioeconomic response to COVID-19 in Zimbabwe: a framework for integrated policy analysis and support</article-title>
+          <source>COVID Mptf</source>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="other">
+          <collab>Ministry of Health and Child Care Zimbabwe</collab>
+          <article-title>New testing developments</article-title>
+          <source>08 April</source>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Madziwa</surname>
+              <given-names>BM</given-names>
+            </name>
+          </person-group>
+          <article-title>How Zim Quarantine Centres Have Become Drivers Of COVID-19 Infections</article-title>
+          <source>Health Times</source>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lisboa Bastos</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tavaziva</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Abidi</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Jonathon</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Zhiyi</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>James</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Diagnostic accuracy of serological tests for covid-19: systematic review and meta-analysis</article-title>
+          <source>BMJ</source>
+          <year>2020</year>
+          <month>7</month>
+          <day>1</day>
+          <volume>370</volume>
+          <fpage>m2516</fpage>
+          <pub-id pub-id-type="pmid">32611558</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <collab>World health organisation</collab>
+          <article-title>Advice on the use of point-of-care immunodiagnostic tests for COVID-19</article-title>
+          <source>8 April</source>
+          <year>2020</year>
+          <fpage>1</fpage>
+          <lpage>6</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diop</surname>
+              <given-names>BZ</given-names>
+            </name>
+            <name>
+              <surname>Ngom</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pougu&#xE9; Biyong</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Pougu&#xE9; Biyong</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>The relatively young and rural population may limit the spread and severity of COVID-19 in Africa: a modelling study</article-title>
+          <source>BMJ Glob Heal</source>
+          <year>2020</year>
+          <month>5</month>
+          <volume>5</volume>
+          <issue>5</issue>
+          <fpage>e002699</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murewanhema</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Makurumidze</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic? perspectives and recommendations</article-title>
+          <source>Pan African Medical Journal</source>
+          <year>2020</year>
+          <month>8</month>
+          <day>11</day>
+          <fpage>35</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="book">
+          <collab>Center for Global Development</collab>
+          <article-title>Understanding the impact Of COVID-19 on essential medicine supply chains: center for global development</article-title>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Apisarnthanarak</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Apisarnthanarak</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Siripraparat</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Pavarat</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Narakorn</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>David</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Impact of anxiety and fear for COVID-19 toward infection control practices among Thai healthcare workers</article-title>
+          <source>Infect Control Hosp Epidemiol</source>
+          <year>2020</year>
+          <month>9</month>
+          <volume>41</volume>
+          <issue>9</issue>
+          <fpage>1093</fpage>
+          <lpage>1094</lpage>
+          <pub-id pub-id-type="pmid">32507115</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

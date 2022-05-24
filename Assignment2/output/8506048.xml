@@ -1,0 +1,1179 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMJ Glob Health</journal-id>
+      <journal-id journal-id-type="iso-abbrev">BMJ Glob Health</journal-id>
+      <journal-id journal-id-type="hwp">bmjgh</journal-id>
+      <journal-id journal-id-type="publisher-id">bmjgh</journal-id>
+      <journal-title-group>
+        <journal-title>BMJ Global Health</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2059-7908</issn>
+      <publisher>
+        <publisher-name>BMJ Publishing Group</publisher-name>
+        <publisher-loc>BMA House, Tavistock Square, London, WC1H 9JR</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">34635552</article-id>
+      <article-id pub-id-type="pmc">8506048</article-id>
+      <article-id pub-id-type="publisher-id">bmjgh-2021-005988</article-id>
+      <article-id pub-id-type="doi">10.1136/bmjgh-2021-005988</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Research</subject>
+        </subj-group>
+        <subj-group subj-group-type="hwp-journal-coll">
+          <subject>1506</subject>
+          <subject>2474</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The impact of the COVID-19 pandemic on hospital utilisation in Sierra Leone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="author-87888776" contrib-type="author">
+          <name>
+            <surname>Sevalie</surname>
+            <given-names>Stephen</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <xref rid="aff2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib id="author-85258978" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Youkee</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">2</xref>
+          <xref rid="aff3" ref-type="aff">3</xref>
+        </contrib>
+        <contrib id="author-69221682" contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6943-0100</contrib-id>
+          <name>
+            <surname>van Duinen</surname>
+            <given-names>A J</given-names>
+          </name>
+          <xref rid="aff4" ref-type="aff">4</xref>
+          <xref rid="aff5" ref-type="aff">5</xref>
+        </contrib>
+        <contrib id="author-87889257" contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1642-4110</contrib-id>
+          <name>
+            <surname>Bailey</surname>
+            <given-names>Emma</given-names>
+          </name>
+          <xref rid="aff6" ref-type="aff">6</xref>
+        </contrib>
+        <contrib id="author-87889302" contrib-type="author">
+          <name>
+            <surname>Bangura</surname>
+            <given-names>Thaimu</given-names>
+          </name>
+          <xref rid="aff6" ref-type="aff">6</xref>
+        </contrib>
+        <contrib id="author-87889341" contrib-type="author">
+          <name>
+            <surname>Mangipudi</surname>
+            <given-names>Sowmya</given-names>
+          </name>
+          <xref rid="aff6" ref-type="aff">6</xref>
+        </contrib>
+        <contrib id="author-87730124" contrib-type="author">
+          <name>
+            <surname>Mansaray</surname>
+            <given-names>Esther</given-names>
+          </name>
+          <xref rid="aff6" ref-type="aff">6</xref>
+        </contrib>
+        <contrib id="author-87889476" contrib-type="author">
+          <name>
+            <surname>Odland</surname>
+            <given-names>Maria Lisa</given-names>
+          </name>
+          <xref rid="aff7" ref-type="aff">7</xref>
+        </contrib>
+        <contrib id="author-76269093" contrib-type="author">
+          <name>
+            <surname>Parmar</surname>
+            <given-names>Divya</given-names>
+          </name>
+          <xref rid="aff6" ref-type="aff">6</xref>
+        </contrib>
+        <contrib id="author-87889528" contrib-type="author">
+          <name>
+            <surname>Samura</surname>
+            <given-names>Sorie</given-names>
+          </name>
+          <xref rid="aff6" ref-type="aff">6</xref>
+        </contrib>
+        <contrib id="author-87889574" contrib-type="author">
+          <name>
+            <surname>van Delft</surname>
+            <given-names>Diede</given-names>
+          </name>
+          <xref rid="aff8" ref-type="aff">8</xref>
+        </contrib>
+        <contrib id="author-76930210" contrib-type="author">
+          <name>
+            <surname>Wurie</surname>
+            <given-names>Haja</given-names>
+          </name>
+          <xref rid="aff9" ref-type="aff">9</xref>
+        </contrib>
+        <contrib id="author-57160014" contrib-type="author">
+          <name>
+            <surname>Davies</surname>
+            <given-names>Justine I</given-names>
+          </name>
+          <xref rid="aff7" ref-type="aff">7</xref>
+          <xref rid="aff10" ref-type="aff">10</xref>
+        </contrib>
+        <contrib id="author-69221679" contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-9609-4093</contrib-id>
+          <name>
+            <surname>Bolkan</surname>
+            <given-names>H A</given-names>
+          </name>
+          <xref rid="aff4" ref-type="aff">4</xref>
+          <xref rid="aff5" ref-type="aff">5</xref>
+        </contrib>
+        <contrib id="author-46216484" contrib-type="author">
+          <name>
+            <surname>Leather</surname>
+            <given-names>Andrew J M</given-names>
+          </name>
+          <xref rid="aff6" ref-type="aff">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><label>1</label><institution>34th Military Hospital</institution>, <addr-line content-type="city">Wilberforce, Freetown</addr-line>, <country>Sierra Leone</country></aff>
+      <aff id="aff2"><label>2</label><institution content-type="department">Case Management Pillar</institution>, <institution>National COVID-19 Emergency Response Centre</institution>, <addr-line content-type="city">Freetown</addr-line>, <country>Sierra Leone</country></aff>
+      <aff id="aff3"><label>3</label><institution content-type="department">School of Population Health and Environmental Sciences</institution>, <institution>King&#x2019;s College London</institution>, <addr-line content-type="city">London</addr-line>, <country>UK</country></aff>
+      <aff id="aff4"><label>4</label><institution content-type="department">Institute of Clinical and Molecular Medicine</institution>, <institution>Norwegian University of Science and Technology</institution>, <addr-line content-type="city">Trondheim</addr-line>, <country>Norway</country></aff>
+      <aff id="aff5"><label>5</label><institution content-type="department">Department of Surgery</institution>, <institution>St Olavs Hospital University Hospital in Trondheim</institution>, <addr-line content-type="city">Trondheim</addr-line>, <country>Norway</country></aff>
+      <aff id="aff6"><label>6</label><institution content-type="department">King's Centre for Global Health and Health Partnerships</institution>, <institution>King's College London School of Population Health and Environmental Sciences</institution>, <addr-line content-type="city">London</addr-line>, <country>UK</country></aff>
+      <aff id="aff7"><label>7</label><institution content-type="department">Institute of Applied Health Research</institution>, <institution>University of Birmingham</institution>, <addr-line content-type="city">Birmingham</addr-line>, <addr-line content-type="state">Birmingham</addr-line>, <country>UK</country></aff>
+      <aff id="aff8"><label>8</label><institution>Capacare</institution>, <addr-line content-type="city">Freetown</addr-line>, <country>Sierra Leone</country></aff>
+      <aff id="aff9"><label>9</label><institution content-type="department">College of Medicine and Allied Health Sciences</institution>, <institution>University of Sierra Leone</institution>, <addr-line content-type="city">Freetown</addr-line>, <addr-line content-type="state">Western Area</addr-line>, <country>Sierra Leone</country></aff>
+      <aff id="aff10"><label>10</label><institution content-type="department">Centre for Global Surgery, Department of Global Health</institution>, <institution>Stellenbosch University</institution>, <addr-line content-type="city">Stellenbosch</addr-line>, <addr-line content-type="state">Western Cape</addr-line>, <country>South Africa</country></aff>
+      <author-notes>
+        <corresp><label>Correspondence to</label> Dr Daniel Youkee; <email>daniel.youkee@kcl.ac.uk</email></corresp>
+        <fn fn-type="other">
+          <p>SS and DY are joint first authors.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>10</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>11</day>
+        <month>10</month>
+        <year>2021</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>6</volume>
+      <issue>10</issue>
+      <elocation-id>e005988</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>4</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>6</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2021-10-11">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See:&#xA0;<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:title="pdf" xlink:href="bmjgh-2021-005988.pdf"/>
+      <abstract>
+        <sec>
+          <title>Introduction</title>
+          <p>The COVID-19 pandemic has adversely affected health systems in many countries, but little is known about effects on health systems in sub-Saharan Africa. This study examines the effects of COVID-19 on hospital utilisation in a sub-Saharan country, Sierra Leone.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>Mixed-methods study using longitudinal nationwide hospital data (admissions, operations, deliveries and referrals) and qualitative interviews with healthcare workers and patients. Hospital data were compared across quarters (Q) in 2020, with day 1 of Q2 representing the start of the pandemic in Sierra Leone. Admissions are reported in total and disaggregated by sex, service (surgical, medical, maternity and paediatric) and hospital type (government or private non-profit). Referrals in 2020 were compared with 2019 to assess whether any changes were the result of seasonality. Comparisons were performed using Student&#x2019;s t-test. Qualitative data were analysed using thematic analysis.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>From Q1 to Q2, weekly mean hospital admissions decreased by 14.7% (p=0.005). Larger decreases were seen in male 18.8% than female 12.5% admissions. The largest decreases were in surgical admissions, a 49.8% decrease (p&lt;0.001) and medical admissions, a 28.7% decrease (p=0.002). Paediatric and maternity admissions did not significantly change. Total operations decreased by 13.9% (p&lt;0.001), while caesarean sections and facility-based deliveries showed significant increases: 12.7% (p=0.014) and 7.5% (p=0.03), respectively. In Q3, total admissions remained 13.2% lower (p&lt;0.001) than Q1. Mean weekly referrals were lower in Q2 and Q3 of 2020 compared with 2019, suggesting findings were unlikely to be seasonal. Qualitative analysis identified both supply-side factors, prioritisation of essential services, introduction of COVID-19 services and pausing elective care, and demand-side factors, fear of nosocomial infection and financial hardship.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>The study demonstrated a decrease in hospital utilisation during COVID-19, the decrease is less than reported in other countries during COVID-19 and less than reported during the Ebola epidemic.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>COVID-19</kwd>
+        <kwd>viral haemorrhagic fevers</kwd>
+        <kwd>control strategies</kwd>
+        <kwd>health systems</kwd>
+        <kwd>public health</kwd>
+      </kwd-group>
+      <funding-group specific-use="FundRef">
+        <award-group id="funding-1">
+          <funding-source>
+<institution-wrap><institution>National Institute of Health Research</institution></institution-wrap>
+</funding-source>
+          <award-id>GHRU 16/136/54</award-id>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>special-feature</meta-name>
+          <meta-value>unlocked</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <boxed-text id="BX1" position="float">
+      <caption>
+        <title>Key questions</title>
+      </caption>
+      <sec>
+        <title>What is already known?</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>During the Ebola epidemic, Sierra Leone experienced drastic reductions in hospital utilisation that are thought to have led to high mortality.</p>
+          </list-item>
+          <list-item>
+            <p>Reductions in healthcare utilisation have been reported in other countries due to the COVID-19 pandemic; however, little is known about the effects of the pandemic on hospital utilisation in sub-Saharan Africa, including Sierra Leone.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>What are the new findings?</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Hospital utilisation in Sierra Leone decreased modestly during the first wave of the COVID-19 pandemic. Hospital admissions decreased by 14.7% from Q1 to Q2, 2020.</p>
+          </list-item>
+          <list-item>
+            <p>The decrease of 14.7% in hospital admissions from Q1 to Q2, 2020 is less than the 51% decrease in weekly hospital admissions seen in the first year of the Ebola outbreak in Sierra Leone. The decrease of 14.7% compares favourably with the median 28% decrease in admissions reported worldwide during COVID-19.</p>
+          </list-item>
+          <list-item>
+            <p>The largest decreases were seen in adult medical and surgical services; populations covered under the free healthcare act including maternal and child (under 5 years) healthcare were more resilient.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>What do the new findings imply?</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>The modest decrease in hospital utilisation suggests that Sierra Leone health system was able to maintain one of its core functions and that lessons may have been learnt in protecting essential health services during outbreaks.</p>
+          </list-item>
+          <list-item>
+            <p>Similar patterns of decreases in hospital utilisation during COVID-19 and Ebola should inform future preparedness and outbreak response planning.</p>
+          </list-item>
+          <list-item>
+            <p>The greater resilience of maternal and paediatric hospital admissions may be due to their inclusion in the free healthcare initiative and may support the argument for expanding universal health coverage in Sierra Leone.</p>
+          </list-item>
+        </list>
+      </sec>
+    </boxed-text>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>The COVID-19 pandemic is the largest outbreak of an infectious disease in recent history. Sierra Leone reacted quickly to the threat, implementing policies to contain the pandemic. As of 30 March 2021, Sierra Leone had 3970 confirmed cases of COVID-19 and 79 recorded deaths.<xref rid="R1" ref-type="bibr">1</xref> Evidence from past epidemics<xref rid="R2" ref-type="bibr">2</xref> and initial reports from the current pandemic suggest that the greater threat in sub-Saharan Africa (SSA) countries, including Sierra Leone, may well be the indirect effects of COVID-19 on access and delivery of essential health services.<xref rid="R3" ref-type="bibr">3</xref></p>
+      <p>Thus far, there has been limited research on the impact of COVID-19 on essential health services in SSA, including Sierra Leone. A systematic review published in 2021, of the impact of COVID-19 on healthcare utilisation worldwide, found no eligible studies from SSA and only four studies from non-African low-income and middle-income countries.<xref rid="R4" ref-type="bibr">4</xref> In rural South Africa, a single-centre interrupted time series analysis found no significant change in total admissions during 2020 but did find significant changes between subgroups of admissions.<xref rid="R5" ref-type="bibr">5</xref> Hospital-level data from South Africa and Nigeria documented that antenatal visits decreased, whereas evidence was mixed for facility-based deliveries and caesarean sections.<xref rid="R6" ref-type="bibr">6</xref> Interviews of community stakeholders from Kenya and Nigeria found that stakeholders perceived a reduction in access to healthcare during COVID-19 lockdowns; perceived barriers were cost, reduced availability of transport and fear of infection.<xref rid="R7" ref-type="bibr">7</xref> Other articles concerning SSA present either modelled data,<xref rid="R8" ref-type="bibr">8</xref> opinion or recommendations.<xref rid="R9" ref-type="bibr">9</xref></p>
+      <p>Outside of SSA, evidence has shown the impact of the pandemic on all aspects of care.<xref rid="R4" ref-type="bibr">4</xref> For example, Pakistan reported a 52.5% decline in the daily average total number of vaccinations administered during their lockdown compared with baseline.<xref rid="R10" ref-type="bibr">10</xref> A prospective observational study from Nepal reported facility-based deliveries reduced by 51.4 %, with a corresponding increase in maternal and infant mortality.<xref rid="R11" ref-type="bibr">11</xref> A nationwide study in China found that total healthcare expenditure and utilisation declined by 37.8% and 40.8%, respectively, during the worst phase of the outbreak.<xref rid="R12" ref-type="bibr">12</xref> The impact of the pandemic on surgical services is indicated in an expert elicitation exercise involving 190 countries. It was estimated that 2&#x2009;367&#x2009;050 operations were cancelled per week during the 12 weeks of maximum COVID-related disruption in 2020.<xref rid="R13" ref-type="bibr">13</xref> Others have found similar reductions in surgical activity.<xref rid="R14" ref-type="bibr">14</xref></p>
+      <p>Sierra Leone has recent experience of the impact of a viral pandemic on essential health services. The 2013&#x2013;2016 Ebola epidemic caused a significant decline in both supply of, and demand for, essential health services in the region.<xref rid="R2" ref-type="bibr">2 15</xref> In Sierra Leone, a nationwide study demonstrated a 50% median reduction in inpatient admissions and a 41% median reduction in major operations performed during the Ebola epidemic compared with before.<xref rid="R16" ref-type="bibr">16</xref> However, some services showed resilience, for example, caesarean deliveries increased in government hospitals, likely absorbing the effect of private hospital closures. A systematic review found that the largest decreases were seen for inpatient care and deliveries.<xref rid="R15" ref-type="bibr">15</xref> The impact of Ebola on healthcare utilisation in Sierra Leone has been well studied and provides a useful comparator to the impact of COVID-19. Through comparison of hospital utilisation between the two outbreaks, we can gain insights into health system resilience.<xref rid="R17" ref-type="bibr">17</xref> Resilience has been defined as &#x2018;<italic toggle="yes">the capacity of health actors, institutions, and populations to prepare for and effectively respond to crises; maintain core functions when a crisis hits; and, informed by lessons learned during the crisis, reorganise if conditions require it</italic>&#x2019;.</p>
+      <p>In our study, we aimed to determine the effects of the first wave of the COVID-19 pandemic on a key function of the health system by observing hospital admissions, surgical activity and referral data from secondary and tertiary hospitals in Sierra Leone. We used qualitative method to understand the adaptive planned system response to the epidemic and how it affected supply of hospital services and changes in health-seeking behaviour that affected demand for hospital services. We describe the response to the crisis and where lessons and structures from Ebola supported a more effective response, in addition to the unplanned service disruptions and system reorganisations that occurred.</p>
+      <sec id="s1-1">
+        <title>Sierra Leone context</title>
+        <p>Sierra Leone has 14 district and regional governmental hospitals providing secondary care and four tertiary referral hospitals, all based in the Western Area Urban District. Sierra Leone introduced the Free Health Care Initiative (FHCI) in 2010.<xref rid="R18" ref-type="bibr">18</xref> Under the FHCI, consultation fees, medicines and medical supplies are all exempted for pregnant and lactating mothers and under 5s at governmental hospitals.<xref rid="R19" ref-type="bibr">19</xref></p>
+        <p>The first COVID-19 case in Sierra Leone was recorded on the 30 March 2020 (<xref rid="F1" ref-type="fig">figure 1</xref>). Cases increased to a peak in June 2020 before steadily declining. Public health measures introduced in Sierra Leone were less strict than other Sub Saharan African countries.<xref rid="R20" ref-type="bibr">20</xref> There were two 3-day national lockdowns between 5&#x2013;7 April and 3&#x2013;5 May 2020. Advice regarding social distancing and handwashing was widely disseminated, and mass gatherings, including religious ceremonies, were banned until further notice. Schools and colleges were closed, but shops and businesses remained open. A mandatory mask-wearing policy was introduced on 6 July 2020. From 14 April to 4 July, there was a ban on interdistrict travel. From 22 March to 22 July 2020, international commercial air travel was suspended. These measures were reviewed and revised as the outbreak evolved in Sierra Leone.</p>
+        <fig position="float" id="F1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Daily COVID-19 cases in Sierra Leone, 2020.</p>
+          </caption>
+          <graphic xlink:href="bmjgh-2021-005988f01" position="float"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="methods" id="s2">
+      <title>Methods</title>
+      <p>We performed a mixed-methods study consisting of a retrospective study of nationwide hospital admissions, operations and deliveries; a secondary analysis of prospectively collected nationwide referral data and a qualitative study using interviews with healthcare workers and patients from two districts.</p>
+      <p>Hospital data were collected from 1 January 2020 to 30 September 2020 by trained surgical assistant community health officers. The list of hospitals providing surgical services was sourced from a previous mapping study.<xref rid="R21" ref-type="bibr">21</xref> Facilities that did not consent to data collection and facilities with known very low surgical volumes were excluded. Data were collected from the hospital admission book, the operation theatre book and the maternity ward book. Variables collected reflected the number of inpatient admissions, hospital deliveries and total number of operations performed in the operating theatre. Data were also collected on the number of caesarean sections and elective hernia operations as a proxy for emergency or elective surgical care provision, respectively.</p>
+      <p>Nationwide referral data were accessed from the National Referral Service database at secondary and tertiary hospitals, from 1 January 2019 to 30 September 2020. These data on patients received at destination facilities from another facility are recorded by referral coordinators (RCs) based at each hospital onto a standardised paper case report form and then transcribed into an EpiInfo datasheet. Data were extracted from this datasheet on the number of daily referrals to secondary or tertiary facilities. Data on admissions were not available for 2019; therefore, the availability of referral data across 2&#x2009;years allowed us to assess if any changes in admission data were due to seasonal variation. Neither hospital admission data nor referral data include information on COVID-19 admissions.</p>
+      <p>The primary outcome was the total number of admissions. Secondary outcomes included the number of hospital admissions disaggregated by sex, service (surgical, medical, maternity and paediatric) and hospital type (government or private non-profit). Other secondary outcomes were the total number of facility-based deliveries, operations, caesarean sections and elective hernia operations, and the total number of referrals.</p>
+      <p>Referrals and admissions to facilities per week are described as a count shown graphically. The first COVID-19 case occurred on 30 March 2020,<xref rid="R2" ref-type="bibr">2</xref> enabling a comparison of mean numbers of weekly admissions, operations, deliveries and referrals occurring in the first quarter (Q1) with those in the second (Q2) or third quarter (Q3) of the year. Differences between quarters are shown as a percentage. The average number of referrals per week in each quarter was compared between 2019 and 2020 using RC data. Comparisons were done using Student&#x2019;s t-test and 95% CI calculated. Statistical analysis was performed in STATA V.16, StataCorp, SPSS and Microsoft Excel.</p>
+      <p>Qualitative data were collected between October and December 2020, after the preliminary analysis of the hospital data was available. The study took an <italic toggle="yes">explanatory sequential design approach</italic> where the qualitative study was used to explain the preliminary quantitative findings, that is, explanations for changes in service use and health seeking behaviour during the COVID-19 pandemic. The staff interviews asked questions on changes in service provision, staff roles and availability, and finances of health facilities due to COVID-19, while the patient interviews asked questions on their experience of accessing health services during the pandemic.</p>
+      <p>We selected one urban and one rural district for data collection: Western Area Urban and Bo. Districts were identified in consultation with the local researchers and by considering travel restrictions and safety of data collectors. In Western Area Urban, we selected three facilities: one tertiary and secondary hospital and a primary health unit (PHU), and in Bo, we selected two facilities: one secondary hospital and a PHU. There is no tertiary hospital in Bo. As there are several PHUs in each district, we selected the one with the highest case volume as per the latest Service Availability and Readiness Assessment 2017.<xref rid="R22" ref-type="bibr">22</xref> In each facility, two health staff and one adult patient were interviewed. In the Bo secondary and the tertiary hospitals, an additional senior staff member was also interviewed who had a more district-wide perspective. In total, 12 staff (two doctors, two surgeons, three matrons, one nurse, one midwife, two senior managers, one maternal and child health aid; six female and six male) and five adult patients (three female and two male) were interviewed in person.</p>
+      <p>The staff were identified by the head of the facility, depending on their availability and as far as possible, staff from the surgical or maternity wards and those involved in the management of the facility were interviewed. The staff in maternity and surgical wards approached the patients and if they agreed to be interviewed, they were interviewed later at their home or a convenient location. Interviews were conducted by two experienced research assistants (RAs). The RAs had received a 2-day training consisting of mock interviews, transcription training and a pilot interview. All respondents provided signed consent.</p>
+      <p>Interviews were 45&#x2013;60&#x2009;min long, audio-recorded and conducted in English or Krio; Krio interviews were translated to English during transcription by the RAs. We used thematic analysis using a hybrid of deductive and inductive approaches.<xref rid="R20" ref-type="bibr">20</xref> The deductive approach used codes determined from the quantitative analysis, while the inductive approach identified new themes from the qualitative analysis. The analysis was conducted in NVivo V.12. We were able to reach saturation as the last few interviews were not revealing new information.</p>
+      <p>Patients and the public were not involved in the design, or conduct, of our research.</p>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <p>A total of 60 hospitals were identified that performed surgery in Sierra Leone in 2017 (<xref rid="F2" ref-type="fig">figure 2</xref>), 20 of those were small private for-profit facilities with very low surgical volume and were not considered for inclusion in the current study<xref rid="R21" ref-type="bibr">21</xref> (<xref rid="SP1" ref-type="supplementary-material">online supplemental table 1</xref>). Out of the 40 eligible hospitals, including 19 governmental and 21 private non-profit, we obtained consent for data collection from 32 (80%), their geographic location and sector is described in <xref rid="T1" ref-type="table">table 1</xref>. In 2017, these 32 included hospitals performed 87.1% of the nationwide surgical volume.<xref rid="R21" ref-type="bibr">21</xref></p>
+      <supplementary-material id="SP1" position="float" content-type="local-data">
+        <object-id pub-id-type="doi">10.1136/bmjgh-2021-005988.supp1</object-id>
+        <label>Supplementary data</label>
+        <p>
+<inline-supplementary-material id="SS1" xlink:href="bmjgh-2021-005988supp001.pdf" content-type="local-data"/>
+</p>
+      </supplementary-material>
+      <fig position="float" id="F2">
+        <label>Figure 2</label>
+        <caption>
+          <p>Hospital inclusion flow chart. *Hospitals identified as providing surgery during 2017 mapping surgical activity in Sierra Leone.<xref rid="R21" ref-type="bibr">21</xref></p>
+        </caption>
+        <graphic xlink:href="bmjgh-2021-005988f02" position="float"/>
+      </fig>
+      <table-wrap position="float" id="T1">
+        <label>Table 1</label>
+        <caption>
+          <p>Hospital characteristics</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td align="left" valign="bottom" rowspan="2" colspan="1"/>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">Eligible hospitals*</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">Included</td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">N</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">n (%)</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Region</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Eastern Province</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">7</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5 (71)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;North West Province</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">5</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">5 (100)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Northern Province</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">8</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">7 (88)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Southern Province</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">9</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">8 (89)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Western Area</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">11</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">7 (64)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Sector</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Governmental</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">19</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">16 (84)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Private non-profit</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">21</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">16 (76)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Total</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">40</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">32 (80)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="T1_FN1">
+            <p>*Governmental and private non-profit hospitals identified as providing surgery during 2017 mapping surgical activity in Sierra Leone.<xref rid="R21" ref-type="bibr">21</xref></p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>Mean weekly hospital admissions in each quarter are shown in <xref rid="T2" ref-type="table">table 2</xref>. From Q1 to Q2, there was a statistically significant decrease in nationwide mean weekly admissions from 2160 to 1842, a 14.7% decrease (p=0.005) (<xref rid="F3" ref-type="fig">figure 3A</xref>). Male admissions reduced from 753 to 611, a 18.8% decrease (p=0.004), and female admissions reduced from 1407 to 1231, a 12.5% decrease (p=0.009). Total mean weekly admissions remained low in Q3 compared with Q1, from 2160 to 1876, a 13.2% decrease (p&lt;0.001). We found no significant recovery in Q3 compared with Q2, with total admissions Q3 to Q2, showing a 1.8% increase (p=0.715).</p>
+      <table-wrap position="float" id="T2">
+        <label>Table 2</label>
+        <caption>
+          <p>Nationwide mean weekly admissions in Sierra Leone, Q1&#x2013;Q3 2020</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td align="left" valign="bottom" rowspan="2" colspan="1"/>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">Q1</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="3">Q2</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="3">Q3</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="2">Q2&#x2013;Q3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">Mean (95%&#x2009;CI)</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">Mean (95%&#x2009;CI)</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">Q1&#x2013;Q2 Change %</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">P value*</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">Mean (95%&#x2009;CI)</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">Q1&#x2013;Q3 Change %</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">P value*</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">Q2&#x2013;Q3 Change %</td>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">P value*</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Total admissions</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">2160 (2039 to 2280)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1842 (1659 to 2026)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;14.7</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.005</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1876 (1804 to 1947)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;13.2</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.715</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Admission by sex</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Male</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">753 (703 to 803)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">611 (531 to 691)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;18.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.004</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">675 (633 to 717)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;10.3</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.015</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">10.4</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.138</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Female</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1407 (1325 to 1489)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1231 (1125 to 1337)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;12.5</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.009</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1201 (1166 to 1235)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;14.7</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;2.5</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.558</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Admissions by ward</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Paediatrics</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">680 (624 to 737)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">657 (560 to 754)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;3.5</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.659</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">618 (574 to 662)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;9.2</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.067</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;5.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.435</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Maternity</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">717 (688 to 745)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">701 (665 to 736)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;2.2</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.453</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">632 (615 to 650)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;11.7</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;9.7</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Surgical</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">285 (262 to 308)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">143 (133 to 153)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;49.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">214 (200 to 229)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;24.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">49.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Medical</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">412 (375 to 449)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">294 (234 to 354)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;28.7</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.002</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">346 (323 to 369)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;16.1</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.003</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">17.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.090</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Unknown</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">63 (54 to 72)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">43 (39 to 48)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;31.0</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">64 (58 to 70)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.817</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">47.6</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Admissions by sector</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Governmental hospitals</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1475 (1400 to 1550)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1285 (1178 to 1392)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;12.9</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.005</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1300 (1260 to 1339)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;11.9</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">1.1</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.784</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Private non-profit</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">685 (628 to 742)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">557 (471 to 643)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;18.6</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.014</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">576 (535 to 617)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;15.9</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.002</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">3.4</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.670</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Operations and deliveries</td>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+              <td align="left" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Total operations</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">486 (461 to 512)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">418 (402 to 435)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;13.9</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">477 (458 to 496)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;1.9</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.526</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">14.0</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Hernia repairs</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">74 (60 to 87)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">29 (25 to 33)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;60.7</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">58 (51 to 65)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;21.0</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.030</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">100.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Caesarean sections</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">192 (175 to 210)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">216 (206 to 227)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">12.7</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.014</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">208 (199 to 218)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">8.4</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.083</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;3.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">0.214</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;Deliveries</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">435 (409 to 460)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">467 (448 to 486)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">7.5</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.033</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">388 (364 to 411)</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;10.8</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>0.007</bold>
+</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">&#x2212;17.0</td>
+              <td align="char" char="." rowspan="1" valign="top" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="T2_FN1">
+            <p>Q1=2020 weeks 2&#x2013;13; Q2=2020 weeks 14&#x2013;26; Q3=2020 weeks 27&#x2013;39.</p>
+          </fn>
+          <fn id="T2_FN2">
+            <p>*Student&#x2019;s t-test.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <fig position="float" id="F3">
+        <label>Figure 3</label>
+        <caption>
+          <p>(A) Nationwide mean weekly admissions, disaggregated by sex, overlaid COVID-19 cases, Q1&#x2013;Q3 2020. (B) Nationwide mean weekly admissions by ward, overlaid COVID-19 cases, Q1&#x2013;Q3 2020. (C) Nationwide mean weekly admissions by hospital service, overlaid COVID-19 cases, Q1&#x2013;Q3 2020. (D) Nationwide mean weekly total operations, caesarean sections, hernia repairs and facility-based deliveries, overlaid COVID-19 cases, Q1&#x2013;Q3 2020.</p>
+        </caption>
+        <graphic xlink:href="bmjgh-2021-005988f03" position="float"/>
+      </fig>
+      <p>From Q1 to Q2 2020 (<xref rid="F3" ref-type="fig">figure 3B</xref>), mean weekly admissions for surgery decreased from 285 to 143, a 49.8% decrease (p&lt;0.001), and medical admissions decreased from 412 to 294, a 28.7% decrease (p=0.002). Paediatric and maternity admissions did not show a significant change from Q1 to Q2.</p>
+      <p>In Q3, surgical and medical admissions remained significantly lower than Q1 but with signs of recovery comparing Q3 with Q2 with a 49.8% increase in surgical admissions (p&lt;0.001) and 17.8% increase (p&lt;0.090) in medical admissions. In Q3, maternity services saw a significant decrease compared with Q1, 717 to 632, &#x2212;11.7% (p&lt;0.001). The reduction in admissions was seen in both the government 12.9% and the private non-profit sector 18.6% in Q2, and in Q3, 11.9% and 15.9%, respectively, compared with Q1 (<xref rid="F3" ref-type="fig">figure 3C</xref>).</p>
+      <p>From Q1 to Q2, total operations decreased from a weekly mean of 486 to 418, a 13.9% decrease (p&lt;0.001) (<xref rid="F3" ref-type="fig">figure 3D</xref>). Hernia repairs, fell from 74 to 29, a 60.7% decrease (p&lt;0.001). In contrast, caesarean sections and facility-based deliveries showed significant increases, 192 to 216, a 12.7% increase (p=0.014) and 435 to 467, a 7.5% increase (p=0.033). In Q3, 477 total operations were performed, demonstrating no significant difference from Q1 486 (p=0.526), this was through a recovery in hernia repairs, with a 100% increase in hernia repairs from Q2 to Q3. Caesarean sections were maintained in Q3 with no significant change. However, facility-based deliveries decreased from 435 in Q1 to 388 in Q3, a 10.8% decrease (p=0.007).</p>
+      <p>The mean number of referrals per week in Q2 in 2020 was 538 compared with 575 in Q2 in 2019 (p=0.151) (<xref rid="F4" ref-type="fig">figure 4</xref>). In Q3, the mean number of referrals was significantly lower in 2020 (419) compared with 2019 (530) (p&lt;0.001).</p>
+      <fig position="float" id="F4">
+        <label>Figure 4</label>
+        <caption>
+          <p>Weekly count of nationwide referrals 2019 and 2020. *The green dotted line represents the start-up phase of the referral coordinator system in 2019.</p>
+        </caption>
+        <graphic xlink:href="bmjgh-2021-005988f04" position="float"/>
+      </fig>
+      <sec id="s3-1">
+        <title>Factors influencing the provision and demand for hospital utilisation</title>
+        <p>From the qualitative analysis, we identified three main themes: adaptive service reconfiguration, unplanned changes and changes in health seeking behaviour. The first two themes relate to supply-side changes in hospital service provision, while the last theme relates to changes in the demand for health services (<xref rid="T3" ref-type="table">table 3</xref>).</p>
+        <table-wrap position="float" id="T3">
+          <label>Table 3</label>
+          <caption>
+            <p>Themes and subthemes from the qualitative analysis</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Themes</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Subthemes</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Adaptive service reconfiguration</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Prioritisation of emergency and essential services</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Reduction in non-essential services.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">COVID-19 infection control measures.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Unplanned service disruptions</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Delays in treating patients</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Increase in staff workload.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Unmanageable triage system.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Changes in health-seeking behaviour</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Fear among patients.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Increase in out-of-pocket expenses.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Loss in income.</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="s3-2">
+        <title>Supply-side changes in hospital service provision</title>
+        <sec id="s3-2-1">
+          <title>Adaptive service reconfiguration</title>
+          <p>The health system response included adaptive service reconfigurations, which were planned changes. Initially, and at the height of the pandemic, there was a planned <italic toggle="yes">prioritisation of emergency and essential services</italic> when only emergency surgeries and essential services such as maternal care and childcare were available, while putting on hold all non-essential services including elective surgery.</p>
+          <disp-quote>
+            <p>At the height of the COVID-19, everyone was afraid. So only emergency patients were operated on in the surgical department. All elective cases were put on hold&#x2026; Now we are relaxing those restrictions. (Doctor)</p>
+            <p>We didn&#x2019;t reduce (staff) or add but the (staff) rooster was changed. (Maternity Ward Matron)</p>
+          </disp-quote>
+          <p>These adaptive changes aimed to prioritise limited resources as well as to limit COVID-19 exposure to non-COVID-19 patients. Several <italic toggle="yes">COVID-19 infection control measures</italic> were undertaken. There was a reduction in bed capacity that aimed to reduce the number of non-COVID-19 patients in the facility and enable social distancing measures and introduction of COVID-19 triage and isolation units for suspected cases. The measures aimed to identify COVID-19 positive patients and reduce nosocomial infection.</p>
+          <disp-quote>
+            <p>The spacing of the patients&#x2019; bed in the ward. Beds were reduced. Yes, because COVID-19 doesn&#x2019;t favour crowded places. So, beds were being reduced to keep patients apart. (Doctor)</p>
+            <p>At the laboratory we have a COVID-19 response team, that does the testing of our patients and the team comes every day for surveillance to check our patients, to take samples, send them to the lab and the lab communicates with the central team and gives us early results of the test. (Surgeon)</p>
+          </disp-quote>
+        </sec>
+        <sec id="s3-2-2">
+          <title>Unplanned service disruptions</title>
+          <p>Along with the planned changes, there were unplanned service disruptions that affected the provision of services. The triage system that was introduced to identify and isolate COVID-19 cases caused <italic toggle="yes">delays in treating patients</italic>.</p>
+          <disp-quote>
+            <p>Suspected cases based on the symptoms &#x2026; go to the IDU (Infectious Diseases Unit). That&#x2019;s when they do the test&#x2026; the delay doesn&#x2019;t really happen at triage. I think, where they move the patient to the IDU, the isolation unit, that (is) where the delay is because we don&#x2019;t take the samples early and we don&#x2019;t see the result early enough. (Doctor)</p>
+          </disp-quote>
+          <p>Unplanned disruptions such as closures of other health facilities also led to an <italic toggle="yes">increase in staff workload</italic>.</p>
+          <disp-quote>
+            <p>(patient numbers) increased. The reason why it increased, we had a positive case at (nearby facility) in the maternity section. So, they closed the theatre and all (services), patients come here now&#x2026; so, instead of (patients) reducing, it increased&#x2026; it was too hard, it was overwhelming. (Maternity ward matron)</p>
+          </disp-quote>
+          <p>Services that were introduced to control COVID-19 infections such as the <italic toggle="yes">triage system became unmanageable</italic> when the service provision was getting back to normalcy.</p>
+          <disp-quote>
+            <p>The workload increased to an extent that we stopped doing tests. At the beginning, we say every patient that comes, whether it emergency or not, we have to do COVID-19 test. But later, we stopped doing COVID-19 tests for emergency cases because the workload is too much. Waiting for 2 or 3&#x2009;days, the patient will die. (Surgeon)</p>
+          </disp-quote>
+        </sec>
+        <sec id="s3-2-3">
+          <title>Changes in health-seeking behaviour</title>
+          <p>Beyond the supply-side factors, the reduction in utilisation of non-COVID-19 services in the initial phase of the outbreak was also because of changes in health-seeking behaviour. There was <italic toggle="yes">fear among patients</italic> who were reluctant to come to health facilities for non-emergency care.</p>
+          <disp-quote>
+            <p>&#x2026; peak that we heard about every day, the increase in number of death. Of cause the death was low but the number of affected people was increasing so that was making everyone scared&#x2026;you wouldn&#x2019;t know who (will become) sick. So, if the government said we should sit, let us sit&#x2026; (Patient)</p>
+            <p>The influx of patients at the initial stage of the outbreak, dropped. This was because people were afraid to come to the health facility&#x2026; So that was what led to the low turnout of patients. (Deputy in-charge/surgeon)</p>
+          </disp-quote>
+          <p>Patients also experienced an <italic toggle="yes">increase in out-of-pocket expenses</italic>. The lack of public transport and the higher cost of private transport made it difficult for people to reach health facilities.</p>
+          <disp-quote>
+            <p>Well, there was no transportation, especially in district lockdown, transportation was costly, and the people with money travels only&#x2026; The transport fare from here (home) to (tertiary hospital), they (private taxis) were asking for le 150&#x2009;000. Can you imagine? &#x2026; and (no public transport) so the private vehicles that were going&#x2026; So, transportation was a serious problem. (Patient)</p>
+          </disp-quote>
+          <p>Many people also <italic toggle="yes">lost their incomes</italic> during the pandemic, and this made it even more difficult for them to access health services.</p>
+          <disp-quote>
+            <p>So now because of the COVID-19, (transportation fee has become) le3000 [instead of the usual le1500] &#x2026; the cost of living is getting higher, more especially the things they are selling, rice and other commodities&#x2026; I was working but due to the corona, I lost my job, all of us. Since corona, things have not been easy&#x2026; business too is not easy&#x2026; the hardship&#x2026; my brothers who were working, are not working anymore. (Patient)</p>
+          </disp-quote>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>Using nationwide data, we report a significant decrease in hospital admissions after the first COVID-19 case was reported in Sierra Leone, with the decrease continuing into Q3 of 2020. As observed during the Ebola epidemic,<xref rid="R16" ref-type="bibr">16</xref> reductions in hospital utilisation were not equally distributed across patient groups, services and sectors. Adult medical and surgical wards saw the largest decreases, maternal admissions were maintained in Q2 but decreased in Q3, and paediatric admissions showed no significant change throughout the study period. Our findings of a significant reduction in referrals to hospital between Q2 and Q3 in 2020 compared with 2019 suggest that the effects that we show on hospital admissions are unlikely to be seasonal; however, we cannot discount seasonality as a contributing factor to our findings.</p>
+      <p>The decreases in hospital admissions are lower than reported in Sierra Leone during Ebola. During the first year of the Ebola epidemic, weekly hospital admissions decreased by 51%,<xref rid="R16" ref-type="bibr">16</xref> compared with decreases of 14.7% (Q1&#x2013;Q2) and 13.2% (Q1&#x2013;Q3) in our study. The decreases are also lower than the median decrease in admissions of 28.4% (17.4%&#x2013;40.4%) from 43 studies in a recent worldwide systematic review.<xref rid="R4" ref-type="bibr">4</xref> We observed similar patterns of change in hospital utilisation to those found during Ebola. From Q1 to Q2, we observed larger decreases in male admissions &#x2212;18.8% compared with &#x2212;12.5% in female admissions versus 55% to 50% during Ebola.<xref rid="R16" ref-type="bibr">16</xref> We observed larger decreases in admissions at private non-profit hospitals &#x2212;18.6% compared with &#x2212;12.9% at government hospitals vs &#x2212;60% and &#x2212;45% during Ebola.<xref rid="R16" ref-type="bibr">16</xref> Total operations decreased from Q1 to Q2, with large decreases in hernia operations and the maintenance of caesarean sections similar to Ebola.<xref rid="R16" ref-type="bibr">16</xref> In contrast to findings from Ebola, we found no significant change in paediatric admissions,<xref rid="R2" ref-type="bibr">2</xref> which may be due to the relatively low child mortality of COVID-19 compared with Ebola.<xref rid="R23" ref-type="bibr">23</xref> Overall, the decreases in utilisation are lower than current reports on COVID-19 indirect effects in other countries<xref rid="R4" ref-type="bibr">4</xref> and modelled projections.<xref rid="R8" ref-type="bibr">8</xref></p>
+      <p>We seek to explain the causal mechanisms of the reductions in hospital utilisation. Decreases in hospital utilisation might be a result of: (A) adaptive, planned health service reconfigurations; (B) unplanned service disruption; or (C) changes in health-seeking behaviour.</p>
+      <p>Planned adaptive service reconfiguration is a deliberate calculated process that anticipates the threat to the health system and adapts to mitigate the threat. A number of planned adaptive health system reconfigurations were made throughout the first 6&#x2009;months of the response, leveraging knowledge and experience from the Ebola epidemic. Preparedness plans, policy, ambulance services, coordination, and command and control structures were all rapidly established and modelled on previous Ebola response models.<xref rid="R24" ref-type="bibr">24</xref> A National COVID-19 Emergency Response Centre was set up, and the response was cascaded to the districts via District COVID-19 Emergency Response Centres. Social mobilisation and community-based action groups, which were vital in responding to the Ebola epidemic, were reactivated. Cognizant of the previous indirect effects of Ebola on broader health outcomes, the overarching strategic aim of the response was &#x2018;<italic toggle="yes">saving lives and saving livelihoods</italic>&#x2019;. Accordingly, the response incorporated the maintenance of non-COVID-19 essential health services as a core objective, a clear lesson learnt from Ebola. To decrease fears of nosocomial transmission, COVID-19 care facilities were clearly delineated from non-COVID care. Case definition-based screening at the front gate of hospitals with linkage to hospital isolation units provided further delineation between COVID-19 and non-COVID-19 care. Specific ambulances were dedicated solely for COVID-19 and the rest of the fleet maintained for essential health services.<xref rid="R25" ref-type="bibr">25</xref> Rapid expansion of COVID-19 treatment beds was achieved by converting existing hospital spaces into safe treatment and isolation centres, using pre-existing infrastructure and staff and modelled on a previous Ebola response model.<xref rid="R26" ref-type="bibr">26</xref> The response also differed from the Ebola response in that COVID-19 treatment centres were all located at government hospitals, as opposed to temporary Non Governmental Organisations (NGO) separate facilities. We believe this distinction prevented the migration of healthcare workers, retaining them at government facilities where they could fulfil a dual role of delivering COVID-19 and other essential health services. However, this approach of converting normal hospital wards may have also decreased bed capacity for non-COVID-19 care. Healthcare worker incentives for COVID-19 response were also calibrated in an attempt to prevent the pull of healthcare workers away from their normal roles in providing essential services. Additionally, to motivate and engender trust, the health workforce was proactively engaged and trained in case management and infection prevention and control,<xref rid="R27" ref-type="bibr">27</xref> and a health and life insurance scheme was introduced for all government healthcare workers. This planned adaptive health system response may have resulted in minimising the indirect effects on healthcare supply compared with the Ebola epidemic.</p>
+      <p>The first case management guidelines were published in April 2020 in Sierra Leone. As in many countries, the original policy was to postpone all elective surgery<xref rid="R14" ref-type="bibr">14</xref> to create extra bed capacity and reduce opportunities for nosocomial transmission. This policy may be partially responsible for the decreased number of elective hernia operations in Q2. Hospitals initially adopted policies of requiring patients to have a negative COVID-19 test before all surgery, with the exception of caesarean sections. Our qualitative results show that delays in collecting and receiving test results were a significant disincentive for patients and providers to operate, as was seen during Ebola.<xref rid="R28" ref-type="bibr">28</xref> In anticipation of the first wave of COVID-19, medical superintendents were instructed to create spare bed capacity to deal with the expected incoming surge of COVID-19 patients. This may have led to hospitals imposing stricter admission criteria, reducing the number of both medical and surgical admissions in Q2.</p>
+      <p>Unplanned services disruption can occur due to health worker infections, industrial actions among health workers, or emergent, unintended consequences of outbreak response interventions or policy. Examples of unplanned service disruption that Sierra Leone has witnessed during the current COVID-19 pandemic include the closure of hospitals, staff infections or quarantine and healthcare worker strikes.<xref rid="R29" ref-type="bibr">29</xref> In particular, the lack of nuance in applying contact tracing and quarantine procedures for essential healthcare workers at the beginning of the response caused significant unplanned service disruption, leading to closure of hospitals and operating theatres.<xref rid="R29" ref-type="bibr">29</xref> Later, the response developed specific guidance on healthcare worker quarantine and guidance on contact tracing in hospitals that largely averted further hospital closures. A doctors&#x2019; strike in July 2020, over delayed payment of COVID-19 incentives, may have affected service delivery. While the strike was focused on COVID-19 care delivery at hospital isolation centres, this widely publicised announcement we believe may have had greater knock-on effects for care-seeking for essential health services. A newly established National Referral Service may have mitigated some of these effects, diverting patients to functioning hospitals, facilitated through real-time availability of bed capacity across the system. The closure of private for-profit hospitals may explain the rise of facility-based deliveries and caesarean sections in Q2 as these services were displaced from the private for-profit sector into governmental hospitals. A similar trend was seen during Ebola, where a 43% decrease in weekly median caesarean deliveries was seen in the private sector, mirrored by an increase of 45% in the government sector.<xref rid="R16" ref-type="bibr">16</xref></p>
+      <p>Changes in hospital utilisation can occur via changes in health-seeking behaviour. We posit that decreases in hospital utilisation are related to the perceived size of the threat. Patients and communities in Sierra Leone actively engage in risk benefit decision making during infectious disease outbreaks.<xref rid="R30" ref-type="bibr">30</xref> During the Ebola outbreak, healthcare facilities were correctly identified by patients as &#x2018;hotspots&#x2019; for disease transmission,<xref rid="R31" ref-type="bibr">31</xref> and this was a major driver behind decreased hospital utilisation. In our qualitative study, we also find that during COVID-19, patients were reluctant to visit health facilities, particularly large tertiary centres, for this reason. In March 2020, before the virus had arrived in Sierra Leone, a nationwide survey demonstrated high awareness of COVID-19 among the public and the perception of it as a life threatening disease.<xref rid="R32" ref-type="bibr">32</xref> One of our patient respondents, &#x2018;<italic toggle="yes">&#x2026;(the) peak that we heard about every day, the increase in number of death. Of cause the death was low but the number of affected people was increasing so that was making everyone scared</italic>&#x2019;. As the outbreak progressed, and unlike Ebola, COVID-19 control measures were introduced promptly, and the number of cases and reported case fatality remained low.<xref rid="R1" ref-type="bibr">1</xref> Our qualitative interviews suggest that public perception shifted from initial fear and perception that COVID-19 was a fatal infection to less concern and perception of COVID-19 as a mild self-limiting infection. These perceptions were naturally informed by Sierra Leone&#x2019;s previous experience with Ebola, and patients and healthcare workers commented on the high case fatality of Ebola compared with COVID-19 during the interviews. We believe this shift in perception of the lethality of COVID-19 as case fatality remained low at 2.8%, alongside seemingly low case numbers, may have contributed to an increase in health seeking and hospital utilisation in Q3.</p>
+      <p>Case fatality rate for COVID-19 must also be weighed against other health threats in Sierra Leone. When compared with an under-5 mortality rate of 12.2% and a maternal mortality rate of 0.7%,<xref rid="R33" ref-type="bibr">33</xref> the risk of contracting COVID-19 when visiting a health facility may be outweighed by the risk of not seeking care.<xref rid="R28" ref-type="bibr">28</xref></p>
+      <p>Financial barriers are some of the principal barriers to accessing care in Sierra Leone, especially among the non-free healthcare population.<xref rid="R34" ref-type="bibr">34</xref> During the epidemic, people suffered income losses along with a steep rise in transport costs, further increasing the financial barriers to accessing healthcare.<xref rid="R35" ref-type="bibr">35</xref> This could explain why adult medical and surgical admissions that require more out of pocket expenditure saw reductions, while services provided under the Free Healthcare Initiative<xref rid="R19" ref-type="bibr">19</xref> such as caesarean deliveries were resilient. Furthermore, as the National Emergency Medical Service ambulance system<xref rid="R25" ref-type="bibr">25</xref> is primarily intended for paediatric and maternal cases, which were unaffected from Q1 to Q2, it is possible that the protective effect of the free prehospital transport system maintained access for these populations.</p>
+      <sec id="s4-1">
+        <title>Limitations</title>
+        <p>Our data collectors endeavoured to collect complete admissions data and triangulated with other sources of data in the hospital. However, it is still possible that not all admissions were recorded or that operations or deliveries could have been missed. Despite efforts from our data collection team, we were unable to collect reliable admission data for 2019. The absence of admission and surgical activity data from 2019 makes it difficult to assess and adjust for seasonality in our results. We have attempted to account for seasonality and triangulate our data by using the National Referral Database; however, it should be noted that these are two distinct data sources. For our quantitative work, we chose to use a sampling method, including a list of hospitals from 2017, used in similar hospital utilisation studies during Ebola to enable comparisons with the Ebola period. However, a limitation of this is that there may be some newer hospitals not included in our study. Our admission data also do not include the largest paediatric hospital in the country, as it does not perform surgery, which was severely affected by unplanned service disruption. Qualitative data examined health-seeking behaviour, but since we interviewed only those people who sought care, we miss experiences of people who did not seek care and who are also more likely to have faced greater barriers. Our study only analyses hospital level data, and further research should evaluate primary healthcare utilisation.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="s5">
+      <title>Conclusion</title>
+      <p>Our study demonstrates a decrease in hospital utilisation coinciding with the onset of the COVID-19 pandemic in Sierra Leone. The decreases in hospital utilisation are less than seen worldwide and less than observed during Ebola. The incorporation of maintenance of essential health services as an explicit aim of the outbreak response strategy may have mitigated larger decreases in hospital utilisation. The resilience of maternal and paediatric services may be due to their inclusion under the Free Healthcare Initiative and may add further weight to the argument for expanding universal health coverage in Sierra Leone. We recommend regular monitoring of hospital utilisation in epidemics to guide and evaluate public health response measures.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to thank all surgical assistant community health officers and research assistants for their involvement in the project. We are grateful to Professor Foday Sahr, Dr Mathew Vandy and Dr Suliaman Lakoh for their tireless work and their guidance throughout the pandemic. Finally, we express our gratitude to all frontline workers and communities who led the effort to combat COVID-19 in Sierra Leone.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="other">
+        <p><bold>Handling editor:</bold> Sanni Yaya</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Twitter:</bold> @mirrorsandmaps, @sowmyamangipudi, @drjackoids</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Contributors:</bold> SS, DY, AJvD, MLO, DP, HW, JID, HAB and AJML designed the research. SS, DY, EB, TB, SS and DVD supported the data collection and research implementation. AJvD, MLO, TB, DP and SM analysed the data. All authors wrote the final manuscript. SS and DY are first authors. JID, HAB and AJML are the last authors.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Funding:</bold> This research was part funded by the non-profit organisation CapaCare and part funded by the National Institute of Health Research (NIHR) Global Health Research Unit on Health System Strengthening in Sub-Saharan Africa, King&#x2019;s College London (GHRU 16/136/54) using UK aid from the UK Government to support global health research. DY is funded by the NIHR (GHR:17:63:66) using UK aid from the UK Government to support global health research.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Disclaimer:</bold> The views expressed in this publication are those of the author(s) and not necessarily those of the NIHR or the UK government.</p>
+      </fn>
+      <fn fn-type="COI-statement">
+        <p><bold>Competing interests:</bold> None declared.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Provenance and peer review:</bold> Not commissioned; externally peer reviewed.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Supplemental material:</bold> This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.</p>
+      </fn>
+    </fn-group>
+    <sec sec-type="data-availability">
+      <title>Data availability statement</title>
+      <p>Data are available on reasonable request. Data are available on reasonable request submitted to the corresponding author, subject to academic review and acceptance of a data-sharing agreement.</p>
+    </sec>
+    <sec sec-type="ethics-statement">
+      <title>Ethics statements</title>
+      <sec>
+        <title>Patient consent for publication</title>
+        <p content-type="ethics-consent-to-publish">Not required.</p>
+      </sec>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="R1">
+        <label>1</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>National COVID-19 Emergency Response Centre SL</collab></person-group>. <article-title>COVID-19 situation report</article-title>, <year>2021</year>. Available: <uri xlink:href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports</uri></mixed-citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Brolin Ribacke</surname>
+<given-names>KJ</given-names></string-name>, <string-name><surname>Saulnier</surname>
+<given-names>DD</given-names></string-name>, <string-name><surname>Eriksson</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Effects of the West Africa Ebola virus disease on health-care utilization - a systematic review</article-title>. <source>Front Public Health</source>
+<year>2016</year>;<volume>4</volume>:<fpage>222</fpage>. <pub-id pub-id-type="doi">10.3389/fpubh.2016.00222</pub-id><pub-id pub-id-type="pmid">27777926</pub-id></mixed-citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Blanchet</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Alwan</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Antoine</surname>
+<given-names>C</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Protecting essential health services in low-income and middle-income countries and humanitarian settings while responding to the COVID-19 pandemic</article-title>. <source>BMJ Glob Health</source>
+<year>2020</year>;<volume>5</volume>:<fpage>e003675</fpage>. <pub-id pub-id-type="doi">10.1136/bmjgh-2020-003675</pub-id></mixed-citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Moynihan</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Sanders</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Michaleff</surname>
+<given-names>ZA</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Impact of COVID-19 pandemic on utilisation of healthcare services: a systematic review</article-title>. <source>BMJ Open</source>
+<year>2021</year>;<volume>11</volume>:<elocation-id>e045343</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-045343</pub-id></mixed-citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>McIntosh</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Bachmann</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Siedner</surname>
+<given-names>MJ</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Effect of COVID-19 lockdown on hospital admissions and mortality in rural KwaZulu-Natal, South Africa: interrupted time series analysis</article-title>. <source>BMJ Open</source>
+<year>2021</year>;<volume>11</volume>:<elocation-id>e047961</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-047961</pub-id></mixed-citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ahmed</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Rahman</surname>
+<given-names>AE</given-names></string-name>, <string-name><surname>Amole</surname>
+<given-names>TG</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The effect of COVID-19 on maternal newborn and child health (MNCH) services in Bangladesh, Nigeria and South Africa: call for a contextualised pandemic response in LMICs</article-title>. <source>Int J Equity Health</source>
+<year>2021</year>;<volume>20</volume>:<elocation-id>77</elocation-id>. <pub-id pub-id-type="doi">10.1186/s12939-021-01414-5</pub-id><pub-id pub-id-type="pmid">33722225</pub-id></mixed-citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ahmed</surname>
+<given-names>SAKS</given-names></string-name>, <string-name><surname>Ajisola</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Azeem</surname>
+<given-names>K</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Impact of the societal response to COVID-19 on access to healthcare for non-COVID-19 health issues in slum communities of Bangladesh, Kenya, Nigeria and Pakistan: results of pre-COVID and COVID-19 lockdown stakeholder engagements</article-title>. <source>BMJ Glob Health</source>
+<year>2020</year>;<volume>5</volume>:<fpage>e003042</fpage>. <pub-id pub-id-type="doi">10.1136/bmjgh-2020-003042</pub-id></mixed-citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Roberton</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Carter</surname>
+<given-names>ED</given-names></string-name>, <string-name><surname>Chou</surname>
+<given-names>VB</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Early estimates of the indirect effects of the COVID-19 pandemic on maternal and child mortality in low-income and middle-income countries: a modelling study</article-title>. <source>Lancet Glob Health</source>
+<year>2020</year>;<volume>8</volume>:<fpage>e901</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/S2214-109X(20)30229-1</pub-id><pub-id pub-id-type="pmid">32405459</pub-id></mixed-citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Murewanhema</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Makurumidze</surname>
+<given-names>R</given-names></string-name></person-group>. <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic: perspectives and recommendations</article-title>. <source>Pan Afr Med J</source>
+<year>2020</year>;<volume>35</volume>:<fpage>143</fpage>. <pub-id pub-id-type="doi">10.11604/pamj.supp.2020.35.2.25367</pub-id><pub-id pub-id-type="pmid">33193958</pub-id></mixed-citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Chandir</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Siddiqi</surname>
+<given-names>DA</given-names></string-name>, <string-name><surname>Setayesh</surname>
+<given-names>H</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Impact of COVID-19 lockdown on routine immunisation in Karachi, Pakistan</article-title>. <source>Lancet Glob Health</source>
+<year>2020</year>;<volume>8</volume>:<fpage>e1118</fpage>&#x2013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1016/S2214-109X(20)30290-4</pub-id><pub-id pub-id-type="pmid">32615076</pub-id></mixed-citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kc</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Gurung</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Kinney</surname>
+<given-names>MV</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Effect of the COVID-19 pandemic response on intrapartum care, stillbirth, and neonatal mortality outcomes in Nepal: a prospective observational study</article-title>. <source>Lancet Glob Health</source>
+<year>2020</year>;<volume>8</volume>:<fpage>e1273</fpage>&#x2013;<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1016/S2214-109X(20)30345-4</pub-id><pub-id pub-id-type="pmid">32791117</pub-id></mixed-citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Zhang</surname>
+<given-names>Y-N</given-names></string-name>, <string-name><surname>Chen</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>Y</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Reduction in healthcare services during the COVID-19 pandemic in China</article-title>. <source>BMJ Glob Health</source>
+<year>2020</year>;<volume>5</volume>:<fpage>e003421</fpage>. <pub-id pub-id-type="doi">10.1136/bmjgh-2020-003421</pub-id></mixed-citation>
+      </ref>
+      <ref id="R13">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><collab>COVIDSurg Collaborative</collab></person-group>. <article-title>Elective surgery cancellations due to the COVID-19 pandemic: global predictive modelling to inform surgical recovery plans</article-title>. <source>Br J Surg</source>
+<year>2020</year>;<volume>107</volume>:<fpage>1440</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1002/bjs.11746</pub-id><pub-id pub-id-type="pmid">32395848</pub-id></mixed-citation>
+      </ref>
+      <ref id="R14">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Soltany</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Hamouda</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Ghzawi</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>A scoping review of the impact of COVID-19 pandemic on surgical practice</article-title>. <source>Ann Med Surg</source>
+<year>2020</year>;<volume>57</volume>:<fpage>24</fpage>&#x2013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1016/j.amsu.2020.07.003</pub-id></mixed-citation>
+      </ref>
+      <ref id="R15">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wilhelm</surname>
+<given-names>JA</given-names></string-name>, <string-name><surname>Helleringer</surname>
+<given-names>S</given-names></string-name></person-group>. <article-title>Utilization of non-Ebola health care services during Ebola outbreaks: a systematic review and meta-analysis</article-title>. <source>J Glob Health</source>
+<year>2019</year>;<volume>9</volume>:<elocation-id>010406</elocation-id>. <pub-id pub-id-type="doi">10.7189/jogh.09.010406</pub-id><pub-id pub-id-type="pmid">30701070</pub-id></mixed-citation>
+      </ref>
+      <ref id="R16">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bolkan</surname>
+<given-names>HA</given-names></string-name>, <string-name><surname>van Duinen</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Samai</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Admissions and surgery as indicators of hospital functions in sierra leone during the west-African Ebola outbreak</article-title>. <source>BMC Health Serv Res</source>
+<year>2018</year>;<volume>18</volume>:<elocation-id>846</elocation-id>. <pub-id pub-id-type="doi">10.1186/s12913-018-3666-9</pub-id><pub-id pub-id-type="pmid">30413159</pub-id></mixed-citation>
+      </ref>
+      <ref id="R17">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kruk</surname>
+<given-names>ME</given-names></string-name>, <string-name><surname>Myers</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Varpilah</surname>
+<given-names>ST</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>What is a resilient health system? lessons from Ebola</article-title>. <source>The Lancet</source>
+<year>2015</year>;<volume>385</volume>:<fpage>1910</fpage>&#x2013;<lpage>2</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(15)60755-3</pub-id></mixed-citation>
+      </ref>
+      <ref id="R18">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Edoka</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Ensor</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>McPake</surname>
+<given-names>B</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Free health care for under-fives, expectant and recent mothers? evaluating the impact of Sierra Leone's free health care initiative</article-title>. <source>Health Econ Rev</source>
+<year>2016</year>;<volume>6</volume>:<elocation-id>19</elocation-id>. <pub-id pub-id-type="doi">10.1186/s13561-016-0096-4</pub-id><pub-id pub-id-type="pmid">27215909</pub-id></mixed-citation>
+      </ref>
+      <ref id="R19">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Jalloh</surname>
+<given-names>MB</given-names></string-name>, <string-name><surname>Bah</surname>
+<given-names>AJ</given-names></string-name>, <string-name><surname>James</surname>
+<given-names>PB</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Impact of the free healthcare initiative on wealth-related inequity in the utilization of maternal &amp; child health services in Sierra Leone</article-title>. <source>BMC Health Serv Res</source>
+<year>2019</year>;<volume>19</volume>:<elocation-id>352</elocation-id>. <pub-id pub-id-type="doi">10.1186/s12913-019-4181-3</pub-id><pub-id pub-id-type="pmid">31159785</pub-id></mixed-citation>
+      </ref>
+      <ref id="R20">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Haider</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Osman</surname>
+<given-names>AY</given-names></string-name>, <string-name><surname>Gadzekpo</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Lockdown measures in response to COVID-19 in nine sub-Saharan African countries</article-title>. <source>BMJ Glob Health</source>
+<year>2020</year>;<volume>5</volume>:<fpage>e003319</fpage>. <pub-id pub-id-type="doi">10.1136/bmjgh-2020-003319</pub-id></mixed-citation>
+      </ref>
+      <ref id="R21">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Lindheim-Minde</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Gj&#xF8;ra</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Bakker</surname>
+<given-names>JM</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Changes in surgical volume, workforce, and productivity in Sierra Leone between 2012 and 2017</article-title>. <source>Surgery</source>. <comment>In Press</comment>
+<year>2021</year>;<volume>170</volume>:<fpage>126</fpage>&#x2013;<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.surg.2021.02.043</pub-id><pub-id pub-id-type="pmid">33785194</pub-id></mixed-citation>
+      </ref>
+      <ref id="R22">
+        <label>22</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><collab>World Health Organsiation</collab></person-group>. <source>Service availability and readiness assessment Sierra Leone</source>, <year>2016</year>. <uri xlink:href="https://www.who.int/healthinfo/systems/SARA_Reference_Manual_Full.pdf">https://www.who.int/healthinfo/systems/SARA_Reference_Manual_Full.pdf</uri></mixed-citation>
+      </ref>
+      <ref id="R23">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Fitzgerald</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Awonuga</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Shah</surname>
+<given-names>T</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Ebola response in Sierra Leone: the impact on children</article-title>. <source>J Infect</source>
+<year>2016</year>;<volume>72 Suppl</volume>:<fpage>S6</fpage>&#x2013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1016/j.jinf.2016.04.016</pub-id><pub-id pub-id-type="pmid">27177732</pub-id></mixed-citation>
+      </ref>
+      <ref id="R24">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Olu</surname>
+<given-names>OO</given-names></string-name>, <string-name><surname>Lamunu</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Chimbaru</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Incident management systems are essential for effective coordination of large disease outbreaks: perspectives from the coordination of the Ebola outbreak response in Sierra Leone</article-title>. <source>Front Public Health</source>
+<year>2016</year>;<volume>4</volume>:<fpage>254</fpage>. <pub-id pub-id-type="doi">10.3389/fpubh.2016.00254</pub-id><pub-id pub-id-type="pmid">27917377</pub-id></mixed-citation>
+      </ref>
+      <ref id="R25">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Caviglia</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Buson</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Pini</surname>
+<given-names>S</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The National emergency medical service role during the COVID-19 pandemic in Sierra Leone</article-title>. <source>Prehosp Disaster Med</source>
+<year>2020</year>;<volume>35</volume>:<fpage>693</fpage>&#x2013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1017/S1049023X20001211</pub-id><pub-id pub-id-type="pmid">32959740</pub-id></mixed-citation>
+      </ref>
+      <ref id="R26">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Johnson</surname>
+<given-names>O</given-names></string-name>, <string-name><surname>Youkee</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Brown</surname>
+<given-names>CS</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Ebola holding units at government hospitals in Sierra Leone: evidence for a flexible and effective model for safe isolation, early treatment initiation, Hospital safety and health system functioning</article-title>. <source>BMJ Glob Health</source>
+<year>2016</year>;<volume>1</volume>:<elocation-id>e000030</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjgh-2016-000030</pub-id></mixed-citation>
+      </ref>
+      <ref id="R27">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Raven</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Wurie</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Witter</surname>
+<given-names>S</given-names></string-name></person-group>. <article-title>Health workers' experiences of coping with the Ebola epidemic in Sierra Leone's health system: a qualitative study</article-title>. <source>BMC Health Serv Res</source>
+<year>2018</year>;<volume>18</volume>:<elocation-id>251</elocation-id>. <pub-id pub-id-type="doi">10.1186/s12913-018-3072-3</pub-id><pub-id pub-id-type="pmid">29622025</pub-id></mixed-citation>
+      </ref>
+      <ref id="R28">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Drevin</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>M&#xF6;lsted Alvesson</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>van Duinen</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>"For this one, let me take the risk": why surgical staff continued to perform caesarean sections during the 2014-2016 Ebola epidemic in Sierra Leone</article-title>. <source>BMJ Glob Health</source>
+<year>2019</year>;<volume>4</volume>:<fpage>e001361</fpage>. <pub-id pub-id-type="doi">10.1136/bmjgh-2018-001361</pub-id></mixed-citation>
+      </ref>
+      <ref id="R29">
+        <label>29</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>Sierra Leone</collab></person-group>. <article-title>Country COVID-19 Intra-Action review</article-title>, <year>2020</year>. <source>World health organisation MoHS</source>. Available: <uri xlink:href="https://openwho.org/courses/covid-19-intra-action-review-en">https://openwho.org/courses/covid-19-intra-action-review-en</uri></mixed-citation>
+      </ref>
+      <ref id="R30">
+        <label>30</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kamara</surname>
+<given-names>FM</given-names></string-name>, <string-name><surname>Mokuwa</surname>
+<given-names>EY</given-names></string-name>, <string-name><surname>Richards</surname>
+<given-names>P</given-names></string-name></person-group>. <article-title>How villagers in central Sierra Leone understand infection risks under threat of Covid-19</article-title>. <source>PLoS One</source>
+<year>2020</year>;<volume>15</volume>:<elocation-id>e0235108</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0235108</pub-id><pub-id pub-id-type="pmid">32579602</pub-id></mixed-citation>
+      </ref>
+      <ref id="R31">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Brolin Ribacke</surname>
+<given-names>KJ</given-names></string-name>, <string-name><surname>van Duinen</surname>
+<given-names>AJ</given-names></string-name>, <string-name><surname>Nordenstedt</surname>
+<given-names>H</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The impact of the West Africa Ebola outbreak on obstetric health care in Sierra Leone</article-title>. <source>PLoS One</source>
+<year>2016</year>;<volume>11</volume>:<elocation-id>e0150080</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0150080</pub-id><pub-id pub-id-type="pmid">26910462</pub-id></mixed-citation>
+      </ref>
+      <ref id="R32">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sengeh</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Jalloh</surname>
+<given-names>MB</given-names></string-name>, <string-name><surname>Webber</surname>
+<given-names>N</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Community knowledge, perceptions and practices around COVID-19 in Sierra Leone: a nationwide, cross-sectional survey</article-title>. <source>BMJ Open</source>
+<year>2020</year>;<volume>10</volume>:<elocation-id>e040328</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-040328</pub-id></mixed-citation>
+      </ref>
+      <ref id="R33">
+        <label>33</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>Statistics Sierra Leone</collab></person-group>. <article-title>Sierra Leone district household Survery</article-title>, <year>2019</year>. Available: <uri xlink:href="https://dhsprogram.com/pubs/pdf/PR122/PR122.pdf">https://dhsprogram.com/pubs/pdf/PR122/PR122.pdf</uri></mixed-citation>
+      </ref>
+      <ref id="R34">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Phull</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Grimes</surname>
+<given-names>CE</given-names></string-name>, <string-name><surname>Kamara</surname>
+<given-names>TB</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>What is the financial burden to patients of accessing surgical care in Sierra Leone? a cross-sectional survey of catastrophic and impoverishing expenditure</article-title>. <source>BMJ Open</source>
+<year>2021</year>;<volume>11</volume>:<elocation-id>e039049</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-039049</pub-id></mixed-citation>
+      </ref>
+      <ref id="R35">
+        <label>35</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><string-name><surname>Niccol&#xF3; Meriggi</surname>
+<given-names>ABK</given-names></string-name>, <string-name><surname>Humphreys</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>M'cleod</surname>
+<given-names>H</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Tracking the economic consequences and response to COVID-19 in Sierra Leone</article-title>, <year>2020</year>. Available: <uri xlink:href="https://www.theigc.org/project/covid19-sl/;">https://www.theigc.org/project/covid19-sl/;</uri></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

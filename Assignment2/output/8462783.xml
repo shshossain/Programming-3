@@ -1,0 +1,1095 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Public Health</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Public Health</journal-id>
+      <journal-title-group>
+        <journal-title>Public Health</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0033-3506</issn>
+      <issn pub-type="epub">1476-5616</issn>
+      <publisher>
+        <publisher-name>The Royal Society for Public Health. Published by Elsevier Ltd.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">33862503</article-id>
+      <article-id pub-id-type="pmc">8462783</article-id>
+      <article-id pub-id-type="pii">S0033-3506(21)00081-0</article-id>
+      <article-id pub-id-type="doi">10.1016/j.puhe.2021.02.023</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Factors associated with postponed health checkups during the COVID-19 pandemic in Germany</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="au1">
+          <name>
+            <surname>Hajek</surname>
+            <given-names>A.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">a</xref>
+          <xref rid="cor1" ref-type="corresp">&#x2217;</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au2">
+          <name>
+            <surname>De Bock</surname>
+            <given-names>F.</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">b</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au3">
+          <name>
+            <surname>Kretzler</surname>
+            <given-names>B.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au4">
+          <name>
+            <surname>K&#xF6;nig</surname>
+            <given-names>H.-H.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">a</xref>
+        </contrib>
+        <aff id="aff1"><label>a</label>Department of Health Economics and Health Services Research, Hamburg Center for Health Economics, University Medical Center Hamburg-Eppendorf, Martinistra&#xDF;e 52, 20246, Hamburg, Germany</aff>
+        <aff id="aff2"><label>b</label>Federal Centre of Health Education, Maarweg 149-161, 50825, K&#xF6;ln, Germany</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1"><label>&#x2217;</label>Corresponding author. Department of Health Economics and Health Services Research, University Medical Center Hamburg-Eppendorf, Martinistra&#xDF;e 52, 20246, Hamburg, Germany. Tel.: +49 (0) 40 7410 52877; fax: +49 (0) 40 7410 40261.</corresp>
+      </author-notes>
+      <pub-date pub-type="pmc-release">
+        <day>13</day>
+        <month>4</month>
+        <year>2021</year>
+      </pub-date>
+      <!-- PMC Release delay is 0 months and 0 days and was based on <pub-date
+						pub-type="epub">.-->
+      <pub-date pub-type="ppub">
+        <month>5</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>4</month>
+        <year>2021</year>
+      </pub-date>
+      <volume>194</volume>
+      <fpage>36</fpage>
+      <lpage>41</lpage>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>10</month>
+          <year>2020</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>19</day>
+          <month>2</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>2</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2021 The Royal Society for Public Health. Published by Elsevier Ltd. All rights reserved.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <copyright-holder>The Royal Society for Public Health</copyright-holder>
+        <license>
+          <license-p>Since January 2020 Elsevier has created a COVID-19 resource centre with free information in English and Mandarin on the novel coronavirus COVID-19. The COVID-19 resource centre is hosted on Elsevier Connect, the company's public news and information website. Elsevier hereby grants permission to make all its COVID-19-related research that is available on the COVID-19 resource centre - including this research content - immediately available in PubMed Central and other publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.</license-p>
+        </license>
+      </permissions>
+      <abstract id="abs0010">
+        <sec>
+          <title>Objectives</title>
+          <p>The COVID-19 pandemic has serious social, economic and health consequences. Particularly in these times, it is important to maintain individual health. Therefore, it is important to take part in routine health checkups. Consequently, our objective was to describe the frequency and to identify the determinants of postponed routine health checkups.</p>
+        </sec>
+        <sec>
+          <title>Study design</title>
+          <p>Cross-sectional data from the nationally representative online-survey &#x201C;COVID-19 Snapshot Monitoring in Germany (COSMO)&#x201D; was used (wave 17; July 2020).</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>In sum, 974 individuals were included in our analytical sample (average age was 45.9 years, SD: 16.5, 18&#x2013;74 years). Postponed routine health checkups (yes or no) since March 2020 due to the COVID-19 pandemic were assessed.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>More than 16% of the individuals reported postponed routine health checkups in the past few months due to the COVID-19 pandemic. Particularly, individuals aged 30&#x2013;49 years had postponed health checkups (21%). The probability of postponed health checkups was positively associated with the presence of chronic diseases (odds ratio [OR]: 1.68, 95% confidence interval [CI]: 1.15&#x2013;2.47), higher affect regarding COVID-19 (OR: 1.44, 95%-CI: 1.16&#x2013;1.78), and higher presumed severity of COVID-19 (OR: 1.17, 95%-CI: 1.01&#x2013;1.35), whereas the outcome measure was not associated with socioeconomic factors. Data showed that a sizeable part (about one of six individuals) of the population reported postponed routine health checkups due to the COVID-19 pandemic between March and July 2020.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>Postponed checkups should not be neglected during the COVID-19 pandemic. Individuals at risk for postponed health checkups should be appropriately addressed.</p>
+        </sec>
+      </abstract>
+      <kwd-group id="kwrds0010">
+        <title>Keywords</title>
+        <kwd>Coronavirus</kwd>
+        <kwd>COVID-19</kwd>
+        <kwd>General medical examination</kwd>
+        <kwd>Preventive health examination</kwd>
+        <kwd>Routine health checkups</kwd>
+        <kwd>Screening</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1">
+      <title>Introduction</title>
+      <p id="p0010">Routine health checkups are offered in various countries. Such routine health checkups are also known as general health checks, periodic health evaluations, preventive health examinations or general medical examinations. For instance, since the late 80s, a triannual routine health checkup can be used free of charge by members of statutory health insurance aged 35 years and over in Germany. This checkup starts with taking the medical history (e.g. pre-existing illnesses, illnesses of family members) followed by a whole-body examination and laboratory tests including the investigation of blood cholesterol levels or examination of the urine. Finally, the doctor will inform the patient about the results of this checkup and will develop an individual risk profile for the patient. Moreover, recommendations regarding a healthy lifestyle will be provided. Further checkups or a treatment follow when an illness is suspected or in case of diagnosis.</p>
+      <p id="p0015">By contrast, these examinations do not cover vaccination or cancer screenings. Several parts of these checkups have been shown to be effective.<xref rid="bib1" ref-type="bibr"><sup>1</sup></xref>
+<sup>,</sup>
+<xref rid="bib2" ref-type="bibr"><sup>2</sup></xref> Moreover, in Germany, adults between 18 and 34 years of age can have a onetime health check by their family doctor (also free of charge). However, it should be noted that blood tests are only carried out for those younger adults (18&#x2013;34 years) with a corresponding risk profile (e.g. hypertension, obesity, or pre-existing illnesses in the family). In Germany, the patient can simply arrange an appointment with the family doctor for this routine health checkup. Although governments in several countries promote and recommend routine health checkups, voluntary health checkups are used infrequently (e.g. in Germany<xref rid="bib3" ref-type="bibr"><sup>3</sup></xref>). Several studies have examined the factors associated with the use of routine health checkups in Germany<xref rid="bib4" ref-type="bibr">4</xref>, <xref rid="bib5" ref-type="bibr">5</xref>, <xref rid="bib6" ref-type="bibr">6</xref> in the past years. Studies conducted before the COVID-19 pandemic have revealed that an increased likelihood of routine health checkups is associated with higher income, higher educational levels, and being female.<xref rid="bib5" ref-type="bibr"><sup>5</sup></xref>
+<sup>,</sup>
+<xref rid="bib6" ref-type="bibr"><sup>6</sup></xref> However, the previous studies focused on actual (non)-attendance rather than postponed health checkups. More precisely, to date, nationally representative studies are lacking investigating the factors associated with postponed routine health checks generally and particularly during the COVID-19 pandemic. It should be noted that it is difficult to compare these studies conducted before the pandemic with our present study taking place during the pandemic. Particularly, it appears to be plausible that determinants related to the fear of being infected with COVID-19 may be a main driver of postponing routine health checks during the pandemic.</p>
+      <p id="p0020">Serious challenges for health and the healthcare system are linked to the COVID-19 pandemic. It is particularly important to avoid postponing routine health checkups in these times (when individual risks of getting infected with SARS-CoV-2 and having a severe course of COVID-19 are low) because it has been reported that postponed routine health checkups can have important long-term health consequences.<xref rid="bib2" ref-type="bibr"><sup>2</sup></xref> Moreover, it has been suggested that routine health checkups can improve the doctor&#x2013;patient relationship.<xref rid="bib7" ref-type="bibr"><sup>7</sup></xref> This relationship can have a clear impact on satisfaction<xref rid="bib8" ref-type="bibr"><sup>8</sup></xref> and health<xref rid="bib9" ref-type="bibr"><sup>9</sup></xref> of patients as well as general healthcare costs.<xref rid="bib9" ref-type="bibr"><sup>9</sup></xref>
+</p>
+      <p id="p0025">Hence, the goal of this study is to describe the proportion of postponed routine health checkups due to the COVID-19 pandemic and to identify the determinants based on nationally representative data. Knowledge about the factors associated with this may help characterizing individuals at risk for these postponed checkups during this pandemic.</p>
+      <p id="p0030">In the case of Germany, corona measures were implemented in Mid-March 2020 (16th March). For example, schools were closed. Efforts were intensified in the following week (22nd March) by imposing travel bans or public contact restrictions. These actions were prolonged in the following weeks. However, in mid-April (20th April), some measures were loosened such as reopening shops falling below a certain size. Schools gradually opened in early May (4th May). Moreover, other restrictions such as contact bans were also loosened in May. In addition, further restrictions were loosened in June (with the possibility to tighten the restrictions if the infection rate increases). With regard to the healthcare sector, it should be noted that in hospitals elective surgery (e.g. knee replacement) was postponed since mid-March 2020 in Germany.<xref rid="bib10" ref-type="bibr"><sup>10</sup></xref> Moreover, a recent scoping review<xref rid="bib11" ref-type="bibr"><sup>11</sup></xref> identified a lack of (qualitative and quantitative) studies determining whether and why outpatient appointments did not take place (e.g. due to capacity restrictions, or because patients canceled appointments) during the COVID-19 pandemic in Germany. However, a recent nationally representative study showed that perceived past and future access to healthcare services during the COVID-19 pandemic in Germany is reasonably good.<xref rid="bib12" ref-type="bibr"><sup>12</sup></xref> Furthermore, international studies showed that the risk of SARS-CoV-2 infection is a main reason for avoidance behavior (e.g. delayed access to hospital care<xref rid="bib13" ref-type="bibr"><sup>13</sup></xref>
+<sup>,</sup>
+<xref rid="bib14" ref-type="bibr"><sup>14</sup></xref>). Thus, we assume that particularly patients canceled appointments.</p>
+    </sec>
+    <sec id="sec2">
+      <title>Methods</title>
+      <sec id="sec2.1">
+        <title>Sample</title>
+        <p id="p0035">For this present study, we used data from the COVID-19 Snapshot Monitoring (COSMO)<xref rid="bib15" ref-type="bibr"><sup>15</sup></xref> starting in early March (wave 1, 3rd to 4th March). More precisely, in our study, cross-sectional data from wave 17 were used which included 1001 individuals (ranging from 18 to 74 years) for reasons of data availability. Wave 17 took place from 21st to 22nd July. Individuals were recruited online via the market research company Respondi using a procedure enabling that the distribution in the sample matches the distribution of age as well as gender and federal state in the adult population in Germany.<xref rid="bib16" ref-type="bibr"><sup>16</sup></xref>
+</p>
+        <p id="p0040">The COSMO study is a joint project of the University of Erfurt, the Robert Koch Institute, the Leibniz Centre for Psychological Information and Documentation, the Science Media Center, the Bernhard-Nocht-Institute for Tropical Medicine and the Yale Institute for Global Health. It includes topics such as demographics, knowledge, protective behaviors, perceptions, and trust.<xref rid="bib15" ref-type="bibr"><sup>15</sup></xref> Factors such as changes in knowledge or risk perceptions can be investigated over time. Moreover, misinformation or potential stigma can be determined.<xref rid="bib15" ref-type="bibr"><sup>15</sup></xref>
+</p>
+      </sec>
+      <sec id="sec2.2">
+        <title>Dependent variable</title>
+        <p id="p0045">Comparable with the question used in the German Ageing Survey (quantifying the utilization of routine health checkups), individuals responded to the question whether they postponed a routine health checkup since March 2020 for reasons of the COVID-19 pandemic. Answer options were as follows: 1&#xA0;=&#xA0;&#x201C;Yes&#x201D;, 2&#xA0;=&#xA0;&#x201C;No, attended as planned&#x201D;, 3&#xA0;=&#xA0;&#x201C;No examination pending&#x201D;, and 4&#xA0;=&#xA0;&#x201C;No, other reasons&#x201D;. Subsequently, the dependent variables was dichotomized (no, not postponed&#xA0;=&#xA0;0; yes, postponed&#xA0;=&#xA0;1). It is worth noting that we performed a pretest with 14 individuals. They supported the high face validity of the survey instrument.</p>
+      </sec>
+      <sec id="sec2.3">
+        <title>Independent variables</title>
+        <p id="p0050">Various sociodemographic variables were used in our study, namely age group (four groups: 18&#x2013;29 years; 30&#x2013;49 years; 50&#x2013;64 years; &#x2265; 65 years), sex (women; men), having children&#xA0;&lt;&#xA0;18 years (no; yes), married/in a relationship (no; yes), housing situation (living alone; &#x2265; 2 individuals in household), size of the town (four categories: municipality/small town [1&#x2013;20,000 individuals]; medium-sized town [20,001&#x2013;100,000 individuals]; small city [100,001&#x2013;500,000 individuals]; big city [&gt;500,000 individuals]), COVID-19 cases per 100,000 population (below median; above median), level of education (&#x2264;9 years; &#x2265; 10 years (without general qualification for university entrance); &#x2265;10 years (with general qualification for university entrance)), self-employment (no; yes), background of migration (no; yes), and presence of chronic diseases (no; yes).</p>
+        <p id="p0055">In addition, affect with regard to a COVID-19 infection was included in the regression model. The instrument consists of seven items (in each case: ranging from 1 to 7). For instance, items are (after the introductory sentence &#x201C;For me, the new type of corona virus is &#x2026;&#x201D;): &#x201C;spreading slowly&#x201D; (1) to &#x201C;spreading quickly&#x201D; (7) or &#x201C;concerning&#x201D; (1) to &#x201C;not concerning&#x201D; (7). The final scale was built by averaging the items. In our study, Cronbach's alpha was 0.78. Moreover, the presumed severity regarding a COVID-19 infection was quantified (exact wording was &#x201C;How do you assess an infection with the novel corona virus for yourself?&#x201D;, ranging from 1 (completely harmless) to 7 (extremely dangerous)). An overview about the questions used in the present study is provided in <xref rid="appsec1" ref-type="sec">Supplementary Table&#xA0;1</xref>.</p>
+      </sec>
+      <sec id="sec2.4">
+        <title>Statistical analysis</title>
+        <p id="p0060">First, we report sample characteristics for the analytical sample stratified by our dependent variable (i.e. whether or not individuals postponed routine health checkups since March 2020 due to the COVID-19 pandemic). Afterward, we conducted multiple logistic regressions to identify the determinants of postponed routine health checkups due to the pandemic. The statistical significance was set at <italic>P</italic>&#xA0;&lt;&#xA0;0.05. Stata 16.0 was used to perform statistical analyses (Stata Corp., College Station, TX).</p>
+      </sec>
+    </sec>
+    <sec id="sec3">
+      <title>Results</title>
+      <sec id="sec3.1">
+        <title>Sample characteristics</title>
+        <p id="p0065">Characteristics of our analytical sample in wave 17 are depicted in <xref rid="tbl1" ref-type="table">Table&#xA0;1</xref>
+. The mean age was 45.9 years (SD: 16.5 years) and 48.9% of the individuals were male. Bivariately, the outcome measure (postponed routine health checkups) was associated with higher age, presence of children under 18 years, the presence of chronic diseases as well as affect regarding COVID-19 and presumed severity of COVID-19. Additional details are shown in <xref rid="tbl1" ref-type="table">Table&#xA0;1</xref>.<table-wrap position="float" id="tbl1"><label>Table&#xA0;1</label><caption><p>Sample characteristics (analytical sample with n&#xA0;=&#xA0;974 individuals) at wave 17.</p></caption><alt-text id="alttext0025">Table&#xA0;1</alt-text><table frame="hsides" rules="groups"><thead><tr><th rowspan="3">Variables</th><th colspan="5">Postponed routine health checkups<hr/></th></tr><tr><th>Yes, postponed routine health checkups<hr/></th><th>No, attended as planned<hr/></th><th>No examining pending<hr/></th><th>No, other reasons<hr/></th><th rowspan="2"><italic>P</italic>-value</th></tr><tr><th>Mean (SD)/n (%)</th><th>Mean (SD)/n (%)</th><th>Mean (SD)/n (%)</th><th>Mean (SD)/n (%)</th></tr></thead><tbody><tr><td>Sex</td><td/><td/><td/><td/><td align="char">0.12</td></tr><tr><td>&#xA0;Men</td><td>65 (13.7%)</td><td>121 (25.4%)</td><td>279 (58.6%)</td><td>11 (2.3%)</td><td/></tr><tr><td>&#xA0;Women</td><td>93 (18.7%)</td><td>105 (21.1%)</td><td>287 (57.6%)</td><td>13 (2.6%)</td><td/></tr><tr><td>Age category</td><td/><td/><td/><td/><td align="char">&lt;0.001</td></tr><tr><td>&#xA0;18&#x2013;29 years</td><td>23 (12.2%)</td><td>29 (15.3%)</td><td>134 (70.9%)</td><td>3 (1.6%)</td><td/></tr><tr><td>&#xA0;30&#x2013;49 years</td><td>75 (21.4%)</td><td>59 (16.9%)</td><td>204 (58.3%)</td><td>12 (3.4%)</td><td/></tr><tr><td>&#xA0;50&#x2013;64 years</td><td>41 (15.2%)</td><td>61 (22.6%)</td><td>161 (59.6%)</td><td>7 (2.6%)</td><td/></tr><tr><td>&#xA0;65 years and over</td><td>19 (11.5%)</td><td>77 (46.7%)</td><td>67 (40.6%)</td><td>2 (1.2%)</td><td/></tr><tr><td>Children under 18 years:</td><td/><td/><td/><td/><td align="char">&lt;0.05</td></tr><tr><td>&#xA0;No</td><td>109 (15.1%)</td><td>181 (25.1%)</td><td>417 (57.7%)</td><td>15 (2.1%)</td><td/></tr><tr><td>&#xA0;Yes</td><td>49 (19.4%)</td><td>45 (17.9%)</td><td>149 (59.1%)</td><td>9 (3.6%)</td><td/></tr><tr><td>Education</td><td/><td/><td/><td/><td align="char">0.68</td></tr><tr><td>&#xA0;Up to 9 years/10 years and more (without general qualification for university entrance)</td><td>67 (15.1%)</td><td>106 (24.0%)</td><td>257 (58.0%)</td><td>13 (2.9%)</td><td/></tr><tr><td>&#xA0;10 years and more (with general qualification for university entrance)</td><td>91 (17.1%)</td><td>120 (22.6%)</td><td>309 (58.2%)</td><td>11 (2.1%)</td><td/></tr><tr><td>Town size</td><td/><td/><td/><td/><td align="char">0.60</td></tr><tr><td>&#xA0;Municipality/small town (1&#x2013;20,000)</td><td>58 (14.5%)</td><td>101 (25.1%)</td><td>230 (57.2%)</td><td>13 (3.2%)</td><td/></tr><tr><td>&#xA0;Medium sized town (20,001&#x2013;100,000)</td><td>42 (17.5%)</td><td>54 (22.5%)</td><td>138 (57.5%)</td><td>6 (2.5%)</td><td/></tr><tr><td>&#xA0;Small city (100,001&#x2013;500,000)</td><td>26 (18.3%)</td><td>27 (19.0%)</td><td>85 (59.9%)</td><td>4 (2.8%)</td><td/></tr><tr><td>&#xA0;Big city (&gt;500,000)</td><td>32 (16.8%)</td><td>44 (23.2%)</td><td>113 (59.5%)</td><td>1 (0.5%)</td><td/></tr><tr><td>Region</td><td/><td/><td/><td/><td align="char">0.95</td></tr><tr><td>&#xA0;West Germany</td><td>135 (16.5%)</td><td>188 (23.0%)</td><td>474 (58.0%)</td><td>20 (2.5%)</td><td/></tr><tr><td>&#xA0;East Germany</td><td>23 (14.7%)</td><td>38 (24.2%)</td><td>92 (58.6%)</td><td>4 (2.5%)</td><td/></tr><tr><td>Cases/100,000 population</td><td/><td/><td/><td/><td align="char">0.34</td></tr><tr><td>&#xA0;Below median</td><td>70 (15.0%)</td><td>102 (21.8%)</td><td>282 (60.2%)</td><td>14 (3.0%)</td><td/></tr><tr><td>&#xA0;Above median</td><td>88 (17.4%)</td><td>124 (24.5%)</td><td>284 (56.1%)</td><td>10 (2.0%)</td><td/></tr><tr><td>Relationship/marriage</td><td/><td/><td/><td/><td align="char">0.41</td></tr><tr><td>&#xA0;No</td><td>48 (14.2%)</td><td>78 (23.2%)</td><td>205 (60.8%)</td><td>6 (1.8%)</td><td/></tr><tr><td>&#xA0;Yes</td><td>110 (17.3%)</td><td>148 (23.2%)</td><td>361 (56.7%)</td><td>18 (2.8%)</td><td/></tr><tr><td>Living situation</td><td/><td/><td/><td/><td align="char">0.71</td></tr><tr><td>&#xA0;Living alone</td><td>40 (15.8%)</td><td>62 (24.5%)</td><td>147 (58.1%)</td><td>4 (1.6%)</td><td/></tr><tr><td>&#xA0;At least 2 individuals in the same household</td><td>118 (16.4%)</td><td>164 (22.7%)</td><td>419 (58.1%)</td><td>20 (2.8%)</td><td/></tr><tr><td>Migration background:</td><td/><td/><td/><td/><td align="char">0.99</td></tr><tr><td>&#xA0;No</td><td>134 (16.3%)</td><td>191 (23.2%)</td><td>478 (58.1%)</td><td>20 (2.4%)</td><td/></tr><tr><td>&#xA0;Yes</td><td>24 (15.9%)</td><td>35 (23.2%)</td><td>88 (58.3%)</td><td>4 (2.6%)</td><td/></tr><tr><td>Self-employment</td><td/><td/><td/><td/><td align="char">0.62</td></tr><tr><td>&#xA0;No</td><td>142 (16.1%)</td><td>206 (23.3%)</td><td>515 (58.3%)</td><td>20 (2.3%)</td><td/></tr><tr><td>&#xA0;Yes</td><td>16 (17.6%)</td><td>20 (22.0%)</td><td>51 (56.0%)</td><td>4 (4.4%)</td><td/></tr><tr><td>Chronic disease</td><td/><td/><td/><td/><td align="char">&lt;0.001</td></tr><tr><td>&#xA0;No</td><td>79 (13.0%)</td><td>108 (17.7%)</td><td>409 (67.2%)</td><td>13 (2.1%)</td><td/></tr><tr><td>&#xA0;Yes</td><td>79 (21.6%)</td><td>118 (32.3%)</td><td>157 (43.0%)</td><td>11 (3.0%)</td><td/></tr><tr><td>Affect regarding COVID-19: COVID-19 infection (from 1 to 7; higher values correspond to higher affect regarding COVID-19)</td><td>4.6 (1.0)</td><td>4.1 (1.0)</td><td>4.1 (1.0)</td><td>4.0 (1.0)</td><td align="char">&lt;0.001</td></tr><tr><td>Presumed severity of COVID-19 infection (from 1 to 7; higher values correspond to higher severity)</td><td>4.7 (1.6)</td><td>4.5 (1.6)</td><td>4.0 (1.5)</td><td>4.2 (1.7)</td><td align="char">&lt;0.001</td></tr></tbody></table></table-wrap></p>
+        <p id="p0070">In total (see <xref rid="fig1" ref-type="fig">Fig.&#xA0;1</xref>
+), 16.2% of the individuals had postponed routine health checkups in the past months for reasons of the COVID-19 pandemic, 83.8% of the individuals did not have postponed routine health checkups (&#x201C;no, attended as planned&#x201D;: 23.2%; &#x201C;no, examining pending&#x201D;: 58.1%; &#x201C;no, other reasons&#x201D;: 2.5%). More importantly, only comparing individuals attending as planned and individuals postponing checks, it is worth noting that 41% postponed routine health checkups.<fig id="fig1"><label>Fig.&#xA0;1</label><caption><p>Postponed routine health checkups.</p></caption><alt-text id="alttext0020">Fig.&#xA0;1</alt-text><graphic xlink:href="gr1_lrg"/></fig></p>
+      </sec>
+      <sec id="sec3.2">
+        <title>Regression analysis</title>
+        <p id="p0075">In <xref rid="tbl2" ref-type="table">Table&#xA0;2</xref>
+, multiple logistic regressions with postponed routine health checkups as dependent variable (0&#xA0;=&#xA0;not postponed, 1&#xA0;=&#xA0;postponed) were shown. Regressions showed that postponed routine health checkups since March 2020 for reasons of the COVID-19 pandemic were positively associated with the presence of chronic diseases (odds ratio [OR]: 1.68, 95% confidence interval [CI]: 1.15&#x2013;2.47), higher affect regarding COVID-19 (OR: 1.44, 95%-CI: 1.16&#x2013;1.78), and higher presumed severity of COVID-19 (OR: 1.17, 95%-CI: 1.01&#x2013;1.35). By contrast, the socioeconomic variables were not associated with postponed routine health checkups.<table-wrap position="float" id="tbl2"><label>Table&#xA0;2</label><caption><p>Determinants of postponed routine health checkups (0&#xA0;=&#xA0;no, not postponed; 1&#xA0;=&#xA0;yes, postponed) due to the COVID-19 pandemic since March 2020.</p></caption><alt-text id="alttext0030">Table&#xA0;2</alt-text><table frame="hsides" rules="groups"><thead><tr><th>Independent variables</th><th>Postponed routine health checkups [OR&#xA0;(95% CI)]</th></tr></thead><tbody><tr><td>Gender: female (Ref.: male)</td><td>1.33 (0.92&#x2013;1.91)</td></tr><tr><td colspan="2">Age category:</td></tr><tr><td>&#xA0;30 to 49 years (Ref.: 18&#x2013;29 years)</td><td>1.40 (0.79&#x2013;2.48)</td></tr><tr><td>&#xA0;50 to 64 years</td><td>0.85 (0.45&#x2013;1.59)</td></tr><tr><td>&#xA0;65 years and over</td><td>0.55 (0.26&#x2013;1.15)</td></tr><tr><td>Children (under 18 years): Yes (Ref.: Absence of children under 18 years)</td><td>1.15 (0.74&#x2013;1.80)</td></tr><tr><td>Education: General qualification for university entrance (Ref.: absence of qualification for university entrance)</td><td>1.12 (0.77&#x2013;1.64)</td></tr><tr><td colspan="2">Town size:</td></tr><tr><td>&#xA0;Medium sized town (20.001&#x2013;100.000) (Ref.: municipality/small town (1&#x2013;20.000))</td><td>1.23 (0.78&#x2013;1.93)</td></tr><tr><td>&#xA0;Small city (100.001&#x2013;500.000)</td><td>1.32 (0.77&#x2013;2.26)</td></tr><tr><td>&#xA0;Big city (&gt;500.000)</td><td>1.23 (0.74&#x2013;2.03)</td></tr><tr><td>Region: East Germany (Ref.: West Germany)</td><td>1.03 (0.59&#x2013;1.82)</td></tr><tr><td>Cases/100,000 population: Above median (Ref.: below median)</td><td>1.2 (0.81&#x2013;1.81)</td></tr><tr><td>Relationship/marriage: Yes (Ref.: no partnership/marriage)</td><td>1.12 (0.68&#x2013;1.85)</td></tr><tr><td>Living situation: At least 2 individuals in the same household (Ref.: living alone)</td><td>1.03 (0.60&#x2013;1.77)</td></tr><tr><td>Migration background: Yes (Ref.: no migration background)</td><td>0.95 (0.56&#x2013;1.59)</td></tr><tr><td>Self-employment: Yes (Ref.: not self-employed)</td><td>1.04 (0.57&#x2013;1.90)</td></tr><tr><td>Chronic disease: Yes (Ref.: no chronic diseases)</td><td>1.68&#x2217;&#x2217; (1.15&#x2013;2.47)</td></tr><tr><td>Affect regarding COVID-19 (higher values correspond to higher affect regarding COVID-19)</td><td>1.44&#x2217;&#x2217;&#x2217; (1.16&#x2013;1.78)</td></tr><tr><td>Presumed severity of COVID-19 infection (higher values correspond to higher severity)</td><td>1.17&#x2217; (1.01&#x2013;1.35)</td></tr><tr><td>Constant</td><td>0.01&#x2217;&#x2217;&#x2217; (0.00&#x2013;0.03)</td></tr><tr><td>Observations</td><td>974</td></tr><tr><td>Pseudo-R<sup>2</sup></td><td>0.07</td></tr></tbody></table><table-wrap-foot><fn id="tspara0020"><p>Findings of multiple logistic regressions.</p></fn><fn id="tspara0025"><p>CI, confidence interval; OR, odds ratio. &#x2217;&#x2217;&#x2217;<italic>P</italic>&#xA0;&lt;&#xA0;0.001, &#x2217;&#x2217;<italic>P</italic>&#xA0;&lt;&#xA0;0.01, &#x2217;<italic>P</italic>&#xA0;&lt;&#xA0;0.05,&#xA0;+ <italic>P</italic>&#xA0;&lt;&#xA0;0.10.</p></fn></table-wrap-foot></table-wrap></p>
+        <p id="p0080">In an additional analysis (<xref rid="appsec1" ref-type="sec">Supplementary Table&#xA0;2</xref>), logistic regressions were replaced by multinomial logistic regressions (base outcome: &#x201C;Yes, postponed routine checkups&#x201D;). In total, most findings remained similar. However, exclusively comparing individuals attending as planned and individuals postponing checks, it should be noted that postponed routine checkups since March 2020 for reasons of the COVID-19 pandemic were positively associated with being female (RRR (relative risk ratio): 0.64, 95%-CI: 0.41&#x2013;0.98), being younger (18&#x2013;29 years compared with 65 years and over, RRR: 4.38, 95%-CI: 1.89&#x2013;10.19), and a higher affect regarding COVID-19 (RRR: 0.69, 95%-CI: 0.53&#x2013;0.89).</p>
+      </sec>
+    </sec>
+    <sec id="sec4">
+      <title>Discussion</title>
+      <p id="p0085">More than 16% of the individuals reported postponed routine health checkups in the past few months due to the COVID-19 pandemic. Particularly, individuals aged 30&#x2013;49 years had postponed health checkups (21%). If we only compare individuals who attended as planned and individuals who postponed checkups, it should be noted that 41% postponed their visits. The probability of postponed health checkups since March 2020 for reasons of the COVID-19 pandemic was positively associated with the presence of chronic diseases, higher affect regarding COVID-19, and higher presumed severity of COVID-19, whereas the outcome measure was not associated with socioeconomic factors.</p>
+      <p id="p0090">Previous studies focused on (non-)attendance of checkups. For example, a recent systematic review<xref rid="bib17" ref-type="bibr"><sup>17</sup></xref> focused on the determinants of non-attendance of NHS health checks. They found that, among other things, time constraints, problems with access to general practices, and aversion to preventive medicine were key reasons for non-attendance of NHS health checks.<xref rid="bib17" ref-type="bibr"><sup>17</sup></xref> While another recent study<xref rid="bib3" ref-type="bibr"><sup>3</sup></xref> did not find a link between negative affect and routine health checkups in Germany, they found a link between higher positive affect and the use of routine health checkups. Furthermore, they did not find a link between chronic conditions and the use of routine health checkups. These previous findings are only partly in accordance with our findings. The differences may be mainly explained by the time. While the previous study focused on data from 2014,<xref rid="bib3" ref-type="bibr"><sup>3</sup></xref> this present study focused on a period during the COVID-19 pandemic. Therefore, the previous findings are difficult to compare with our findings and should be interpreted with great caution.</p>
+      <p id="p0095">With regard to the use of other healthcare services during the COVID-19 pandemic, one recent study among American patients with autoimmune rheumatic diseases showed that avoidance of doctor's office visits and use of telehealth were common in urban areas.<xref rid="bib18" ref-type="bibr"><sup>18</sup></xref> Similarly, a large decrease in pediatric emergency department visits during the COVID-19 pandemic was, for example, also observed in Germany<xref rid="bib19" ref-type="bibr"><sup>19</sup></xref> or Scotland.<xref rid="bib20" ref-type="bibr"><sup>20</sup></xref> On the other side, particularly in low- and middle-income countries in Asia Pacific, the healthcare systems could be overwhelmed and overstretched by the pandemic.<xref rid="bib21" ref-type="bibr"><sup>21</sup></xref> For example, this can have serious consequences for maintaining cancer care.<xref rid="bib21" ref-type="bibr"><sup>21</sup></xref> Moreover, disruption of essential health services (e.g. maternal or child health) have also been shown in Zimbabwe.<xref rid="bib22" ref-type="bibr"><sup>22</sup></xref>
+</p>
+      <p id="p0100">We think that our findings (postponed routine health checkups during the COVID-19 pandemic associated with chronic diseases, affects regarding COVID-19, and presumed severity regarding COVID-19) may be mainly driven by the fear of being infected with COVID-19 and its potential health consequences&#x2014;and this fear may be particularly pronounced among individuals with chronic diseases and among individuals with a higher perceived severity with respect to COVID-19. This is supported by the fact that very recent studies showed that individuals avoided hospital visits during the COVID-19 pandemic, mainly for reasons of being infected.<xref rid="bib13" ref-type="bibr"><sup>13</sup></xref>
+<sup>,</sup>
+<xref rid="bib23" ref-type="bibr"><sup>23</sup></xref>
+</p>
+      <p id="p0105">Generally, it should be noted that postponing intended routine health checkups may be the result of balancing costs (e.g. for older individuals with multiple chronic conditions) and benefits of these routine health checkups. Therefore, for some individuals (with risk factors for severe course of COVID-19), it may be particularly important to postpone these checkups when these checkups are accompanied by a lot of social contacts (e.g. when public transport has to be used for traveling to the doctor) because this may increase the risk of getting infected with SARS-CoV-2. This in turn could have severe health consequences for individuals in bad health.</p>
+      <p id="p0110">We would like to highlight some strengths and limitations of the present study. It should be acknowledged that this is the first empirical study focusing on the correlates of postponed routine health checkups during the COVID-19 pandemic. The present study used data from a nationally representative sample (community-dwelling individuals ranging from 18 to 74 years). Nevertheless, it should be emphasized that older adults aged &#x2265;75 years should additionally be investigated in future studies. Moreover, individuals living in institutionalized settings should be examined in the upcoming studies. A pretest affirmed the high face validity of our outcome measure. All cross-sectional studies have inherent disadvantages like the difficulty to draw causal conclusions. This should be acknowledged as a limitation.</p>
+      <p id="p0115">Data showed that a sizeable part (about one out of six individuals) of the population reported postponed routine health checkups due to the COVID-19 pandemic between March and July 2020. Therefore, postponed checkups should not be neglected during the COVID-19 pandemic. Individuals at risk for postponed health checkups should be appropriately addressed. Longitudinal studies are needed to confirm our findings.</p>
+      <p id="p0120">In a broader sense, it may be meaningful to reshape the healthcare system.<xref rid="bib24" ref-type="bibr">24</xref>, <xref rid="bib25" ref-type="bibr">25</xref>, <xref rid="bib26" ref-type="bibr">26</xref>, <xref rid="bib27" ref-type="bibr">27</xref>, <xref rid="bib28" ref-type="bibr">28</xref> For instance, efforts in telemedicine or telehealth tools may contribute to addressing patient needs<xref rid="bib25" ref-type="bibr"><sup>25</sup></xref>
+<sup>,</sup>
+<xref rid="bib27" ref-type="bibr"><sup>27</sup></xref>
+<sup>,</sup>
+<xref rid="bib28" ref-type="bibr"><sup>28</sup></xref>&#x2014;and could include some components of routine health checkups (e.g. medical recommendations for a health-promoting lifestyle).</p>
+    </sec>
+    <sec id="sec5">
+      <title>Author statements</title>
+      <sec id="sec5.1">
+        <title>Acknowledgments</title>
+        <p id="p0125">Germany's COVID-19 Snapshot Monitoring (COSMO) is a joint project of the University of Erfurt (Cornelia Betsch [PI], Lars Korn, Philipp Sprengholz, Philipp Schmid, Lisa Felgendreff, Sarah Eitze), the Robert Koch Institute (RKI; Lothar H. Wieler, Patrick Schmich), the Federal Centre for Health Education (BZgA; Heidrun Thaiss, Freia De Bock), the Leibniz Centre for Psychological Information and Documentation (ZPID; Michael Bosnjak), the Science Media Center (SMC; Volker Stollorz), the Bernhard Nocht Institute for Tropical Medicine (BNITM; Michael Ramharter), and the Yale Institute for Global Health (Saad Omer).</p>
+      </sec>
+      <sec id="sec5.2">
+        <title>Ethical approval</title>
+        <p id="p0130">Informed consent was obtained from all individual participants included in the study. Ethical approval for COSMO was obtained by University of Erfurt's IRB (#202000302). All procedures performed in the COSMO studies involving human participants were in accordance with the ethical standards of the University of Erfurt institutional research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.</p>
+      </sec>
+      <sec id="sec5.3">
+        <title>Funding</title>
+        <p id="p0135">This work was supported by <funding-source id="gs1"><institution-wrap><institution-id institution-id-type="doi">10.13039/501100001659</institution-id><institution>DFG</institution></institution-wrap></funding-source> [grant number: 3970/11-1]. Further funding was obtained via <funding-source id="gs2"><institution-wrap><institution-id institution-id-type="doi">10.13039/501100003108</institution-id><institution>BZgA</institution></institution-wrap></funding-source>, RKI, ZPID, and the <funding-source id="gs3"><institution-wrap><institution-id institution-id-type="doi">10.13039/501100009828</institution-id><institution>University of Erfurt</institution></institution-wrap></funding-source> [no grant numbers]. The funders had no role in study design, data collection, interpretation, or the decision to submit the work for publication.</p>
+      </sec>
+      <sec id="sec5.4">
+        <title>Competing interests</title>
+        <p id="p0140">None declared.</p>
+      </sec>
+      <sec id="sec5.5">
+        <title>Authors' contributions</title>
+        <p id="p0145">A.H., F.d.B., and H.-H.K. contributed to conceptualization; A.H. contributed to methodology/formal analysis; A.H. contributed to writing&#x2014;original draft preparation; A.H., F.d.B., B.K., and H.-H.K. contributed to writing&#x2014;review and editing; H.-H.K contributed to supervision. All authors have read and agreed to the published version of the article.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list id="cebib0010">
+      <title>References</title>
+      <ref id="bib1">
+        <label>1</label>
+        <element-citation publication-type="journal" id="sref1">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Si</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Moss</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Sullivan</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Newton</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Stocks</surname>
+              <given-names>N.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effectiveness of general practice-based health checks: a systematic review and meta-analysis</article-title>
+          <source>Br J Gen Pract</source>
+          <volume>64</volume>
+          <year>2014</year>
+          <fpage>e47</fpage>
+          <lpage>e53</lpage>
+          <pub-id pub-id-type="pmid">24567582</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib2">
+        <label>2</label>
+        <element-citation publication-type="book" id="sref2">
+          <person-group person-group-type="author">
+            <collab>Deutsche Gesellschaft f&#xFC;r Innere Medizin (DGIM)</collab>
+          </person-group>
+          <part-title>Check-up 35 Untersuchung &#x2013; eine Diskussion</part-title>
+          <year>2018</year>
+          <comment>Available from:</comment>
+          <ext-link ext-link-type="uri" xlink:href="http://www.dgim.de/fileadmin/user_upload/PDF/Publikationen/DGIM_check_2018.pdf" id="intref0015">http://www.dgim.de/fileadmin/user_upload/PDF/Publikationen/DGIM_check_2018.pdf</ext-link>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <label>3</label>
+        <element-citation publication-type="journal" id="sref3">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hajek</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bock</surname>
+              <given-names>J.-O.</given-names>
+            </name>
+            <name>
+              <surname>K&#xF6;nig</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+          </person-group>
+          <article-title>The use of routine health check-ups and psychological factors&#x2014;a neglected link. Evidence from a population-based study</article-title>
+          <source>J&#xA0;Publ Health</source>
+          <volume>26</volume>
+          <year>2018</year>
+          <fpage>137</fpage>
+          <lpage>144</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib4">
+        <label>4</label>
+        <element-citation publication-type="journal" id="sref4">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hajek</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of self-efficacy, self-esteem and optimism for using routine health check-ups in a population-based sample. A longitudinal perspective</article-title>
+          <source>Prev Med</source>
+          <volume>105</volume>
+          <year>2017</year>
+          <fpage>47</fpage>
+          <lpage>51</lpage>
+          <pub-id pub-id-type="pmid">28863870</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib5">
+        <label>5</label>
+        <element-citation publication-type="journal" id="sref5">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoebel</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Starker</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Richter</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lampert</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determinants of health check attendance in adults: findings from the cross-sectional German Health Update (GEDA) study</article-title>
+          <source>BMC Publ Health</source>
+          <volume>14</volume>
+          <year>2014</year>
+          <fpage>1</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bib6">
+        <label>6</label>
+        <element-citation publication-type="journal" id="sref6">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Richter</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Brand</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>R&#xF6;ssler</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sozio&#xF6;konomische Unterschiede in der Inanspruchnahme von Fr&#xFC;herkennungsuntersuchungen und Ma&#xDF;nahmen der Gesundheitsf&#xF6;rderung in NRW</article-title>
+          <source>Gesundheitswesen</source>
+          <volume>64</volume>
+          <year>2002</year>
+          <fpage>417</fpage>
+          <lpage>424</lpage>
+          <pub-id pub-id-type="pmid">12119587</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib7">
+        <label>7</label>
+        <element-citation publication-type="journal" id="sref7">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prochazka</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Lundahl</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Pearson</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Oboler</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Support of evidence-based guidelines for the annual physical examination: a survey of primary care providers</article-title>
+          <source>Arch Intern Med</source>
+          <volume>165</volume>
+          <year>2005</year>
+          <fpage>1347</fpage>
+          <lpage>1352</lpage>
+          <pub-id pub-id-type="pmid">15983282</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib8">
+        <label>8</label>
+        <element-citation publication-type="journal" id="sref8">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Longnecker</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Doctor-patient communication: a review</article-title>
+          <source>Ochsner J</source>
+          <volume>10</volume>
+          <year>2010</year>
+          <fpage>38</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="pmid">21603354</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib9">
+        <label>9</label>
+        <element-citation publication-type="journal" id="sref9">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Riedl</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Sch&#xFC;&#xDF;ler</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>The influence of doctor-patient communication on health outcomes: a systematic review</article-title>
+          <source>Z&#xA0;Psychosom Med Psychother</source>
+          <volume>63</volume>
+          <year>2017</year>
+          <fpage>131</fpage>
+          <lpage>150</lpage>
+          <pub-id pub-id-type="pmid">28585507</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib10">
+        <label>10</label>
+        <element-citation publication-type="journal" id="sref10">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Osterloh</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Coronavirus: krankenh&#xE4;user verschieben planbare eingriffe</article-title>
+          <source>Dtsch &#xC4;rztebl</source>
+          <volume>117</volume>
+          <year>2020</year>
+          <fpage>A575</fpage>
+          <lpage>A577</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib11">
+        <label>11</label>
+        <element-citation publication-type="journal" id="sref11">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scheidt-Nave</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Barnes</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Beyer</surname>
+              <given-names>A.-K.</given-names>
+            </name>
+            <name>
+              <surname>Busch</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hapke</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Heidemann</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Versorgung von chronisch Kranken in Deutschland-Herausforderungen in Zeiten der COVID-19-Pandemie</article-title>
+          <source>J&#xA0;Health Monitor</source>
+          <volume>5</volume>
+          <year>2020</year>
+          <fpage>2</fpage>
+          <lpage>28</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib12">
+        <label>12</label>
+        <element-citation publication-type="journal" id="sref12">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hajek</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>De Bock</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Wieler</surname>
+              <given-names>L.H.</given-names>
+            </name>
+            <name>
+              <surname>Sprengholz</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kretzler</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>K&#xF6;nig</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Perceptions of health care use in Germany during the COVID-19 pandemic</article-title>
+          <source>Int J Environ Res Publ Health</source>
+          <volume>17</volume>
+          <year>2020</year>
+          <fpage>9351</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bib13">
+        <label>13</label>
+        <element-citation publication-type="journal" id="sref13">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lazzerini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Barbi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Apicella</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Marchetti</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Cardinale</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Trobia</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Delayed access or provision of care in Italy resulting from fear of COVID-19</article-title>
+          <source>Lancet Child Adolescent Health</source>
+          <volume>4</volume>
+          <year>2020</year>
+          <fpage>e10</fpage>
+          <lpage>e11</lpage>
+          <pub-id pub-id-type="pmid">32278365</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib14">
+        <label>14</label>
+        <element-citation publication-type="journal" id="sref14">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lynn</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Avis</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Lenton</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Amin-Chowdhury</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Ladhani</surname>
+              <given-names>S.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Delayed access to care and late presentations in children during the COVID-19 pandemic: a snapshot survey of 4075 paediatricians in the UK and Ireland</article-title>
+          <source>Arch Dis Child</source>
+          <volume>106</volume>
+          <year>2021</year>
+          <fpage>e8</fpage>
+          <pub-id pub-id-type="pmid">32586927</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib15">
+        <label>15</label>
+        <element-citation publication-type="journal" id="sref15">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Betsch</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Wieler</surname>
+              <given-names>L.H.</given-names>
+            </name>
+            <name>
+              <surname>Habersaat</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Monitoring behavioural insights related to COVID-19</article-title>
+          <source>Lancet</source>
+          <volume>395</volume>
+          <year>2020</year>
+          <fpage>1255</fpage>
+          <lpage>1256</lpage>
+          <pub-id pub-id-type="pmid">32247323</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib16">
+        <label>16</label>
+        <element-citation publication-type="book" id="sref16">
+          <person-group person-group-type="author">
+            <name>
+              <surname>M&#xFC;nnich</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gabler</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <part-title>2012: stichprobenoptimierung und Sch&#xE4;tzung in Zensus 2011</part-title>
+          <year>2012</year>
+          <publisher-name>Statistisches Bundesamt</publisher-name>
+          <publisher-loc>Wiesbaden</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="bib17">
+        <label>17</label>
+        <element-citation publication-type="journal" id="sref17">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harte</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>MacLure</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Saunders</surname>
+              <given-names>C.L.</given-names>
+            </name>
+            <name>
+              <surname>Meads</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>F.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reasons why people do not attend NHS Health Checks: a systematic review and qualitative synthesis</article-title>
+          <source>Br J Gen Pract</source>
+          <volume>68</volume>
+          <year>2018</year>
+          <fpage>e28</fpage>
+          <lpage>e35</lpage>
+          <pub-id pub-id-type="pmid">29203682</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib18">
+        <label>18</label>
+        <element-citation publication-type="journal" id="sref18">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michael</surname>
+              <given-names>George</given-names>
+            </name>
+            <name>
+              <surname>Shilpa</surname>
+              <given-names>Venkatachalam</given-names>
+            </name>
+            <name>
+              <surname>Shubhasree</surname>
+              <given-names>Banerjee</given-names>
+            </name>
+            <name>
+              <surname>Joshua</surname>
+              <given-names>F. Baker</given-names>
+            </name>
+            <name>
+              <surname>Peter</surname>
+              <given-names>A. Merkel</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>Gavigan</given-names>
+            </name>
+            <name>
+              <surname>David</surname>
+              <given-names>Curtis</given-names>
+            </name>
+            <name>
+              <surname>Maria</surname>
+              <given-names>I. Danila</given-names>
+            </name>
+            <name>
+              <surname>Jeffrey</surname>
+              <given-names>R. Curtis</given-names>
+            </name>
+            <name>
+              <surname>W Benjamin</surname>
+              <given-names>Nowell</given-names>
+            </name>
+          </person-group>
+          <article-title>Concerns, healthcare use, and treatment interruptions in patients with common autoimmune rheumatic diseases during the COVID-19 pandemic</article-title>
+          <source>J&#xA0;Rheumatol</source>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="bib19">
+        <label>19</label>
+        <element-citation publication-type="journal" id="sref19">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dopfer</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Wetzke</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zychlinsky Scharff</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Dressler</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Baumann</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19 related reduction in pediatric emergency healthcare utilization - a concerning trend</article-title>
+          <source>BMC Pediatr</source>
+          <volume>20</volume>
+          <year>2020</year>
+          <fpage>427</fpage>
+          <pub-id pub-id-type="pmid">32894080</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib20">
+        <label>20</label>
+        <element-citation publication-type="journal" id="sref20">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>MacRae</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Swann</surname>
+              <given-names>O.V.</given-names>
+            </name>
+            <name>
+              <surname>Haseeb</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Cunningham</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Davies</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Indirect effects of the COVID-19 pandemic on paediatric healthcare use and severe disease: a retrospective national cohort study</article-title>
+          <source>Arch Dis Child</source>
+          <year>2021</year>
+        </element-citation>
+      </ref>
+      <ref id="bib21">
+        <label>21</label>
+        <element-citation publication-type="journal" id="sref21">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Guzman</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Malik</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dual challenge of cancer and COVID-19: impact on health care and socioeconomic systems in Asia Pacific</article-title>
+          <source>JCO Global Oncol</source>
+          <volume>6</volume>
+          <year>2020</year>
+          <fpage>906</fpage>
+          <lpage>912</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib22">
+        <label>22</label>
+        <element-citation publication-type="journal" id="sref22">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murewanhema</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Makurumidze</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic: perspectives and recommendations</article-title>
+          <source>Pan Afr Med J</source>
+          <volume>35</volume>
+          <year>2020</year>
+          <fpage>143</fpage>
+          <pub-id pub-id-type="pmid">33193958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib23">
+        <label>23</label>
+        <element-citation publication-type="book" id="sref23">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fricke</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <part-title>Versorgungsrisiko Corona: selbst Patienten mit Schlaganfall bleiben zu Hause</part-title>
+          <year>2020</year>
+          <comment>[2nd September 2020]; Available from:</comment>
+          <ext-link ext-link-type="uri" xlink:href="https://www.aerztezeitung.de/Politik/Selbst-Patienten-mit-Schlaganfall-bleiben-zu-Hause-408354.html" id="intref0020">https://www.aerztezeitung.de/Politik/Selbst-Patienten-mit-Schlaganfall-bleiben-zu-Hause-408354.html</ext-link>
+        </element-citation>
+      </ref>
+      <ref id="bib24">
+        <label>24</label>
+        <element-citation publication-type="journal" id="sref24">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Danhieux</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Buffel</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Pairon</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Benkheil</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Remmen</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Wouters</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of COVID-19 on chronic care according to providers: a qualitative study among primary care practices in Belgium</article-title>
+          <source>BMC Fam Pract</source>
+          <volume>21</volume>
+          <year>2020</year>
+          <fpage>1</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">31901226</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib25">
+        <label>25</label>
+        <element-citation publication-type="journal" id="sref25">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Franzosa</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Gorbenko</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Brody</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Leff</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Ritchie</surname>
+              <given-names>C.S.</given-names>
+            </name>
+            <name>
+              <surname>Kinosian</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>&#x201C;At home, with care&#x201D;: lessons from New York city home-based primary care practices managing COVID-19</article-title>
+          <source>J&#xA0;Am Geriatr Soc</source>
+          <volume>69</volume>
+          <year>2021</year>
+          <fpage>300</fpage>
+          <lpage>306</lpage>
+          <pub-id pub-id-type="pmid">33179761</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib26">
+        <label>26</label>
+        <element-citation publication-type="journal" id="sref26">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goh</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+            <name>
+              <surname>Ow Yong</surname>
+              <given-names>Q.Y.J.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>T.H.M.</given-names>
+            </name>
+            <name>
+              <surname>Ho</surname>
+              <given-names>S.H.C.</given-names>
+            </name>
+            <name>
+              <surname>Chee</surname>
+              <given-names>Y.I.C.</given-names>
+            </name>
+            <name>
+              <surname>Chee</surname>
+              <given-names>T.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Impact of COVID-19 on nurses working in a University Health System in Singapore: a qualitative descriptive study</article-title>
+          <source>Int J Ment Health Nurs</source>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="bib27">
+        <label>27</label>
+        <element-citation publication-type="journal" id="sref27">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shalini Shah</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sudhir Diwan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lynn Kohan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>David Rosenblum</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Christopher Gharibo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Amol Soin</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The technological impact of COVID-19 on the future of education and health care delivery</article-title>
+          <source>Pain Physician</source>
+          <volume>23</volume>
+          <year>2020</year>
+          <fpage>S367</fpage>
+          <lpage>S380</lpage>
+          <pub-id pub-id-type="pmid">32942794</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib28">
+        <label>28</label>
+        <element-citation publication-type="journal" id="sref28">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Golinelli</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Boetto</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Carullo</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Nuzzolese</surname>
+              <given-names>A.G.</given-names>
+            </name>
+            <name>
+              <surname>Landini</surname>
+              <given-names>M.P.</given-names>
+            </name>
+            <name>
+              <surname>Fantini</surname>
+              <given-names>M.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>How the COVID-19 pandemic favored the adoption of digital technologies in healthcare: a systematic review of early scientific literature</article-title>
+          <source>J&#xA0;Med Internet Res</source>
+          <volume>21</volume>
+          <year>2020</year>
+          <fpage>e22280</fpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec id="appsec1" sec-type="supplementary-material">
+      <label>Appendix A</label>
+      <title>Supplementary data</title>
+      <p id="p0150">The following are the Supplementary data to this article:<supplementary-material content-type="local-data" id="mmc1"><caption><title>Multimedia component 1</title></caption><media xlink:href="mmc1.docx"><alt-text>Multimedia component 1</alt-text></media></supplementary-material>
+<supplementary-material content-type="local-data" id="mmc2"><caption><title>Multimedia component 2</title></caption><media xlink:href="mmc2.docx"><alt-text>Multimedia component 2</alt-text></media></supplementary-material>
+</p>
+    </sec>
+    <fn-group>
+      <fn id="appsec2" fn-type="supplementary-material">
+        <label>Appendix A</label>
+        <p id="p0155">Supplementary data to this article can be found online at <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.puhe.2021.02.023" id="intref0010">https://doi.org/10.1016/j.puhe.2021.02.023</ext-link>.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+</pmc-articleset>

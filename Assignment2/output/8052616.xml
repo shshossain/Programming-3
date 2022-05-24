@@ -1,0 +1,657 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Pan Afr Med J</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Pan Afr Med J</journal-id>
+      <journal-id journal-id-type="publisher-id">PAMJ</journal-id>
+      <journal-title-group>
+        <journal-title>The Pan African Medical Journal</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1937-8688</issn>
+      <publisher>
+        <publisher-name>The African Field Epidemiology Network</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">33912301</article-id>
+      <article-id pub-id-type="pmc">8052616</article-id>
+      <article-id pub-id-type="publisher-id">PAMJ-38-131</article-id>
+      <article-id pub-id-type="doi">10.11604/pamj.2021.38.131.27852</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Perspectives</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Reduced cervical cancer screening in Zimbabwe as an indirect impact of the COVID-19 pandemic: implications for prevention</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Murewanhema</surname>
+            <given-names>Grant</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="corresp" rid="cor1">&amp;</xref>
+          <ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0001-7531-730X">https://orcid.org/0000-0001-7531-730X</ext-link>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><label>1</label>Department of Obstetrics and Gynaecology, University of Zimbabwe, College of Health Sciences, P.O Box A172, Avondale Harare, Zimbabwe</aff>
+      <author-notes>
+        <corresp id="cor1"><bold>Corresponding author:</bold> Grant Murewanhema, Department of Obstetrics and Gynaecology, University of Zimbabwe, College of Health Sciences, P.O Box A172, Avondale Harare, Zimbabwe. <email>gmurewanhema@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>05</day>
+        <month>2</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2021</year>
+      </pub-date>
+      <volume>38</volume>
+      <elocation-id>131</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>1</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>1</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement><bold>Copyright:</bold> Grant Murewanhema et al.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>The Pan African Medical Journal (ISSN: 1937-8688). This is an Open Access article distributed under the terms of the Creative Commons Attribution International 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The COVID-19 pandemic has brought unprecedented challenges to healthcare for women, including disruption of cervical cancer screening services. Zimbabwe is a high cervical cancer burden country, with the cancer being the leading malignancy among women. The disruptions in screening could have long-term negative impacts on cervical cancer burden reduction in Zimbabwe. Factors related to institutions, policy, clients and healthcare workers have contributed to the decline in screening and need to be addressed urgently to restore this essential service.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>COVID-19</kwd>
+        <kwd>cervical cancer</kwd>
+        <kwd>screening</kwd>
+        <kwd>Zimbabwe</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="S1">
+      <title>Perspectives</title>
+      <p>The first cases of COVID-19 in Zimbabwe were reported in March 2020 [<xref rid="ref1" ref-type="bibr">1</xref>]. The government introduced multi-pronged approaches to curb the spread of SARS-CoV-2, prepare the health system for possible exponential outbreak growth, and reduce the adverse socio-economic consequences of the pandemic [<xref rid="ref2" ref-type="bibr">2</xref>]. Reports suggest that women and girls are vulnerable, and may suffer disproportionately from the indirect effects of the pandemic [<xref rid="ref3" ref-type="bibr">3</xref>-<xref rid="ref5" ref-type="bibr">5</xref>]. As financial and human resources are channelled more towards COVID-19 responses, both by governments and development partners, critical aspects of women&#xB4;s health may be neglected [<xref rid="ref2" ref-type="bibr">2</xref>,<xref rid="ref6" ref-type="bibr">6</xref>]. Unfortunately, the long-term impacts of this neglect may be more devastating than the pandemic itself [<xref rid="ref3" ref-type="bibr">3</xref>]. Zimbabwe has a high burden of cervical cancer [<xref rid="ref7" ref-type="bibr">7</xref>,<xref rid="ref8" ref-type="bibr">8</xref>]. According to the Zimbabwe National Cancer Registry, this cancer leads among malignancies in women, and constituted 33.2% of the cancer burden in this population with 1308 cases in 2016 [<xref rid="ref7" ref-type="bibr">7</xref>]. However, despite the fact that Zimbabwe has a well-established national cancer registry, these statistics may still be underestimates. Anecdotal evidence suggests that many women die of cervical cancer without histological confirmation or seeking appropriate treatment, thus they may never make their way into the national cancer registry. It is now established that persistent high-risk Human Papilloma Virus infections, which are vaccine preventable, cause over 99% of cervical cancer cases [<xref rid="ref9" ref-type="bibr">9</xref>]. However, secondary prevention, which entails regular screening, has been the crux of cervical cancer prevention in Zimbabwe [<xref rid="ref10" ref-type="bibr">10</xref>]. Considerable progress has been realised towards establishing working cervical cancer screening programmes in Zimbabwe. However, the COVID-19 pandemic may indirectly reverse the gains, leading to missed opportunities for secondary prevention and detection of early stage disease. As health facilities including hospitals and clinics shifted to emergency mode to protect the healthcare workers (HCWs) and clients from contracting COVID-19, cervical cancer screening activities were stopped, alongside other essential components of sexual and reproductive health (SRH). I briefly describe the set-up of the cervical cancer screening programme in Zimbabwe, discuss the possible impact of the COVID-19 pandemic on cervical cancer screening, and offer recommendations for restoration and continuity of this critical service.</p>
+      <p><bold>The set-up of the cervical cancer screening programme in Zimbabwe:</bold> health centres located throughout the country offer visual inspection of the cervix with acetic acid cervicography (VIAC) supported by the Ministry of Health and Child Care (MOHCC) and development partners. Nurses are trained to provide this service with the aim of differentiating grossly normal from abnormal cervices. They offer cryotherapy or refer to higher facilities for further evaluation in uncertain or suspicious cases. Conventional Pap smears are offered in some clinics supported by development partners and at hospitals. Testing for high-risk HPV genotypes is offered through development partners at subsidised costs. Colposcopy services are available at tertiary hospitals, where referred patients are biopsied and offered appropriate treatment. The linkage to care, though not formally evaluated, seems to be working. Parallel screening structures exist in the private sector, but the majority of at-risk women may have no medical insurance and do not afford private care.</p>
+      <p><bold>Effects of the COVID-19 pandemic on cervical cancer screening:</bold> whilst there has been no formal evaluation of the impact of the pandemic on cervical cancer screening to date, postulates can be drawn. The initial response to the pandemic was total shutdown of all services with the exception of critical healthcare and security services [<xref rid="ref1" ref-type="bibr">1</xref>,<xref rid="ref2" ref-type="bibr">2</xref>]. No cervical cancer screening was happening at this time. The lockdowns have been gradually relaxed, but screening services in most centres have remained minimal. Healthcare workers cite lack of adequate personal protective equipment (PPE) to safely and confidently discharge duties, especially for services considered non-critical [<xref rid="ref11" ref-type="bibr">11</xref>]. Evidence emanating from other settings suggests heightened fear and anxiety as contributory factors to non-restoration of services [<xref rid="ref12" ref-type="bibr">12</xref>]. Some centres may also be experiencing shortages of consumables for screening. The COVID-19 pandemic is widely reported to have disrupted supply chains, which may result in increasing costs for importing consumables [<xref rid="ref13" ref-type="bibr">13</xref>]. Client factors contribute to reduced utilisation of services. Individuals who are well may not visit health facilities for fear of contracting COVID-19. An unpublished survey conducted by the risk communication and community engagement pillar noted fear of contracting the disease, fear of being stigmatised as COVID-19 cases and other fears emanating from lack of knowledge as barriers to utilisation. Movement restrictions, transport challenges and poor communication emanating from bad roads and digital networks may further compound reduced health facility visits [<xref rid="ref11" ref-type="bibr">11</xref>].</p>
+      <p><bold>Implications for cervical cancer prevention:</bold> the duration of the pandemic is unpredictable; therefore, clients may not be electively seeking cervical cancer screening services for a long time to come. In a country with a high human immunodeficiency virus (HIV) burden, a risk factor for the high prevalence of cervical cancer, many missed opportunities for prevention exist due to the COVID-19 pandemic. Patients with potentially curable early-stage disease may eventually present with more advanced disease, resulting in higher morbidity and mortality. Advanced cancer requires more expensive and toxic multimodality treatments, and Zimbabwe has struggled with radiotherapy machines, which are only found at the oncology unit in Harare. The cost of cytotoxic medicines is also quite substantial for a fragile economy. Long-term cost-effectiveness analyses of reduced cervical cancer screening must be seriously considered. Screening is not occurring at a time when HPV vaccination services for adolescent girls are interrupted. Human immunodeficiency virus care and treatment services, which are a gateway to cervical cancer screening for the HIV-infected are also disrupted, and some people living with HIV and AIDS (PLWHA) may be encountering disruptions to their treatment [<xref rid="ref14" ref-type="bibr">14</xref>-<xref rid="ref16" ref-type="bibr">16</xref>]. Zimbabwe has an estimated 1.3 million PLWHA [<xref rid="ref14" ref-type="bibr">14</xref>]. Modelling estimates have predicted excess HIV-related deaths in Sub-Saharan Africa in the next four years if disruptions to service provision occur and continue [<xref rid="ref15" ref-type="bibr">15</xref>]. A healthcare system that was reported as fragile before the onset of the pandemic may emerge weaker at the end, and fail to cope with increased disease burden [<xref rid="ref2" ref-type="bibr">2</xref>]. The prevailing health system and its organisation in Zimbabwe presents significant barriers to the uptake of cervical cancer care and treatment [<xref rid="ref8" ref-type="bibr">8</xref>], necessitating the need to restore preventive health services urgently, including cervical cancer screening. Teaching services for undergraduate and postgraduate medical students were negatively impacted. Unfortunately, cervical cancer screening is a transferrable skill, and a protracted duration of reduced training will result in inadequate on-job training for future practitioners. Other HCWs involved in screening also need continuous exposure to the procedure; otherwise efficiency may be lost over time.</p>
+      <p><bold>Recommendations for restoring cervical cancer screening services during the pandemic:</bold> alongside other SRH services, cervical cancer screening must be restored. However, the safety of both HCWs and clients must come first. It is of paramount importance to put in place adequate infection prevention and control (IPC) measures before restoring services. The WHO guidance on maintaining essential services during the COVID-19 pandemic provides useful guidance on rationalising the use of PPE in resource-limited settings [<xref rid="ref17" ref-type="bibr">17</xref>], and contextualised adaptation may be considered. Frameworks for effectively addressing the identified domains must be put in place to encourage restoration of essential cervical cancer screening services and reduce the burden of cervical cancer. Recommendations for restoring cervical cancer screening services during the COVID-19 pandemic are given in <xref rid="T1" ref-type="table">Table 1</xref>.</p>
+      <table-wrap id="T1" orientation="portrait" position="float">
+        <label>Table 1</label>
+        <caption>
+          <p>recommendations for restoring cervical cancer services during the pandemic in Zimbabwe</p>
+        </caption>
+        <table frame="border" rules="all">
+          <thead valign="top">
+            <tr>
+              <th rowspan="1" colspan="1">LEVEL</th>
+              <th rowspan="1" colspan="1">Domain</th>
+              <th rowspan="1" colspan="1">Action/recommendation</th>
+            </tr>
+          </thead>
+          <tbody valign="top">
+            <tr>
+              <td rowspan="5" colspan="1">
+                <bold>Institutional</bold>
+              </td>
+              <td rowspan="2" colspan="1">
+                <bold>Space</bold>
+              </td>
+              <td rowspan="1" colspan="1">Identify and reserve a spacious area for cervical cancer screening which promotes physical distancing.</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">This, like already exists in some unit, can be integrated within sexual and reproductive health units.</td>
+            </tr>
+            <tr>
+              <td rowspan="3" colspan="1">
+                <bold>Infection, prevention and control</bold>
+              </td>
+              <td rowspan="1" colspan="1">Address issues of adequate PPE for cervical cancer screening.</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Recommended by the WHO is a medical mask and an apron, considering that cervical cancer screening is a non-aerosol generating procedure.</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Provide hand washing ports at all screening facilities, and basic temperature checks</td>
+            </tr>
+            <tr>
+              <td rowspan="3" colspan="1">
+                <bold>Client/patient</bold>
+              </td>
+              <td rowspan="1" colspan="1">
+                <bold>Fear</bold>
+              </td>
+              <td rowspan="1" colspan="1">Correct messages through accessible media, including social media to dispel rumours, myths and misconceptions regarding COVID-19.</td>
+            </tr>
+            <tr>
+              <td rowspan="2" colspan="1">
+                <bold>Accessibility</bold>
+              </td>
+              <td rowspan="1" colspan="1">Bring cervical cancer screening activities to clinics nearest to where people stay, especially in the more marginalised areas.</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Development partners, Ministry and local leadership including community leaders can identify space for setting up screening facilities, alongside other components such as family planning.</td>
+            </tr>
+            <tr>
+              <td rowspan="4" colspan="1">
+                <bold>Policy</bold>
+              </td>
+              <td rowspan="2" colspan="1">
+                <bold>Risk communication and community engagement</bold>
+              </td>
+              <td rowspan="1" colspan="1">Critical to educate communities regarding their risk of acquiring COVID-19 at facilities versus in the community. The risk of contracting COVID-19 in the community may be higher than in facilities with adequate IPC measures.</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Information, Education and Communication material must integrate COVID-19 messages with other essential SRH messages, including cervical cancer screening.</td>
+            </tr>
+            <tr>
+              <td rowspan="2" colspan="1">
+                <bold>HCW welfare</bold>
+              </td>
+              <td rowspan="1" colspan="1">Urgently restore remuneration and risk allowances for healthcare workers.</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Life insurance packages that are attractive for healthcare workers help to alleviate anxiety and boost morale.</td>
+            </tr>
+            <tr>
+              <td rowspan="3" colspan="1">
+                <bold>Academic</bold>
+              </td>
+              <td rowspan="2" colspan="1">
+                <bold>Training</bold>
+              </td>
+              <td rowspan="1" colspan="1">Conditions that promote safe teaching and continuous transfer of skills must be put in place urgently.</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Adopt video-conferencing based teaching methods.</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">
+                <bold>Monitoring and evaluation/operational research</bold>
+              </td>
+              <td rowspan="1" colspan="1">Operational research to document the impact of the pandemic on cervical cancer epidemiology including screening.</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec id="S2">
+      <title>Conclusion</title>
+      <p>Restoration of cervical cancer screening in Zimbabwe is critical, to prevent an emerging increase in invasive cervical cancer burden. A multi-stakeholder approach is needed to restore services in an environment that ensures the safety of clients and healthcare workers. Therefore, the government, development partners, the communities and local authorities must work together to develop implementable and affordable interventions to ensure a continuum of cervical cancer preventive services during the ongoing COVID-19 pandemic.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="fn1">
+        <p><bold>Cite this article:</bold> Grant Murewanhema et al. Reduced cervical cancer screening in Zimbabwe as an indirect impact of the COVID-19 pandemic: implications for prevention. Pan African Medical Journal. 2021;38(131). 10.11604/pamj.2021.38.131.27852</p>
+      </fn>
+    </fn-group>
+    <sec id="S3" sec-type="COI-statement">
+      <title>Competing interests</title>
+      <p>The author declares no competing interests.</p>
+    </sec>
+    <sec id="S4">
+      <title>Author&#x2019;s contributions</title>
+      <p>GM developed the concept and developed the primary manuscript. He made critical revisions and finalised the manuscript for submission. The author has read and agreed to the final manuscript.</p>
+    </sec>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="book">
+          <collab>Government of Zimbabwe</collab>
+          <article-title>Zimbabwe COVID-19 operational plan May-July 2020</article-title>
+          <year>2020</year>
+          <publisher-loc>Harare, Zimbabwe</publisher-loc>
+          <publisher-name>Ministry of Health and Child Care</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="other">
+          <collab>United Nations Zimbabwe</collab>
+          <article-title>Immediate socioeconomic response to COVID-19 in Zimbabwe</article-title>
+          <source>A framework for integrated policy analysis and support</source>
+          <year>2020</year>
+          <month>7</month>
+          <day>17</day>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Riley</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sully</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Biddlecom</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Estimates of the potential impact of the COVID-19 pandemic on sexual and reproductive health in low-and middle-income countries</article-title>
+          <source>Int Perspect Sex Reprod Health</source>
+          <year>2020</year>
+          <month>4</month>
+          <day>16</day>
+          <volume>46</volume>
+          <fpage>73</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="pmid">32343244</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>John</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Casey</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Carino</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>McGovern</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Lessons never learned: crisis and gender-based violence</article-title>
+          <source>Dev World Bioeth</source>
+          <year>2020</year>
+          <volume>20</volume>
+          <issue>2</issue>
+          <fpage>65</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">32267607</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hall</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>Samari</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Garbers</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Casey</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Diallo</surname>
+              <given-names>DD</given-names>
+            </name>
+            <name>
+              <surname>Orcutt</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Centring sexual and reproductive health and justice in the global COVID-19 response</article-title>
+          <source>Lancet</source>
+          <year>2020</year>
+          <volume>395</volume>
+          <issue>10231</issue>
+          <fpage>1175</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">32278371</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hussein</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19: what implications for sexual and reproductive health and rights globally?</article-title>
+          <source>Sexual and Reproductive Health Matters</source>
+          <year>2020</year>
+          <volume>28</volume>
+          <issue>1</issue>
+          <fpage>1746065</fpage>
+          <pub-id pub-id-type="pmid">32191167</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chokunonga</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Borok</surname>
+              <given-names>MZ</given-names>
+            </name>
+            <name>
+              <surname>Chingonzoh</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Chirenje</surname>
+              <given-names>ZM</given-names>
+            </name>
+            <name>
+              <surname>Makunike-Mutasa</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Manangazira</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Pattern of cancer in Zimbabwe: Zimbabwe National Cancer Registry 2016 Annual Report</article-title>
+          <source>Dec</source>
+          <year>2018</year>
+          <fpage>1</fpage>
+          <lpage>66</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tapera</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Dreyer</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kadzatsa</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Nyakabau</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Stray-Pedersen</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hendricks</surname>
+              <given-names>Sjh</given-names>
+            </name>
+          </person-group>
+          <article-title>Health system constraints affecting treatment and care among women with cervical cancer in Harare, Zimbabwe</article-title>
+          <source>BMC Health Serv Res</source>
+          <year>2019</year>
+          <volume>19</volume>
+          <issue>1</issue>
+          <fpage>829</fpage>
+          <pub-id pub-id-type="pmid">31718646</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="book">
+          <collab>World Health Organization</collab>
+          <article-title>Human papillomavirus (HPV) and cervical cancer, key facts: how HPV infection leads to cervical cancer</article-title>
+          <year>2020</year>
+          <month>11</month>
+          <day>11</day>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuguyo</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Matimba</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tsikai</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Magwali</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Madziyire</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gidiri</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Cervical cancer in Zimbabwe: a situation analysis</article-title>
+          <source>Pan Afr Med J</source>
+          <year>2017</year>
+          <volume>27</volume>
+          <fpage>215</fpage>
+          <pub-id pub-id-type="pmid">28979617</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murewanhema</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Makurumidze</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic: perspectives and recommendations</article-title>
+          <source>Pan Afr Med J</source>
+          <year>2020</year>
+          <month>8</month>
+          <day>11</day>
+          <volume>35</volume>
+          <issue>Suppl 2</issue>
+          <fpage>143</fpage>
+          <pub-id pub-id-type="pmid">33193958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Apisarnthanarak</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Apisarnthanarak</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Siripraparat</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Saengaram</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Leeprechanon</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Impact of anxiety and fear for COVID-19 toward infection control practices among Thai healthcare workers</article-title>
+          <source>Infect Control Hosp Epidemiol</source>
+          <year>2020</year>
+          <month>9</month>
+          <volume>41</volume>
+          <issue>9</issue>
+          <fpage>1093</fpage>
+          <lpage>1094</lpage>
+          <pub-id pub-id-type="pmid">32507115</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Experts</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Understanding the impact Of COVID-19 on essential medicine supply chains</article-title>
+          <source>Center For Global Development</source>
+          <year>2020</year>
+          <comment>Accessed August 21, 2020</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="other">
+          <collab>UNAIDS</collab>
+          <article-title>Global HIV &amp; AIDS statistics-2020 fact sheet</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jewell</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Mudimu</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Stover</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Brink</surname>
+              <given-names>DT</given-names>
+            </name>
+            <name>
+              <surname>Phillips</surname>
+              <given-names>AN</given-names>
+            </name>
+            <name>
+              <surname>Dphil</surname>
+              <given-names>JAS</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Potential effects of disruption to HIV programmes in sub-Saharan Africa caused by COVID-19: results from multiple mathematical models. The Lancet HIV</article-title>
+          <source>2020 Sep;</source>
+          <volume>7</volume>
+          <issue>9</issue>
+          <fpage>e629</fpage>
+          <lpage>e640</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roberton</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Carter</surname>
+              <given-names>ED</given-names>
+            </name>
+            <name>
+              <surname>Chou</surname>
+              <given-names>VB</given-names>
+            </name>
+            <name>
+              <surname>Stegmuller</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>BD</given-names>
+            </name>
+            <name>
+              <surname>Tam</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Sawadogo-Lewis</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Early estimates of the indirect effects of the COVID-19 pandemic on maternal and child mortality in low-income and middle-income countries: a modelling study</article-title>
+          <source>Lancet Glob Heal</source>
+          <year>2020</year>
+          <month>7</month>
+          <volume>8</volume>
+          <issue>7</issue>
+          <fpage>e901</fpage>
+          <lpage>e908</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17</label>
+        <element-citation publication-type="book">
+          <collab>World Health Organisation</collab>
+          <article-title>COVID-19: operational guidance for maintaining essential health services during an outbreak: interim guidance, 25 March 2020</article-title>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>
