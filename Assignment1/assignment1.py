@@ -8,7 +8,7 @@ from pathlib import Path
 
 Entrez.api_key = 'f1a7da656f5d4442111d3e7fdc19fe74b108'
 Entrez.email = 'masfi.cs@gmail.com'
-#pmid = "30049270"
+
 
 def ncbi_references(pmid):
   results = Entrez.read(Entrez.elink(dbfrom="pubmed",
