@@ -1,0 +1,1091 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="other">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Antibiotics (Basel)</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Antibiotics (Basel)</journal-id>
+      <journal-id journal-id-type="publisher-id">antibiotics</journal-id>
+      <journal-title-group>
+        <journal-title>Antibiotics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2079-6382</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35203846</article-id>
+      <article-id pub-id-type="pmc">8868384</article-id>
+      <article-id pub-id-type="doi">10.3390/antibiotics11020244</article-id>
+      <article-id pub-id-type="publisher-id">antibiotics-11-00244</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Viewpoint</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Inappropriate Antibiotic Use in Zimbabwe in the COVID-19 Era: A Perfect Recipe for Antimicrobial Resistance</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6306-8916</contrib-id>
+          <name>
+            <surname>Chitungo</surname>
+            <given-names>Itai</given-names>
+          </name>
+          <xref rid="af1-antibiotics-11-00244" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9929-5739</contrib-id>
+          <name>
+            <surname>Dzinamarira</surname>
+            <given-names>Tafadzwa</given-names>
+          </name>
+          <xref rid="af2-antibiotics-11-00244" ref-type="aff">2</xref>
+          <xref rid="af3-antibiotics-11-00244" ref-type="aff">3</xref>
+          <xref rid="c1-antibiotics-11-00244" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0367-4265</contrib-id>
+          <name>
+            <surname>Nyazika</surname>
+            <given-names>Tinashe K.</given-names>
+          </name>
+          <xref rid="af4-antibiotics-11-00244" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0107-8128</contrib-id>
+          <name>
+            <surname>Herrera</surname>
+            <given-names>Helena</given-names>
+          </name>
+          <xref rid="af5-antibiotics-11-00244" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9077-4429</contrib-id>
+          <name>
+            <surname>Musuka</surname>
+            <given-names>Godfrey</given-names>
+          </name>
+          <xref rid="af2-antibiotics-11-00244" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7531-730X</contrib-id>
+          <name>
+            <surname>Murewanhema</surname>
+            <given-names>Grant</given-names>
+          </name>
+          <xref rid="af6-antibiotics-11-00244" ref-type="aff">6</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Onorato</surname>
+            <given-names>Lorenzo</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-antibiotics-11-00244"><label>1</label>Chemical Pathology Unit, Department of Medical Laboratory Sciences, Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare, Zimbabwe; <email>ichitungo@medsch.uz.ac.zw</email></aff>
+      <aff id="af2-antibiotics-11-00244"><label>2</label>School of Health Systems &amp; Public Health, University of Pretoria, Pretoria 0002, South Africa; <email>gm2660@cumc.columbia.edu</email></aff>
+      <aff id="af3-antibiotics-11-00244"><label>3</label>ICAP at Columbia University, Harare, Zimbabwe</aff>
+      <aff id="af4-antibiotics-11-00244"><label>4</label>Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool L3 5QA, UK; <email>tknyazika@gmail.com</email></aff>
+      <aff id="af5-antibiotics-11-00244"><label>5</label>School of Pharmacy and Biomedical Sciences, University of Portsmouth, Portsmouth PO1 2UP, UK; <email>helena.herrera@port.ac.uk</email></aff>
+      <aff id="af6-antibiotics-11-00244"><label>6</label>Unit of Obstetrics and Gynaecology, Department of Primary Health Care Sciences, Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare, Zimbabwe; <email>gmurewanhema@yahoo.com</email></aff>
+      <author-notes>
+        <corresp id="c1-antibiotics-11-00244"><label>*</label>Correspondence: <email>td2581@cumc.columbia.edu</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>2</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>2</month>
+        <year>2022</year>
+      </pub-date>
+      <volume>11</volume>
+      <issue>2</issue>
+      <elocation-id>244</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>1</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>2</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2022 by the authors.</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The global COVID-19 pandemic has resulted in an upsurge in antimicrobial use. The increase in use is multifactorial, and is particularly related to the empirical treatment of SARS-CoV-2 and suspected coinfections with antimicrobials and the limited quality of diagnostics to differentiate viral and bacterial pneumonia. The lack of clear clinical guidelines across a wide range of settings, and the inadequacy of public health sectors in many countries, have contributed to this pattern. The increased use of antimicrobials has the potential to increase incidences of antimicrobial resistance, especially in low-resource countries such as Zimbabwe already grappling with multidrug-resistant micro-organism strains. By adopting the antimicrobial stewardship principles of the correct prescription and optimised use of antimicrobials, as well as diagnostic stewardship, revamping regulatory oversight of antimicrobial surveillance may help limit the occurrence of antimicrobial resistance during this pandemic.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>COVID-19</kwd>
+        <kwd>antimicrobial resistance</kwd>
+        <kwd>antimicrobial stewardship</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-antibiotics-11-00244">
+      <title>1. Introduction</title>
+      <p>The ongoing battle with coronavirus disease 2019 (COVID-19) started when it was first designated a pandemic in March 2020. The pandemic has presented unprecedented challenges for the population, with over five million confirmed fatalities from the disease globally over two years [<xref rid="B1-antibiotics-11-00244" ref-type="bibr">1</xref>]. As COVID-19 is a novel virus whose treatment strategies were unknown at the onset, one of the most significant and ongoing challenges that initially emerged was the use of unauthorised, substandard, and falsified prevention and treatment pharmacological packages supplied via formal and informal channels. The lack of clear clinical guidelines across a wide range of settings, and the inadequacy of public health sectors in many countries, have contributed to this pattern. The pandemic has, as a result, witnessed a surge in antimicrobial prescription and use, which has resulted in a growing concern for a potential rise in antimicrobial resistance (AMR) [<xref rid="B2-antibiotics-11-00244" ref-type="bibr">2</xref>]. This comes at a time when the World Health Organisation (WHO) has brought to the fore the threat of AMR and has renewed its calls for antimicrobial stewardship (AMS) to preserve the antimicrobials, which are currently still effective for future generations [<xref rid="B3-antibiotics-11-00244" ref-type="bibr">3</xref>].</p>
+      <p>The discovery of antibiotics in the early 20th century significantly improved the treatment and management of bacterial infections. Over the subsequent years, there was a rapid expansion in the range of not only the antibacterial agents, but also the other antimicrobial agents available to treat different kinds of infection, with access to them increasing for the general population. The availability of effective antimicrobial agents, especially in sub-Saharan Africa, where the burden of infectious diseases is high, remains critical for adequate patient outcomes. However, over the years, antimicrobials, and in particular antibiotics, have prevailed as the most prescribed medications for patients, when their use has not been appropriate [<xref rid="B4-antibiotics-11-00244" ref-type="bibr">4</xref>]. Both the overuse and improper use of antibiotics (including in humans, livestock, and food production), poor infection prevention and control practices, and international travel are considered some of the leading drivers for the emergence and spread of AMR [<xref rid="B5-antibiotics-11-00244" ref-type="bibr">5</xref>].</p>
+      <p>The negative consequences of increasing AMR to global health are well documented and multiple, and include limiting the treatment options for resistant pathogens responsible for significant burdens of disease. For example, multidrug-resistant tuberculosis (MDR-TB) has emerged, requiring more antibiotics, and with increased toxicity to patients and high costs. In the case of tuberculosis, even extreme drug-resistant TB (XDR-TB) has been documented, which has serious global health implications [<xref rid="B6-antibiotics-11-00244" ref-type="bibr">6</xref>]. A recently published systematic analysis of the global burden of bacterial AMR in 2019 highlights the magnitude of the problem. Based on predictive mathematical models, an estimated 4.95 million (95% CI 3.62&#x2013;6.57 million) deaths were associated with bacterial AMR in that year, with 1.27 million (0.911&#x2013;1.71) attributable to AMR. The highest burden of all-age death rates attributable to AMR is estimated to occur in the western sub-Saharan Africa region, at 27.3 deaths per 100,000 (20.9&#x2013;35.3). In this way, AMR is killing more people than HIV or malaria, [<xref rid="B7-antibiotics-11-00244" ref-type="bibr">7</xref>] compromising clinical outcomes and leading to an economic impact that cannot be ignored.</p>
+      <p>AMR results from the natural evolutionary response to antimicrobial exposure and pressure by micro-organisms to acquire the ability to withstand antimicrobial drugs. A key recommendation to fighting AMR is optimising antibiotic use through the correct dosage and administration, ensuring antimicrobial treatment regimens are completed to prevent the survival of the more resistant organisms. Examples of organisms where resistance is widespread have been identified, leading to limited treatment options and serious threats to public health. In the past, significant examples in Zimbabwe have included the reduced effectiveness of antimalarial drugs, which have shifted from chloroquine to sulphadoxine-pyrimethamine to artemisinin-based combination treatments over two decades [<xref rid="B8-antibiotics-11-00244" ref-type="bibr">8</xref>]. Similarly, reports of the resistance of <italic toggle="yes">Neisseria gonorrhoeae</italic> to fluoroquinolones have been noted [<xref rid="B9-antibiotics-11-00244" ref-type="bibr">9</xref>]. The current pattern of antimicrobial prescription and use in Zimbabwe during the COVID-19 era provides a conducive cultural environment to precipitate and propagate AMR, posing a severe threat to the treatment of infectious diseases in the future in a country that already has limited treatment options. Hence, from this viewpoint, we discuss how the ongoing COVID-19 pandemic is contributing to AMR in Zimbabwe, and suggest possible solutions to this global health threat.</p>
+    </sec>
+    <sec id="sec2-antibiotics-11-00244">
+      <title>2. Drivers of Antimicrobial Resistance in the COVID-19 Era</title>
+      <sec id="sec2dot1-antibiotics-11-00244">
+        <title>2.1. Empirical Treatment for Suspected Bacterial Infections</title>
+        <p>A previous literature review demonstrated the growing problem of AMR during the COVID-19 pandemic. Potential drivers of AMR in this review were noted as inappropriate antimicrobial exposure, environmental contamination, and the discontinuation of some infection-prevention and control measures. We discuss here some drivers of AMR applicable to Zimbabwe.</p>
+        <p>COVID-19 patients may receive antimicrobial treatment for several reasons, some of which we highlight here. First, COVID-19 infection has some similarities with bacterial pneumonia. Secondly, the lack of effective SARS-CoV-2 treatment and management guidelines leads to uncertainty, and potentially to the overuse of antibiotics [<xref rid="B10-antibiotics-11-00244" ref-type="bibr">10</xref>]. Lastly, COVID-19 patients may acquire superimposed bacterial infections that require antimicrobial treatment [<xref rid="B11-antibiotics-11-00244" ref-type="bibr">11</xref>,<xref rid="B12-antibiotics-11-00244" ref-type="bibr">12</xref>]. The WHO has published guidelines for the clinical management of patients with COVID-19. However, countries have developed their treatment guidelines for the disease based on resource availability and local infection patterns, contrary to WHO guidelines that advocate that COVID-19 patients are to be administered appropriate antimicrobials after the identification of sepsis [<xref rid="B13-antibiotics-11-00244" ref-type="bibr">13</xref>].</p>
+        <p>The initial management of COVID-19 was based on early reports from China and modelled using the historical influenza pandemic, which highlighted the potential for a high number of bacterial coinfections [<xref rid="B14-antibiotics-11-00244" ref-type="bibr">14</xref>]. Some studies also indicated that azithromycin had the potential to disrupt viral replication. Zimbabwe, like other nations, drafted COVID-19 treatment and management protocols based on these reports. The absence of a standard treatment regimen for COVID-19, combined with the lack of laboratory facilities for testing in resource-limited countries, caused some nations to adopt empirical approaches to antimicrobial prescription and use, leading to the rampant use of antimicrobials such as azithromycin, doxycycline, and ceftriaxone to treat and manage COVID-19 patients [<xref rid="B6-antibiotics-11-00244" ref-type="bibr">6</xref>,<xref rid="B13-antibiotics-11-00244" ref-type="bibr">13</xref>,<xref rid="B15-antibiotics-11-00244" ref-type="bibr">15</xref>]. At the same time, the use of antibiotics such as ceftriaxone for patients with severe COVID-19 who have presumptive superimposed bacterial infections found its way into national treatment guidelines [<xref rid="B15-antibiotics-11-00244" ref-type="bibr">15</xref>,<xref rid="B16-antibiotics-11-00244" ref-type="bibr">16</xref>]. A rapid review of COVID-19 treatment guidelines across 10 African countries, including Zimbabwe, noted that a wide range of antimicrobials was included for use without a solid scientific basis [<xref rid="B15-antibiotics-11-00244" ref-type="bibr">15</xref>]. Similarly, antiparasitic and disease-modifying agents, such as hydroxychloroquine and ivermectin, have been widely used, whilst antivirals have also been prescribed indiscriminately in some settings [<xref rid="B16-antibiotics-11-00244" ref-type="bibr">16</xref>,<xref rid="B17-antibiotics-11-00244" ref-type="bibr">17</xref>]. This irrational pattern of use has led to fears of the emergence and propagation of widespread AMR globally. AMR is one of the emerging global health threats of the 21st century; therefore, effective ways of preventing its emergence are urgently called for. This is more so in sub-Saharan Africa, where many diseases of public health significance are infectious in their aetiology [<xref rid="B18-antibiotics-11-00244" ref-type="bibr">18</xref>].</p>
+        <p>Despite the widespread prescription of antibacterial antimicrobials from the onset of the COVID-19 pandemic, subsequent studies have indicated that, in most cases, less than 5% of the patients had bacterial coinfections. The International Severe Acute Respiratory and Emerging Infections Consortium (ISARIC) reports that about a third of COVID-19 treatments include antimicrobial drugs, set against a 7 to 8% bacterial or fungal coinfection rate based on results from meta-analyses [<xref rid="B6-antibiotics-11-00244" ref-type="bibr">6</xref>,<xref rid="B19-antibiotics-11-00244" ref-type="bibr">19</xref>].</p>
+      </sec>
+      <sec id="sec2dot2-antibiotics-11-00244">
+        <title>2.2. Limited Diagnostic Capacity</title>
+        <p>Laboratory diagnosis is essential to distinguish between viral and bacterial pneumonia. Challenges in accessing COVID-19 testing, or prolonged turnaround times to differentiate between COVID-19 and bacteria pneumonia, lead to empirical treatment without the determination of the aetiology of the disease. Initially, COVID-19 real-time polymerase chain reaction (RT-PCR) testing was not easily accessible in resource-limited settings. Despite Zimbabwe&#x2019;s move to cheaper rapid antigen detection test kits, these are not always readily available, accessible, or affordable. Additionally, COVID-19 patients may acquire secondary bacterial coinfections which require antimicrobial treatment [<xref rid="B11-antibiotics-11-00244" ref-type="bibr">11</xref>]. This is more so in severely ill, hospitalised, or bed-ridden patients who may easily acquire nosocomial infections. Correct diagnosis of the infecting micro-organisms is critical for the administration of the appropriate antimicrobial treatment, mainly as some nosocomially acquired microbes might already have developed resistance to a wide range of antibiotics, an example being methicillin-resistant <italic toggle="yes">Staphylococcus aureus</italic> (MRSA). Microscopy, culture, and sensitivity (MCS) is the generally accepted effective and accurate method of identifying microbial infections in a biomedical laboratory. However, most clinicians adopt empiric treatment for presumed pneumonia [<xref rid="B20-antibiotics-11-00244" ref-type="bibr">20</xref>]. MCS assays for diagnosing bacterial infections and determining the appropriate antibiotics to prescribe are also not readily available in most resource-limited settings, especially at lower levels of healthcare such as clinics, rural hospitals, and district-level hospitals. In Zimbabwe, these assays are generally only available at provincial- and tertiary-level hospitals; however, the current harsh economic situation in the country has led to a shortage of equipment, reagents [<xref rid="B21-antibiotics-11-00244" ref-type="bibr">21</xref>], and appropriately qualified laboratory scientists [<xref rid="B22-antibiotics-11-00244" ref-type="bibr">22</xref>]. In the absence of MCS results, clinicians offer treatment based on their epidemiological knowledge of local infection patterns. Similarly, for patients with severe COVID-19 at risk of prolonged recumbence and superimposed hypostatic bacterial pneumonias, clinicians in some settings empirically prescribe broad-spectrum antimicrobials in the absence of MCS results. Due to fears of AMR by clinicians, some antibiotics such as meropenem, which should only be prescribed based on a supporting culture, are given in the absence of MCS results, leading to reduced treatment options for patients, contrary to AMS principles [<xref rid="B6-antibiotics-11-00244" ref-type="bibr">6</xref>].</p>
+      </sec>
+      <sec id="sec2dot3-antibiotics-11-00244">
+        <title>2.3. Increased Use of Falsified and Substandard Antimicrobials</title>
+        <p>The pandemic is exacerbating the already proliferating market of falsified or substandard antimicrobials. According to the WHO, substandard products are &#x201C;authorized medical products that fail to meet quality standards or specifications, or both,&#x201D; and falsified products are &#x201C;products that deliberately/fraudulently misrepresent identity, composition, or source.&#x201D; [<xref rid="B23-antibiotics-11-00244" ref-type="bibr">23</xref>]. Falsified and substandard antimicrobial drugs lead to treatment failure, adverse clinical outcomes, and AMR development due to sub-therapeutic drug dosage [<xref rid="B24-antibiotics-11-00244" ref-type="bibr">24</xref>,<xref rid="B25-antibiotics-11-00244" ref-type="bibr">25</xref>]. Strategies to curb the spread of SARS-CoV-2, such as international travel and trade restrictions at the onset of the COVID-19 pandemic, led to supply chain disruptions and pharmaceutical regulatory governance challenges that created opportunities for the increased influx of falsified, substandard drugs [<xref rid="B23-antibiotics-11-00244" ref-type="bibr">23</xref>,<xref rid="B26-antibiotics-11-00244" ref-type="bibr">26</xref>,<xref rid="B27-antibiotics-11-00244" ref-type="bibr">27</xref>,<xref rid="B28-antibiotics-11-00244" ref-type="bibr">28</xref>]. While the precise market share of informal street markets in low- and middle-income countries is unknown, a study in Nigeria suggested that more than 40% of rural communities consult and purchase drugs from street vendors for illnesses such as childhood fevers [<xref rid="B25-antibiotics-11-00244" ref-type="bibr">25</xref>,<xref rid="B29-antibiotics-11-00244" ref-type="bibr">29</xref>,<xref rid="B30-antibiotics-11-00244" ref-type="bibr">30</xref>]. The use of counterfeit vaccines and antimicrobials leads to the development of new SARS-CoV-2 variants and the emergence of AMR. This is a serious global health threat that needs an urgent discourse at the international level. Thus, strong recommendations and regulatory frameworks must be put in place by individual countries and the WHO to curb the growing markets for falsified or substandard medicines.</p>
+      </sec>
+      <sec id="sec2dot4-antibiotics-11-00244">
+        <title>2.4. Poor Adherence and Compliance to Treatments</title>
+        <p>The ongoing COVID-19 pandemic has led to disruptions or delays in diagnosis, treatment, or management of chronic infections such as tuberculosis (TB) and the human immunodeficiency virus (HIV) in Zimbabwe [<xref rid="B31-antibiotics-11-00244" ref-type="bibr">31</xref>]. This can potentially lead to selection for drug resistance. Similarly, the disruption of vaccination services may contribute to an increased risk of infections and overuse of antimicrobials [<xref rid="B32-antibiotics-11-00244" ref-type="bibr">32</xref>,<xref rid="B33-antibiotics-11-00244" ref-type="bibr">33</xref>]. Access to testing and care for people living with HIV (PLWH) and TB patients was disrupted due to the restrictive measures imposed to curb the spread of the SARS-CoV-2 virus [<xref rid="B34-antibiotics-11-00244" ref-type="bibr">34</xref>,<xref rid="B35-antibiotics-11-00244" ref-type="bibr">35</xref>]. The disruption to care access and medication for these vulnerable groups can lead to treatment defaults, and potentially the development of resistance. Inclusion of training on AMR for all healthcare workers and subsequent dissemination of such information to communities through various communication channels is an important way of safeguarding against AMR.</p>
+      </sec>
+      <sec id="sec2dot5-antibiotics-11-00244">
+        <title>2.5. Misinformation</title>
+        <p>A collision of factors during the COVID-19 pandemic has contributed to the spread of misinformation about the disease and the use of antimicrobials. The initial politicisation and underestimation of the pandemic led to inconsistent messaging and confusion among the public. The initial lack of recognition of the existence and characteristics of COVID-19 [<xref rid="B36-antibiotics-11-00244" ref-type="bibr">36</xref>], and the emphasis that the pneumonia-like disease is curable with antibiotics, resulted in an increase in their use, especially azithromycin. This position is more challenging for antimicrobial stewardship (AMS) in low- and middle-income countries (LMICs), which already have a high burden of multidrug-resistant organisms. This situation has not been helped by the rapid dissemination of preprints of poorly designed research studies and the premature or inaccurate media reporting of unsubstantiated findings that often followed. The deluge of misinformation, and limited access to timely, verified, and quality evidence for healthcare professionals primarily in LMICs, exacerbated COVID-19 management controversies. For example, in Zimbabwe, the rampant use of ivermectin has persisted as a contentious issue in the medical community [<xref rid="B37-antibiotics-11-00244" ref-type="bibr">37</xref>].</p>
+      </sec>
+      <sec id="sec2dot6-antibiotics-11-00244">
+        <title>2.6. Antimicrobial Stewardship Deprioritisation</title>
+        <p>The ongoing pandemic has caused disruption of routine health services, leading to staff and resource redeployments to fight COVID-19 [<xref rid="B38-antibiotics-11-00244" ref-type="bibr">38</xref>]. This has had the effect of overlooking and deprioritising AMS programmes that rely on multidisciplinary collaborations and the regular review of practices [<xref rid="B39-antibiotics-11-00244" ref-type="bibr">39</xref>]. Reduced opportunities to optimse antimicrobial therapy in patients have followed, paired with a lack of expertise in generating evidence-based guidelines for antimicrobial prescribing for COVID-19. Misinformation, alongside anxiety within a medical community facing deteriorating patients [<xref rid="B40-antibiotics-11-00244" ref-type="bibr">40</xref>], has led to increased instances of antimicrobial use and prescriptions, against AMS principles. In Zimbabwe, COVID-19 management was prioritised at the expense of AMS. An example of this is how human resource and testing platforms, such as gene experts for TB, were repurposed to fight the pandemic.</p>
+      </sec>
+    </sec>
+    <sec id="sec3-antibiotics-11-00244">
+      <title>3. Strategies to Address Antimicrobial Resistance</title>
+      <sec id="sec3dot1-antibiotics-11-00244">
+        <title>3.1. Antimicrobial Stewardship</title>
+        <p>Antimicrobial stewardship (AMS) refers to interventions aimed at improving the rational use of antimicrobials by optimising drug selection, dose, duration, and routes of administration, while minimising toxicity and the conditions for selecting resistant strains [<xref rid="B41-antibiotics-11-00244" ref-type="bibr">41</xref>]. Microbiology laboratories aid AMS by ensuring a quick turnaround for the accurate identification of micro-organisms, and by issuing curated antimicrobial susceptibility reports. Methods for arriving at a correct diagnosis depend on diagnostic stewardship, which optimises sample collection and management by implementing robust quality-assurance processes [<xref rid="B42-antibiotics-11-00244" ref-type="bibr">42</xref>]. The combined strategies of AMS and diagnostic stewardship ensure better patient outcomes (reducing morbidity, mortality, and adverse events), the optimum use of available resources, and the preservation of the clinical effectiveness of antimicrobials by slowing down AMR [<xref rid="B43-antibiotics-11-00244" ref-type="bibr">43</xref>,<xref rid="B44-antibiotics-11-00244" ref-type="bibr">44</xref>]. The ongoing COVID-19 pandemic poses significant threats to AMS activities and is perceived to be a potent driver of AMR.</p>
+        <p>A combination of proper guideline development and education on the appropriate use of antimicrobials will empower prescribing clinicians and lead to a sustained cultural change in antimicrobial utilisation without compromising patient outcomes and improvements in resistance patterns and costs [<xref rid="B4-antibiotics-11-00244" ref-type="bibr">4</xref>]. Even though the ongoing pandemic is stretching the limits of optimal antibiotic stewardship, a coordinated approach to developing a consensus on the evidence-based guidelines for empirical use of an antimicrobial, and the continued survey of their use by local stewardship teams, are essential to arrest the continued AMR risk [<xref rid="B12-antibiotics-11-00244" ref-type="bibr">12</xref>]. Once national guidelines are promulgated, prescribers must adhere to them during the ongoing COVID-19 pandemic and beyond. For example, Zimbabwe has the Essential Medicines List in Zimbabwe (formerly Essential Drug List in Zimbabwe, EDLIZ), which guides how antibiotics should be prescribed and states the level of care at which they can be used. Patients should also be educated on the appropriate use of antimicrobials, emphasising that these do not treat or cure viral infections such as COVID-19 and influenza [<xref rid="B33-antibiotics-11-00244" ref-type="bibr">33</xref>].</p>
+      </sec>
+      <sec id="sec3dot2-antibiotics-11-00244">
+        <title>3.2. Strengthen Diagnostics and Surveillance</title>
+        <p>The early diagnosis of SARS-COV-2 infection is crucial to curbing excessive antimicrobial use [<xref rid="B12-antibiotics-11-00244" ref-type="bibr">12</xref>]. Strengthening laboratory diagnostics through capacity building (both laboratory and personnel) is needed to tackle COVID-19 surveillance and guide AMS and diagnostic stewardship, especially at the primary healthcare level in Zimbabwe. With robust laboratory systems in place, the evidence-based prescription and use of antimicrobials will increase, and AMR monitoring and surveillance will become less challenging, informing policy and practice. Countries must take advantage of some of the emerging or improved diagnostics to build back better from the COVID-19 pandemic and help in the fight against AMR.</p>
+        <p>The surveillance of antibiotic use in the community is essential to inform and evaluate strategies for the prevention and control of AMR [<xref rid="B5-antibiotics-11-00244" ref-type="bibr">5</xref>]. Countries should regularly analyse these data to identify trends, develop and implement standard operating procedures, and design awareness campaigns to improve and optimise antimicrobial use in communities. This should then inform national action plans for the appropriate use of antimicrobial agents, whose effectiveness should be monitored through prospective and continuous surveillance of their resistance. Surveillance data allow for trends and resistance hotspots to be identified, informing strategies to address the arising challenges [<xref rid="B19-antibiotics-11-00244" ref-type="bibr">19</xref>]. Surveillance of AMR in Zimbabwe is currently not as visible; therefore, moving forth, there is a need to strengthen this important aspect, including through the National Microbiology Reference Laboratory and frequent discourses between scientists, clinicians, and public health stakeholders. Resistance testing, where available, should routinely be embedded in surveillance systems for AMR to appropriately inform clinicians on what to prescribe.</p>
+      </sec>
+      <sec id="sec3dot3-antibiotics-11-00244">
+        <title>3.3. Antimicrobial Legislation</title>
+        <p>AMR is being fought through the development and implementation of regulations and policies. Various countries have enacted legislation to combat antimicrobial prescription, use, and particularly their routine release into the environment at pharmaceutical manufacturing sites as part of the production process. [<xref rid="B45-antibiotics-11-00244" ref-type="bibr">45</xref>]. Robust regulatory frameworks and other measures are critical to curbing the proliferation of falsified and substandard medicines through building national and international regulatory capacity to strengthen the overall regulatory footprint. The African health information technology start-up company RxAll Inc. is testing an innovative approach using a handheld scanner to compare drug spectral scans with data in a cloud database for drug authenticity [<xref rid="B23-antibiotics-11-00244" ref-type="bibr">23</xref>]. The technology, once validated and operational, has the potential to monitor drug supply chains from manufacturing to the point of prescription to the patient, significantly strengthening drug monitoring and regulation</p>
+      </sec>
+      <sec id="sec3dot4-antibiotics-11-00244">
+        <title>3.4. Communication</title>
+        <p>Most LMICs are overburdened with multidrug-resistant organisms and antimicrobial-use misinformation, combined with a lack of basic knowledge or limited understanding of SARS-CoV-2 infections. This has caused both the public, and in some instances, medical professionals, to have an over-reliance on prescription antimicrobials. A strategy to fight misinformation should be in place and needs to be effective in combating the different routes of misinformation at present, particularly social media. The WHO and the Africa Centre for Disease Control and Prevention already use their digital platforms to optimise antimicrobial use and tackle misinformation by discussing the ineffectiveness of antimicrobials as a primary treatment for COVID-19. Additionally, concerted efforts to rapidly disseminate accurate, timely evidence updates to healthcare workers are essential to the evidence-based management of COVID-19.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec4-antibiotics-11-00244">
+      <title>4. Conclusions</title>
+      <p>The continued emergence of AMR, worsened by the ongoing COVID-19 pandemic, is an urgent global health priority that needs an urgent discourse at the global level. Concerted, international, multistakeholder approaches to effectively combatting this challenge require commitment and collaboration, as fixing the problem at the individual-country level could be a challenge. Key global health priorities are strengthening AMS activities within and beyond countries and leveraging pre-existing systems, but also taking advantage of improved and emerging diagnostics during the COVID-19 pandemic and beyond. Zimbabwe, as an LMIC with limited capacity for effective AMR, must build international partnerships, especially with research institutions from developed countries and international development partners, to improve its capacity to effectively deal with the ever-growing threat of AMR.</p>
+      <p>AMR is globally recognised as a growing political concern with profound repercussions for social, economic, human, and animal health. Rebuilding from the COVID-19 pandemic, some of the strategies to address the AMR challenge include issuing clear messages on the pandemic and treatment guidelines to counter misinformation, training of healthcare workers on AMS principles, strengthening AMS through legislation, and capacitation of laboratories to enhance diagnostic stewardship. The collective responsibility for developing and implementing action plans to address antimicrobial use and abuse to avert a public health crisis resulting from AMR is, therefore, a priority.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p><bold>Publisher&#x2019;s Note:</bold> MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualisation, G.M. (Grant Murewanhema), T.D. and G.M. (Godfrey Musuka); writing&#x2014;original draft preparation, I.C., T.D. and G.M. (Grant Murewanhema); writing&#x2014;review and editing, T.K.N., H.H. and G.M. (Godfrey Musuka). All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Funding</title>
+      <p>This research received no external funding.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-antibiotics-11-00244">
+        <label>1.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group>
+          <article-title>Coronavirus (COVID-19) Dashboard</article-title>
+          <year>2021</year>
+          <comment>Available online: <ext-link xlink:href="https://covid19.who.int/" ext-link-type="uri">https://covid19.who.int/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-01-19">(accessed on 19 January 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B2-antibiotics-11-00244">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lucien</surname><given-names>M.A.B.</given-names></name>
+<name><surname>Canarie</surname><given-names>M.F.</given-names></name>
+<name><surname>Kilgore</surname><given-names>P.E.</given-names></name>
+<name><surname>Jean-Denis</surname><given-names>G.</given-names></name>
+<name><surname>F&#xE9;n&#xE9;lon</surname><given-names>N.</given-names></name>
+<name><surname>Pierre</surname><given-names>M.</given-names></name>
+<name><surname>Cerpa</surname><given-names>M.</given-names></name>
+<name><surname>Joseph</surname><given-names>G.A.</given-names></name>
+<name><surname>Maki</surname><given-names>G.</given-names></name>
+<name><surname>Zervos</surname><given-names>M.J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Antibiotics and antimicrobial resistance in the COVID-19 era: Perspective from resource-limited settings</article-title>
+          <source>Int. J. Infect. Dis.</source>
+          <year>2021</year>
+          <volume>104</volume>
+          <fpage>250</fpage>
+          <lpage>254</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijid.2020.12.087</pub-id>
+          <pub-id pub-id-type="pmid">33434666</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-antibiotics-11-00244">
+        <label>3.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group>
+          <article-title>Antimicrobial Resistance (Fact Sheet)</article-title>
+          <year>2021</year>
+          <comment>Available online: <ext-link xlink:href="https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance" ext-link-type="uri">https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-01-22">(accessed on 22 January 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B4-antibiotics-11-00244">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Bagga</surname><given-names>B.</given-names></name>
+<name><surname>Stultz</surname><given-names>J.S.</given-names></name>
+<name><surname>Arnold</surname><given-names>S.</given-names></name>
+<name><surname>Lee</surname><given-names>K.R.</given-names></name>
+</person-group>
+          <article-title>A Culture Change: Impact of a Pediatric Antimicrobial Stewardship Program Based on Guideline Implementation and Prospective Audit with Feedback</article-title>
+          <source>Antibiotics</source>
+          <year>2021</year>
+          <volume>10</volume>
+          <elocation-id>1307</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/antibiotics10111307</pub-id>
+          <pub-id pub-id-type="pmid">34827245</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-antibiotics-11-00244">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Bruyndonckx</surname><given-names>R.</given-names></name>
+<name><surname>Hoxha</surname><given-names>A.</given-names></name>
+<name><surname>Quinten</surname><given-names>C.</given-names></name>
+<name><surname>Ayele</surname><given-names>G.M.</given-names></name>
+<name><surname>Coenen</surname><given-names>S.</given-names></name>
+<name><surname>Versporten</surname><given-names>A.</given-names></name>
+<name><surname>Adriaenssens</surname><given-names>N.</given-names></name>
+<name><surname>Muller</surname><given-names>A.</given-names></name>
+<name><surname>Heuer</surname><given-names>O.</given-names></name>
+<name><surname>Monnet</surname><given-names>D.L.</given-names></name>
+</person-group>
+          <article-title>Change-points in antibiotic consumption in the community, European Union/European Economic Area, 1997&#x2013;2017</article-title>
+          <source>J. Antimicrob. Chemother.</source>
+          <year>2021</year>
+          <volume>76</volume>
+          <fpage>ii68</fpage>
+          <lpage>ii78</lpage>
+          <pub-id pub-id-type="doi">10.1093/jac/dkab179</pub-id>
+          <pub-id pub-id-type="pmid">34312659</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-antibiotics-11-00244">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ghosh</surname><given-names>S.</given-names></name>
+<name><surname>Bornman</surname><given-names>C.</given-names></name>
+<name><surname>Zafer</surname><given-names>M.M.</given-names></name>
+</person-group>
+          <article-title>Antimicrobial Resistance Threats in the emerging COVID-19 pandemic: Where do we stand?</article-title>
+          <source>J. Infect. Public Health</source>
+          <year>2021</year>
+          <volume>14</volume>
+          <fpage>555</fpage>
+          <lpage>560</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jiph.2021.02.011</pub-id>
+          <pub-id pub-id-type="pmid">33848884</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-antibiotics-11-00244">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Laxminarayan</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>The overlooked pandemic of antimicrobial resistance</article-title>
+          <source>Lancet</source>
+          <year>2022</year>
+          <volume>399</volume>
+          <fpage>606</fpage>
+          <lpage>607</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(22)00087-3</pub-id>
+          <pub-id pub-id-type="pmid">35065701</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-antibiotics-11-00244">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dixon</surname><given-names>J.</given-names></name>
+<name><surname>MacPherson</surname><given-names>E.E.</given-names></name>
+<name><surname>Nayiga</surname><given-names>S.</given-names></name>
+<name><surname>Manyau</surname><given-names>S.</given-names></name>
+<name><surname>Nabirye</surname><given-names>C.</given-names></name>
+<name><surname>Kayendeke</surname><given-names>M.</given-names></name>
+<name><surname>Sanudi</surname><given-names>E.</given-names></name>
+<name><surname>Nkaombe</surname><given-names>A.</given-names></name>
+<name><surname>Mareke</surname><given-names>P.</given-names></name>
+<name><surname>Sitole</surname><given-names>K.</given-names></name>
+</person-group>
+          <article-title>Antibiotic stories: A mixed-methods, multi-country analysis of household antibiotic use in Malawi, Uganda and Zimbabwe</article-title>
+          <source>BMJ Glob. Health</source>
+          <year>2021</year>
+          <volume>6</volume>
+          <fpage>e006920</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmjgh-2021-006920</pub-id>
+          <pub-id pub-id-type="pmid">34836911</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-antibiotics-11-00244">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mhondoro</surname><given-names>M.</given-names></name>
+<name><surname>Ndlovu</surname><given-names>N.</given-names></name>
+<name><surname>Bangure</surname><given-names>D.</given-names></name>
+<name><surname>Juru</surname><given-names>T.</given-names></name>
+<name><surname>Gombe</surname><given-names>N.T.</given-names></name>
+<name><surname>Shambira</surname><given-names>G.</given-names></name>
+<name><surname>Nsubuga</surname><given-names>P.</given-names></name>
+<name><surname>Tshimanga</surname><given-names>M.</given-names></name>
+</person-group>
+          <article-title>Trends in antimicrobial resistance of bacterial pathogens in Harare, Zimbabwe, 2012&#x2013;2017: A secondary dataset analysis</article-title>
+          <source>BMC Infect. Dis.</source>
+          <year>2019</year>
+          <volume>19</volume>
+          <elocation-id>746</elocation-id>
+          <pub-id pub-id-type="doi">10.1186/s12879-019-4295-6</pub-id>
+          <pub-id pub-id-type="pmid">31455256</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-antibiotics-11-00244">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Bendala Estrada</surname><given-names>A.D.</given-names></name>
+<name><surname>Calder&#xF3;n Parra</surname><given-names>J.</given-names></name>
+<name><surname>Fern&#xE1;ndez Carracedo</surname><given-names>E.</given-names></name>
+<name><surname>Mui&#xF1;o M&#xED;guez</surname><given-names>A.</given-names></name>
+<name><surname>Ramos Mart&#xED;nez</surname><given-names>A.</given-names></name>
+<name><surname>Mu&#xF1;ez Rubio</surname><given-names>E.</given-names></name>
+<name><surname>Rubio-Rivas</surname><given-names>M.</given-names></name>
+<name><surname>Agudo</surname><given-names>P.</given-names></name>
+<name><surname>Arnalich Fern&#xE1;ndez</surname><given-names>F.</given-names></name>
+<name><surname>Estrada Perez</surname><given-names>V.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Inadequate use of antibiotics in the covid-19 era: Effectiveness of antibiotic therapy</article-title>
+          <source>BMC Infect. Dis.</source>
+          <year>2021</year>
+          <volume>21</volume>
+          <elocation-id>1144</elocation-id>
+          <pub-id pub-id-type="doi">10.1186/s12879-021-06821-1</pub-id>
+          <pub-id pub-id-type="pmid">34749645</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-antibiotics-11-00244">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Knight</surname><given-names>G.M.</given-names></name>
+<name><surname>Glover</surname><given-names>R.E.</given-names></name>
+<name><surname>McQuaid</surname><given-names>C.F.</given-names></name>
+<name><surname>Olaru</surname><given-names>I.D.</given-names></name>
+<name><surname>Gallandat</surname><given-names>K.</given-names></name>
+<name><surname>Leclerc</surname><given-names>Q.J.</given-names></name>
+<name><surname>Fuller</surname><given-names>N.M.</given-names></name>
+<name><surname>Willcocks</surname><given-names>S.J.</given-names></name>
+<name><surname>Hasan</surname><given-names>R.</given-names></name>
+<name><surname>van Kleef</surname><given-names>E.</given-names></name>
+</person-group>
+          <article-title>Antimicrobial resistance and COVID-19: Intersections and implications</article-title>
+          <source>elife</source>
+          <year>2021</year>
+          <volume>10</volume>
+          <fpage>e64139</fpage>
+          <pub-id pub-id-type="doi">10.7554/eLife.64139</pub-id>
+          <pub-id pub-id-type="pmid">33588991</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-antibiotics-11-00244">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lai</surname><given-names>C.-C.</given-names></name>
+<name><surname>Chen</surname><given-names>S.-Y.</given-names></name>
+<name><surname>Ko</surname><given-names>W.-C.</given-names></name>
+<name><surname>Hsueh</surname><given-names>P.-R.</given-names></name>
+</person-group>
+          <article-title>Increased antimicrobial resistance during the COVID-19 pandemic</article-title>
+          <source>Int. J. Antimicrob. Agents</source>
+          <year>2021</year>
+          <volume>57</volume>
+          <fpage>106324</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijantimicag.2021.106324</pub-id>
+          <pub-id pub-id-type="pmid">33746045</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-antibiotics-11-00244">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Miranda</surname><given-names>C.</given-names></name>
+<name><surname>Silva</surname><given-names>V.</given-names></name>
+<name><surname>Capita</surname><given-names>R.</given-names></name>
+<name><surname>Alonso-Calleja</surname><given-names>C.</given-names></name>
+<name><surname>Igrejas</surname><given-names>G.</given-names></name>
+<name><surname>Poeta</surname><given-names>P.</given-names></name>
+</person-group>
+          <article-title>Implications of antibiotics use during the COVID-19 pandemic: Present and future</article-title>
+          <source>J. Antimicrob. Chemother.</source>
+          <year>2020</year>
+          <volume>75</volume>
+          <fpage>3413</fpage>
+          <lpage>3416</lpage>
+          <pub-id pub-id-type="doi">10.1093/jac/dkaa350</pub-id>
+          <pub-id pub-id-type="pmid">32830266</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-antibiotics-11-00244">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Feldman</surname><given-names>C.</given-names></name>
+<name><surname>Anderson</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>The role of co-infections and secondary infections in patients with COVID-19</article-title>
+          <source>Pneumonia</source>
+          <year>2021</year>
+          <volume>13</volume>
+          <fpage>5</fpage>
+          <pub-id pub-id-type="doi">10.1186/s41479-021-00083-w</pub-id>
+          <pub-id pub-id-type="pmid">33894790</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-antibiotics-11-00244">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Adebisi</surname><given-names>Y.A.</given-names></name>
+<name><surname>Jimoh</surname><given-names>N.D.</given-names></name>
+<name><surname>Ogunkola</surname><given-names>I.O.</given-names></name>
+<name><surname>Uwizeyimana</surname><given-names>T.</given-names></name>
+<name><surname>Olayemi</surname><given-names>A.H.</given-names></name>
+<name><surname>Ukor</surname><given-names>N.A.</given-names></name>
+<name><surname>Lucero-Prisno</surname><given-names>D.E.</given-names></name>
+</person-group>
+          <article-title>The use of antibiotics in COVID-19 management: A rapid review of national treatment guidelines in 10 African countries</article-title>
+          <source>Trop. Med. Health</source>
+          <year>2021</year>
+          <volume>49</volume>
+          <fpage>51</fpage>
+          <pub-id pub-id-type="doi">10.1186/s41182-021-00344-w</pub-id>
+          <pub-id pub-id-type="pmid">34162445</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-antibiotics-11-00244">
+        <label>16.</label>
+        <element-citation publication-type="webpage">
+          <article-title>Zimbabwe_COVID-19-CLINICAL-GUIDELINES-APRIL-2020</article-title>
+          <comment>Available online: <ext-link xlink:href="https://cquin.icap.columbia.edu/wp-content/uploads/2020/04/ZIMBABWE_COVID-19-CLINICAL-GUIDELINES-APRIL-2020.pdf" ext-link-type="uri">https://cquin.icap.columbia.edu/wp-content/uploads/2020/04/ZIMBABWE_COVID-19-CLINICAL-GUIDELINES-APRIL-2020.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-01-19">(accessed on 19 January 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B17-antibiotics-11-00244">
+        <label>17.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<name><surname>Mbanje</surname><given-names>P.</given-names></name>
+</person-group>
+          <article-title>Is Ivermectin the Game Changer or Just Another Fad?</article-title>
+          <comment>Available online: <ext-link xlink:href="https://www.newsday.co.zw/2021/07/is-ivermectin-the-game-changer-or-just-another-fad/" ext-link-type="uri">https://www.newsday.co.zw/2021/07/is-ivermectin-the-game-changer-or-just-another-fad/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2021-07-24">(accessed on 24 July 2021)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B18-antibiotics-11-00244">
+        <label>18.</label>
+        <element-citation publication-type="webpage">
+          <article-title>The Global Burden of Disease: Main Findings for Sub-Saharan Africa</article-title>
+          <comment>Available online: <ext-link xlink:href="https://www.worldbank.org/en/region/afr/publication/global-burden-of-disease-findings-for-sub-saharan-africa" ext-link-type="uri">https://www.worldbank.org/en/region/afr/publication/global-burden-of-disease-findings-for-sub-saharan-africa</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-01-19">(accessed on 19 January 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B19-antibiotics-11-00244">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Rodr&#xED;guez-Ba&#xF1;o</surname><given-names>J.</given-names></name>
+<name><surname>Rossolini</surname><given-names>G.M.</given-names></name>
+<name><surname>Schultsz</surname><given-names>C.</given-names></name>
+<name><surname>Tacconelli</surname><given-names>E.</given-names></name>
+<name><surname>Murthy</surname><given-names>S.</given-names></name>
+<name><surname>Ohmagari</surname><given-names>N.</given-names></name>
+<name><surname>Holmes</surname><given-names>A.</given-names></name>
+<name><surname>Bachmann</surname><given-names>T.</given-names></name>
+<name><surname>Goossens</surname><given-names>H.</given-names></name>
+<name><surname>Canton</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Key considerations on the potential impacts of the COVID-19 pandemic on antimicrobial resistance research and surveillance</article-title>
+          <source>Trans. R. Soc. Trop. Med. Hyg.</source>
+          <year>2021</year>
+          <volume>115</volume>
+          <fpage>1122</fpage>
+          <lpage>1129</lpage>
+          <pub-id pub-id-type="doi">10.1093/trstmh/trab048</pub-id>
+          <pub-id pub-id-type="pmid">33772597</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-antibiotics-11-00244">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ukuhor</surname><given-names>H.O.</given-names></name>
+</person-group>
+          <article-title>The interrelationships between antimicrobial resistance, COVID-19, past, and future pandemics</article-title>
+          <source>J. Infect. Public Health</source>
+          <year>2021</year>
+          <volume>14</volume>
+          <fpage>53</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jiph.2020.10.018</pub-id>
+          <pub-id pub-id-type="pmid">33341485</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-antibiotics-11-00244">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Olaru</surname><given-names>I.D.</given-names></name>
+<name><surname>Elamin</surname><given-names>W.</given-names></name>
+<name><surname>Chisenga</surname><given-names>M.</given-names></name>
+<name><surname>Malou</surname><given-names>N.</given-names></name>
+<name><surname>Piton</surname><given-names>J.</given-names></name>
+<name><surname>Yeung</surname><given-names>S.</given-names></name>
+<name><surname>Ferrand</surname><given-names>R.A.</given-names></name>
+<name><surname>Hopkins</surname><given-names>H.</given-names></name>
+<name><surname>Chonzi</surname><given-names>P.</given-names></name>
+<name><surname>Masunda</surname><given-names>K.P.</given-names></name>
+</person-group>
+          <article-title>Evaluation of the InTray and Compact Dry culture systems for the diagnosis of urinary tract infections in patients presenting to primary health clinics in Harare, Zimbabwe</article-title>
+          <source>Eur. J. Clin. Microbiol. Infect. Dis.</source>
+          <year>2021</year>
+          <volume>40</volume>
+          <fpage>2543</fpage>
+          <lpage>2550</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10096-021-04312-4</pub-id>
+          <pub-id pub-id-type="pmid">34292453</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-antibiotics-11-00244">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Brain drain: An ever-present; significant challenge to the Zimbabwean public health sector</article-title>
+          <source>Public Health Pract.</source>
+          <year>2021</year>
+          <volume>2</volume>
+          <fpage>100086</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.puhip.2021.100086</pub-id>
+          <pub-id pub-id-type="pmid">34494007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-antibiotics-11-00244">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Wubshet Tesfaye</surname><given-names>S.A.</given-names></name>
+<name><surname>Sinnollareddy</surname><given-names>M.</given-names></name>
+<name><surname>Arnold</surname><given-names>B.</given-names></name>
+<name><surname>Brown</surname><given-names>A.</given-names></name>
+<name><surname>Matthew</surname><given-names>C.</given-names></name>
+<name><surname>Oguoma</surname><given-names>V.M.</given-names></name>
+<name><surname>Peterson</surname><given-names>G.M.</given-names></name>
+<name><surname>Thomas</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>How do we combat bogus medicines in the age of the COVID-19 pandemic?</article-title>
+          <source>Am. J. Trop. Med. Hyg.</source>
+          <year>2020</year>
+          <volume>103</volume>
+          <fpage>1360</fpage>
+          <pub-id pub-id-type="doi">10.4269/ajtmh.20-0903</pub-id>
+          <pub-id pub-id-type="pmid">32815510</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-antibiotics-11-00244">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Kelesidis</surname><given-names>T.</given-names></name>
+<name><surname>Kelesidis</surname><given-names>I.</given-names></name>
+<name><surname>Rafailidis</surname><given-names>P.I.</given-names></name>
+<name><surname>Falagas</surname><given-names>M.E.</given-names></name>
+</person-group>
+          <article-title>Counterfeit or substandard antimicrobial drugs: A review of the scientific evidence</article-title>
+          <source>J. Antimicrob. Chemother.</source>
+          <year>2007</year>
+          <volume>60</volume>
+          <fpage>214</fpage>
+          <lpage>236</lpage>
+          <pub-id pub-id-type="doi">10.1093/jac/dkm109</pub-id>
+          <pub-id pub-id-type="pmid">17550892</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25-antibiotics-11-00244">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Bekoe</surname><given-names>S.O.</given-names></name>
+<name><surname>Ahiabu</surname><given-names>M.A.</given-names></name>
+<name><surname>Orman</surname><given-names>E.</given-names></name>
+<name><surname>Tersb&#xF8;l</surname><given-names>B.P.</given-names></name>
+<name><surname>Adosraku</surname><given-names>R.K.</given-names></name>
+<name><surname>Hansen</surname><given-names>M.</given-names></name>
+<name><surname>Frimodt-Moller</surname><given-names>N.</given-names></name>
+<name><surname>Styrishave</surname><given-names>B.</given-names></name>
+</person-group>
+          <article-title>Exposure of consumers to substandard antibiotics from selected authorised and unauthorised medicine sales outlets in Ghana</article-title>
+          <source>Trop. Med. Int. Health</source>
+          <year>2020</year>
+          <volume>25</volume>
+          <fpage>962</fpage>
+          <lpage>975</lpage>
+          <pub-id pub-id-type="doi">10.1111/tmi.13442</pub-id>
+          <pub-id pub-id-type="pmid">32418294</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-antibiotics-11-00244">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yaya</surname><given-names>S.</given-names></name>
+<name><surname>Otu</surname><given-names>A.</given-names></name>
+<name><surname>Labont&#xE9;</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Globalisation in the time of COVID-19: Repositioning Africa to meet the immediate and remote challenges</article-title>
+          <source>Glob. Health</source>
+          <year>2020</year>
+          <volume>16</volume>
+          <fpage>51</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12992-020-00581-4</pub-id>
+          <pub-id pub-id-type="pmid">32580728</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-antibiotics-11-00244">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Guan</surname><given-names>D.</given-names></name>
+<name><surname>Wang</surname><given-names>D.</given-names></name>
+<name><surname>Hallegatte</surname><given-names>S.</given-names></name>
+<name><surname>Davis</surname><given-names>S.J.</given-names></name>
+<name><surname>Huo</surname><given-names>J.</given-names></name>
+<name><surname>Li</surname><given-names>S.</given-names></name>
+<name><surname>Bai</surname><given-names>Y.</given-names></name>
+<name><surname>Lei</surname><given-names>T.</given-names></name>
+<name><surname>Xue</surname><given-names>Q.</given-names></name>
+<name><surname>Coffman</surname><given-names>D.M.</given-names></name>
+</person-group>
+          <article-title>Global supply-chain effects of COVID-19 control measures</article-title>
+          <source>Nat. Hum. Behav.</source>
+          <year>2020</year>
+          <volume>4</volume>
+          <fpage>577</fpage>
+          <lpage>587</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41562-020-0896-8</pub-id>
+          <pub-id pub-id-type="pmid">32493967</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-antibiotics-11-00244">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Srivastava</surname><given-names>K.</given-names></name>
+</person-group>
+          <article-title>Fake covid vaccines boost the black market for counterfeit medicines</article-title>
+          <source>bmj</source>
+          <year>2021</year>
+          <volume>375</volume>
+          <fpage>n2754</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmj.n2754</pub-id>
+          <pub-id pub-id-type="pmid">34789457</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-antibiotics-11-00244">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Salako</surname><given-names>L.A.</given-names></name>
+<name><surname>Brieger</surname><given-names>W.R.</given-names></name>
+<name><surname>Afolabi</surname><given-names>B.M.</given-names></name>
+<name><surname>Umeh</surname><given-names>R.E.</given-names></name>
+<name><surname>Agomo</surname><given-names>P.U.</given-names></name>
+<name><surname>Asa</surname><given-names>S.</given-names></name>
+<name><surname>Adeneye</surname><given-names>A.K.</given-names></name>
+<name><surname>Nwankwo</surname><given-names>B.O.</given-names></name>
+<name><surname>Akinlade</surname><given-names>C.O.</given-names></name>
+</person-group>
+          <article-title>Treatment of childhood fevers and other illnesses in three rural Nigerian communities</article-title>
+          <source>J. Trop. Pediatr.</source>
+          <year>2001</year>
+          <volume>47</volume>
+          <fpage>230</fpage>
+          <lpage>238</lpage>
+          <pub-id pub-id-type="doi">10.1093/tropej/47.4.230</pub-id>
+          <pub-id pub-id-type="pmid">11523765</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-antibiotics-11-00244">
+        <label>30.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Gwatidzo</surname><given-names>S.D.</given-names></name>
+<name><surname>Murambinda</surname><given-names>P.K.</given-names></name>
+<name><surname>Makoni</surname><given-names>Z.</given-names></name>
+</person-group>
+          <source>Medicines Counterfeiting in Africa: A View from Zimbabwe</source>
+          <publisher-name>SAGE Publications Sage UK</publisher-name>
+          <publisher-loc>London, UK</publisher-loc>
+          <year>2017</year>
+          <fpage>maapoc.0000017</fpage>
+        </element-citation>
+      </ref>
+      <ref id="B31-antibiotics-11-00244">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Murewanhema</surname><given-names>G.</given-names></name>
+<name><surname>Makurumidze</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic: Perspectives and recommendations</article-title>
+          <source>Pan Afr. Med. J.</source>
+          <year>2020</year>
+          <volume>35</volume>
+          <issue>(Suppl. 2)</issue>
+          <fpage>143</fpage>
+          <pub-id pub-id-type="doi">10.11604/pamj.supp.2020.35.2.25367</pub-id>
+          <pub-id pub-id-type="pmid">33193958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-antibiotics-11-00244">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Getahun</surname><given-names>H.</given-names></name>
+<name><surname>Smith</surname><given-names>I.</given-names></name>
+<name><surname>Trivedi</surname><given-names>K.</given-names></name>
+<name><surname>Paulin</surname><given-names>S.</given-names></name>
+<name><surname>Balkhy</surname><given-names>H.H.</given-names></name>
+</person-group>
+          <article-title>Tackling antimicrobial resistance in the COVID-19 pandemic</article-title>
+          <source>Bull. World Health Organ.</source>
+          <year>2020</year>
+          <volume>98</volume>
+          <fpage>442</fpage>
+          <pub-id pub-id-type="doi">10.2471/BLT.20.268573</pub-id>
+          <pub-id pub-id-type="pmid">32742026</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-antibiotics-11-00244">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Khor</surname><given-names>W.P.</given-names></name>
+<name><surname>Olaoye</surname><given-names>O.</given-names></name>
+<name><surname>D&#x2019;arcy</surname><given-names>N.</given-names></name>
+<name><surname>Krockow</surname><given-names>E.M.</given-names></name>
+<name><surname>Elshenawy</surname><given-names>R.A.</given-names></name>
+<name><surname>Rutter</surname><given-names>V.</given-names></name>
+<name><surname>Ashiru-Oredope</surname><given-names>D.</given-names></name>
+</person-group>
+          <article-title>The need for ongoing antimicrobial stewardship during the COVID-19 pandemic and actionable recommendations</article-title>
+          <source>Antibiotics</source>
+          <year>2020</year>
+          <volume>9</volume>
+          <elocation-id>904</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/antibiotics9120904</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-antibiotics-11-00244">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mhango</surname><given-names>M.</given-names></name>
+<name><surname>Chitungo</surname><given-names>I.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>COVID-19 lockdowns: Impact on facility-based HIV testing and the case for the scaling up of home-based testing services in sub-Saharan Africa</article-title>
+          <source>AIDS Behav.</source>
+          <year>2020</year>
+          <volume>24</volume>
+          <fpage>3014</fpage>
+          <lpage>3016</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-020-02939-6</pub-id>
+          <pub-id pub-id-type="pmid">32488551</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35-antibiotics-11-00244">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Nhari</surname><given-names>L.G.</given-names></name>
+<name><surname>Dzobo</surname><given-names>M.</given-names></name>
+<name><surname>Chitungo</surname><given-names>I.</given-names></name>
+<name><surname>Denhere</surname><given-names>K.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>Implementing effective TB prevention and treatment programmes in the COVID-19 era in Zimbabwe. A call for innovative differentiated service delivery models</article-title>
+          <source>Public Health Pract.</source>
+          <year>2020</year>
+          <volume>1</volume>
+          <fpage>100058</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.puhip.2020.100058</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B36-antibiotics-11-00244">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Nyoni</surname><given-names>C.</given-names></name>
+<name><surname>Shirichena</surname><given-names>G.J.</given-names></name>
+<name><surname>Njovu</surname><given-names>P.</given-names></name>
+<name><surname>Nyoni</surname><given-names>C.</given-names></name>
+<name><surname>Nyamaka</surname><given-names>L.</given-names></name>
+<name><surname>Nyoni</surname><given-names>C.G.</given-names></name>
+</person-group>
+          <article-title>Evaluating the response to the scourge of Coronavirus pandemic in poor resourced countries: The case of Zimbabwe</article-title>
+          <source>Afr. J. Phys. Act. Health Sci. (AJPHES)</source>
+          <year>2020</year>
+          <volume>26</volume>
+          <fpage>136</fpage>
+          <lpage>148</lpage>
+          <pub-id pub-id-type="doi">10.37597/ajphes.2020.26.2.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37-antibiotics-11-00244">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+<name><surname>Nachipo</surname><given-names>B.</given-names></name>
+<name><surname>Phiri</surname><given-names>B.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>COVID-19 vaccine roll-out in South Africa and Zimbabwe: Urgent need to address community preparedness, fears and hesitancy</article-title>
+          <source>Vaccines</source>
+          <year>2021</year>
+          <volume>9</volume>
+          <elocation-id>250</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/vaccines9030250</pub-id>
+          <pub-id pub-id-type="pmid">33809002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38-antibiotics-11-00244">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Borek</surname><given-names>A.J.</given-names></name>
+<name><surname>Maitland</surname><given-names>K.</given-names></name>
+<name><surname>McLeod</surname><given-names>M.</given-names></name>
+<name><surname>Campbell</surname><given-names>A.</given-names></name>
+<name><surname>Hayhoe</surname><given-names>B.</given-names></name>
+<name><surname>Butler</surname><given-names>C.C.</given-names></name>
+<name><surname>Morrell</surname><given-names>L.</given-names></name>
+<name><surname>Roope</surname><given-names>L.S.</given-names></name>
+<name><surname>Holmes</surname><given-names>A.</given-names></name>
+<name><surname>Walker</surname><given-names>A.S.</given-names></name>
+</person-group>
+          <article-title>Impact of the COVID-19 pandemic on community antibiotic prescribing and stewardship: A qualitative interview study with general practitioners in England</article-title>
+          <source>Antibiotics</source>
+          <year>2021</year>
+          <volume>10</volume>
+          <elocation-id>1531</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/antibiotics10121531</pub-id>
+          <pub-id pub-id-type="pmid">34943743</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39-antibiotics-11-00244">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Rodr&#xED;guez-Ba&#xF1;o</surname><given-names>J.</given-names></name>
+<name><surname>Rossolini</surname><given-names>G.M.</given-names></name>
+<name><surname>Schultsz</surname><given-names>C.</given-names></name>
+<name><surname>Tacconelli</surname><given-names>E.</given-names></name>
+<name><surname>Murthy</surname><given-names>S.</given-names></name>
+<name><surname>Ohmagari</surname><given-names>N.</given-names></name>
+<name><surname>Holmes</surname><given-names>A.</given-names></name>
+<name><surname>Bachmann</surname><given-names>T.</given-names></name>
+<name><surname>Goossens</surname><given-names>H.</given-names></name>
+<name><surname>Canton</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Antimicrobial resistance research in a post-pandemic world: Insights on antimicrobial resistance research in the COVID-19 pandemic</article-title>
+          <source>J. Glob. Antimicrob. Resist.</source>
+          <year>2021</year>
+          <volume>25</volume>
+          <fpage>5</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jgar.2021.02.013</pub-id>
+          <pub-id pub-id-type="pmid">33662647</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40-antibiotics-11-00244">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Armitage</surname><given-names>R.</given-names></name>
+<name><surname>Nellums</surname><given-names>L.B.</given-names></name>
+</person-group>
+          <article-title>Antibiotic prescribing in general practice during COVID-19</article-title>
+          <source>Lancet Infect. Dis.</source>
+          <year>2021</year>
+          <volume>21</volume>
+          <fpage>e144</fpage>
+          <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30917-8</pub-id>
+          <pub-id pub-id-type="pmid">33275941</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B41-antibiotics-11-00244">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dyar</surname><given-names>O.</given-names></name>
+<name><surname>Huttner</surname><given-names>B.</given-names></name>
+<name><surname>Schouten</surname><given-names>J.</given-names></name>
+<name><surname>Pulcini</surname><given-names>C.</given-names></name>
+</person-group>
+          <article-title>What is antimicrobial stewardship?</article-title>
+          <source>Clin. Microbiol. Infect.</source>
+          <year>2017</year>
+          <volume>23</volume>
+          <fpage>793</fpage>
+          <lpage>798</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cmi.2017.08.026</pub-id>
+          <pub-id pub-id-type="pmid">28882725</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B42-antibiotics-11-00244">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sullivan</surname><given-names>K.V.</given-names></name>
+</person-group>
+          <article-title>Diagnostic stewardship in clinical microbiology, essential partner to antimicrobial stewardship</article-title>
+          <source>Clin. Chem.</source>
+          <year>2022</year>
+          <volume>68</volume>
+          <fpage>75</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="doi">10.1093/clinchem/hvab206</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B43-antibiotics-11-00244">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Furukawa</surname><given-names>D.</given-names></name>
+<name><surname>Graber</surname><given-names>C.J.</given-names></name>
+</person-group>
+          <article-title>Antimicrobial stewardship in a pandemic: Picking up the pieces</article-title>
+          <source>Clin. Infect. Dis</source>
+          <year>2021</year>
+          <volume>72</volume>
+          <fpage>e542</fpage>
+          <lpage>e544</lpage>
+          <pub-id pub-id-type="doi">10.1093/cid/ciaa1273</pub-id>
+          <pub-id pub-id-type="pmid">32857832</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B44-antibiotics-11-00244">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>May</surname><given-names>L.</given-names></name>
+<name><surname>Quir&#xF3;s</surname><given-names>A.M.</given-names></name>
+<name><surname>Ten Oever</surname><given-names>J.</given-names></name>
+<name><surname>Hoogerwerf</surname><given-names>J.</given-names></name>
+<name><surname>Schoffelen</surname><given-names>T.</given-names></name>
+<name><surname>Schouten</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>Antimicrobial Stewardship in the Emergency Department: Characteristics and evidence for effectiveness of interventions</article-title>
+          <source>Clin. Microbiol. Infect.</source>
+          <year>2021</year>
+          <volume>27</volume>
+          <fpage>204</fpage>
+          <lpage>209</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cmi.2020.10.028</pub-id>
+          <pub-id pub-id-type="pmid">33144202</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45-antibiotics-11-00244">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Strathdee</surname><given-names>S.A.</given-names></name>
+<name><surname>Davies</surname><given-names>S.C.</given-names></name>
+<name><surname>Marcelin</surname><given-names>J.R.</given-names></name>
+</person-group>
+          <article-title>Confronting antimicrobial resistance beyond the COVID-19 pandemic and the 2020 US election</article-title>
+          <source>Lancet</source>
+          <year>2020</year>
+          <volume>396</volume>
+          <fpage>1050</fpage>
+          <lpage>1053</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(20)32063-8</pub-id>
+          <pub-id pub-id-type="pmid">33007218</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

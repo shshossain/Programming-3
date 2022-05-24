@@ -1,0 +1,1285 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="other">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Int J Environ Res Public Health</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Int J Environ Res Public Health</journal-id>
+      <journal-id journal-id-type="publisher-id">ijerph</journal-id>
+      <journal-title-group>
+        <journal-title>International Journal of Environmental Research and Public Health</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1661-7827</issn>
+      <issn pub-type="epub">1660-4601</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35329118</article-id>
+      <article-id pub-id-type="pmc">8953553</article-id>
+      <article-id pub-id-type="doi">10.3390/ijerph19063431</article-id>
+      <article-id pub-id-type="publisher-id">ijerph-19-03431</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Viewpoint</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Maternal, Sexual and Reproductive Health in Marginalised Areas: Renewing Community Involvement Strategies beyond the Worst of the COVID-19 Pandemic</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7531-730X</contrib-id>
+          <name>
+            <surname>Murewanhema</surname>
+            <given-names>Grant</given-names>
+          </name>
+          <xref rid="af1-ijerph-19-03431" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9077-4429</contrib-id>
+          <name>
+            <surname>Musuka</surname>
+            <given-names>Godfrey</given-names>
+          </name>
+          <xref rid="af2-ijerph-19-03431" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2816-2859</contrib-id>
+          <name>
+            <surname>Gwanzura</surname>
+            <given-names>Chipo</given-names>
+          </name>
+          <xref rid="af1-ijerph-19-03431" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Makurumidze</surname>
+            <given-names>Richard</given-names>
+          </name>
+          <xref rid="af3-ijerph-19-03431" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6306-8916</contrib-id>
+          <name>
+            <surname>Chitungo</surname>
+            <given-names>Itai</given-names>
+          </name>
+          <xref rid="af4-ijerph-19-03431" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chimene</surname>
+            <given-names>Munashe</given-names>
+          </name>
+          <xref rid="af5-ijerph-19-03431" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tungwarara</surname>
+            <given-names>Nigel</given-names>
+          </name>
+          <xref rid="af6-ijerph-19-03431" ref-type="aff">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9929-5739</contrib-id>
+          <name>
+            <surname>Dzinamarira</surname>
+            <given-names>Tafadzwa</given-names>
+          </name>
+          <xref rid="af2-ijerph-19-03431" ref-type="aff">2</xref>
+          <xref rid="af7-ijerph-19-03431" ref-type="aff">7</xref>
+          <xref rid="c1-ijerph-19-03431" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Madziyire</surname>
+            <given-names>Mugove Gerald</given-names>
+          </name>
+          <xref rid="af1-ijerph-19-03431" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Tchounwou</surname>
+            <given-names>Paul B.</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-ijerph-19-03431"><label>1</label>Unit of Obstetrics and Gynaecology, Department of Primary Health Care Sciences, Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare P.O. Box MP167, Zimbabwe; <email>gmurewanhema@gmail.com</email> (G.M.); <email>chipo.gwanzura@gmail.com</email> (C.G.); <email>mmadziyire@medsch.uz.ac.zw</email> (M.G.M.)</aff>
+      <aff id="af2-ijerph-19-03431"><label>2</label>ICAP at Columbia University, Harare P.O. Box MP167, Zimbabwe; <email>gm2660@cumc.columbia.edu</email></aff>
+      <aff id="af3-ijerph-19-03431"><label>3</label>Unit of Community Medicine, Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare P.O. Box MP167, Zimbabwe; <email>rmakurumidze@medsch.uz.ac.zw</email></aff>
+      <aff id="af4-ijerph-19-03431"><label>4</label>Chemical Pathology Unit, Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare P.O. Box MP167, Zimbabwe; <email>ichitungo@medsch.uz.ac.zw</email></aff>
+      <aff id="af5-ijerph-19-03431"><label>5</label>Department of Health Sciences, Africa University, Mutare P.O. Box 1320, Zimbabwe; <email>chimenem@africau.edu</email></aff>
+      <aff id="af6-ijerph-19-03431"><label>6</label>Department of Health Studies, University of South Africa, Pretoria 0002, South Africa; <email>34846751@mylife.unisa.ac.za</email></aff>
+      <aff id="af7-ijerph-19-03431"><label>7</label>School of Health Systems &amp; Public Health, University of Pretoria, Pretoria 0002, South Africa</aff>
+      <author-notes>
+        <corresp id="c1-ijerph-19-03431"><label>*</label>Correspondence: <email>td2581@cumc.columbia.edu</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>3</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>3</month>
+        <year>2022</year>
+      </pub-date>
+      <volume>19</volume>
+      <issue>6</issue>
+      <elocation-id>3431</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>2</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>3</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2022 by the authors.</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The COVID-19 pandemic and resultant lockdowns have brought unprecedented challenges for Maternal, Sexual and Reproductive Health (MSRH) services. Components of MSRH services adversely affected include antenatal, postnatal, and newborn care; provision of family planning and post-abortion care services; sexual and gender-based violence care and prevention; and care and treatment for sexually transmitted infections including HIV. Resuscitating, remodeling or inventing interventions to restore or maintain these essential services at the community level, as a gateway to higher care, is critical to mitigating short and long-term effects of the COVID-19 pandemic on essential MSRH. We propose a possible framework for community involvement and propose integrating key information, education, and communication of MSRH messages within COVID-19 messages.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>COVID-19</kwd>
+        <kwd>pandemic</kwd>
+        <kwd>family planning</kwd>
+        <kwd>antenatal care</kwd>
+        <kwd>postnatal care</kwd>
+        <kwd>sexually transmitted infections</kwd>
+        <kwd>sexual and gender-based violence</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-ijerph-19-03431">
+      <title>1. Introduction</title>
+      <p>The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative agent of coronavirus disease 2019 (COVID-19), was first detected in the Chinese Wuhan City in December 2020, and rapidly evolved into a global pandemic by March 2020 [<xref rid="B1-ijerph-19-03431" ref-type="bibr">1</xref>]. Countries around the world put in place different measures to curb importing the virus from other countries and to contain in-country transmission. The measures were of different severities across the countries; however, they almost universally affected different aspects of people&#x2019;s lives. One key aspect that the World Health Organization (WHO) encouraged governments to ensure was the continuity of essential health services [<xref rid="B2-ijerph-19-03431" ref-type="bibr">2</xref>]. Other countries, such as Zimbabwe, initially imposed a full-scale lockdown on their populations, preventing people from accessing critical health services [<xref rid="B3-ijerph-19-03431" ref-type="bibr">3</xref>,<xref rid="B4-ijerph-19-03431" ref-type="bibr">4</xref>,<xref rid="B5-ijerph-19-03431" ref-type="bibr">5</xref>]. </p>
+      <p>The COVID-19 pandemic has significantly evolved over the past two years, with most countries having gone through 3&#x2013;4 waves, driven by different variants of concern, including the Alpha, Beta, Delta, and more recently, the Omicron variant [<xref rid="B6-ijerph-19-03431" ref-type="bibr">6</xref>]. As the pandemic has become more protracted than initially anticipated, with the possibility of the continued emergence of further waves, countries have to start thinking about living with the virus for an unforeseeable future, especially as vaccines have provided an important preventive tool, and the clinical disease picture has changed significantly. The disease attributable to the Omicron variant was substantially more attenuated than the Beta and Delta variants. This is partly attributable to a highly transmissible yet less virulent variant, and to the effectiveness of vaccination.</p>
+      <p>At the onset of the pandemic in March 2020, the Zimbabwean government introduced lockdown and movement restrictions to contain the COVID-19 pandemic, prepare for increased caseload and reduce the adverse health and socioeconomic consequences associated with the further spread of SARS-CoV-2. These measures may have negative impacts on healthcare delivery and access for women and girls [<xref rid="B7-ijerph-19-03431" ref-type="bibr">7</xref>]. Previous outbreaks such as the Ebola virus disease outbreak in Sierra Leonne and the Democratic Republic of Congo provided valuable insights on the consequences of humanitarian disasters and consequent public health interventions on Maternal, Sexual and Reproductive Health (MSRH) [<xref rid="B8-ijerph-19-03431" ref-type="bibr">8</xref>,<xref rid="B9-ijerph-19-03431" ref-type="bibr">9</xref>]. The United Nations postulates that women and girls are more likely to suffer from sexual and gender-based violence, and their reproductive rights are likely to remain unmet due to the prioritisation of government expenditure towards the fight against the pandemic [<xref rid="B10-ijerph-19-03431" ref-type="bibr">10</xref>].</p>
+      <p>A proactive approach is critical to mitigating adverse sequelae on MSRH during the COVID-19 pandemic and remaining on track to achieve Sustainable Development Goal number 3 (SDG3). SDG3 encompasses essential elements of MSRH, which include reducing the global maternal mortality ratio to less than 70 per 100,000 live births and ensuring universal access to sexual and reproductive health services, including family planning by 2030 [<xref rid="B11-ijerph-19-03431" ref-type="bibr">11</xref>]. In this viewpoint, as the COVID-19 has become protracted and countries are looking at ways of living with the virus, we discuss how community participation can be a valuable complement to mainstream healthcare services in mitigating against the negative consequences of the pandemic on essential MSRH services in Zimbabwean societies. Models that involve communities must be economical, sustainable and robust, given that the majority of rural Zimbabweans are poor and struggled with accessing healthcare services even before the pandemic. Therefore, frameworks that will work even beyond the worst of the COVID-19 pandemic are needed.</p>
+    </sec>
+    <sec id="sec2-ijerph-19-03431">
+      <title>2. Community Participation in Primary Health Care</title>
+      <p>Community participation may be a valuable complement to conventional health initiatives. The Alma Ata declaration of 1978 recognised community participation as a critical component for the success of Primary Health Care [<xref rid="B12-ijerph-19-03431" ref-type="bibr">12</xref>]. Global health stakeholders now promote community participation as a vital component of a human rights-based approach to health [<xref rid="B13-ijerph-19-03431" ref-type="bibr">13</xref>]. A community refers to a group of individuals, families or other networks and social circles that provide support and are often the unit on which health activities are organised and focused. The involvement of communities, use of indigenous resources and reliance on peer support may improve health outcomes. Critical to the success of community involvement is the addressing of the social determinants of health and issues around power and control over decisions regarding community health and behaviour change.</p>
+      <sec>
+        <title>Communities and Some Critical Maternal, Sexual and Reproductive Health Interventions in Low and Middle-Income Countries</title>
+        <p>Communities have been at the centre of success for some MSRH interventions in low and middle-income countries (LMICs). The literature suggests that the empowerment of traditional birth attendants may reduce adverse maternal outcomes in guided contexts, primarily through health promotion and facilitating health facility use [<xref rid="B14-ijerph-19-03431" ref-type="bibr">14</xref>]. These findings were noted in settings such as Burundi [<xref rid="B14-ijerph-19-03431" ref-type="bibr">14</xref>], Sierra Leonne [<xref rid="B15-ijerph-19-03431" ref-type="bibr">15</xref>] and Guatemala [<xref rid="B16-ijerph-19-03431" ref-type="bibr">16</xref>]. A systematic review and meta-analysis of cluster randomized controlled trials in comparable low-resource settings demonstrated that the training of the traditional birth attendants can lead to reduced maternal and perinatal mortality [<xref rid="B17-ijerph-19-03431" ref-type="bibr">17</xref>]. In a feasibility study in Zimbabwe, it was noted that the scope of health promotion activities carried out by traditional birth attendants could be expanded to HIV prevention of mother-to-child transmission services [<xref rid="B18-ijerph-19-03431" ref-type="bibr">18</xref>]. Community Art Refill Groups have been instrumental in the continuity of highly-active antiretroviral therapy (HAART) uptake in some communities such as in Thyolo in Malawi, ensuring adherence and continued viral suppression [<xref rid="B19-ijerph-19-03431" ref-type="bibr">19</xref>]. In Zimbabwe, the Medecins sans Frontieres implemented this concept successfully in some districts, eventually leading to the incorporation of the concept into the Ministry of Health and Child Care&#x2019;s differentiated models of HIV care [<xref rid="B20-ijerph-19-03431" ref-type="bibr">20</xref>].</p>
+        <p>In an integrative review that retrieved studies from Afghanistan, Bangladesh, Ethiopia, Gambia, Ghana, Kenya, Mozambique, Zambia and others, the community distribution of misoprostol tablets by community health workers led to reduced adverse outcomes from post-partum haemorrhage in these resource-limited countries [<xref rid="B21-ijerph-19-03431" ref-type="bibr">21</xref>]. In strategies to increase post-abortion care services in Angola, community nurses can successfully manage miscarriages with misoprostol at the community level, reducing referrals to health facilities [<xref rid="B22-ijerph-19-03431" ref-type="bibr">22</xref>]. The empowerment of women&#x2019;s groups has resulted in increased contraceptive uptake in some marginalised communities in sub-Saharan Africa [<xref rid="B23-ijerph-19-03431" ref-type="bibr">23</xref>]. These examples attest to the fact that delivering MSRH services to women at a community level can lead to significantly improved outcomes. Central to success is giving the women a sense of ownership/belonging to these programmes as the intended beneficiaries.</p>
+      </sec>
+    </sec>
+    <sec id="sec3-ijerph-19-03431">
+      <title>3. Core Aspects of Maternal, Sexual and Reproductive Health</title>
+      <p>The core aspects of MSRH include antenatal, perinatal, postpartum and newborn care, family planning (including infertility services), sexual and gender-based violence care and eliminating unsafe abortion and sexually transmitted infections including HIV and reproductive tract infections. During unprecedented times such as the COVID-19 pandemic, innovative ways of involving the community in reducing adverse MSRH consequences are critical. Some interventions may not necessarily be novel but need resuscitation or re-modelling in the wake of current challenges. We propose a framework for involving the community in closing gaps and mitigating adverse MSRH outcomes. We envisage that these interventions will be sustainable even beyond the COVID-19 pandemic. Critical to the success of community participation is adequate information, education and communication (IEC). Therefore, the risk communication and community engagement pillar of the Ministry of Health and Child Care of Zimbabwe that oversees the production and distribution of COVID-19 related IEC material, therefore, is central to success. Indeed, close coordination between the several pillars of the COVID-19 response in the Ministry of Health and Child Care such as surveillance, infection prevention and control, risk communication and community engagement and others is very important.</p>
+      <sec id="sec3dot1-ijerph-19-03431">
+        <title>3.1. Provision of Family Planning Services and Post-Abortion Care</title>
+        <p>The United Nations Population Fund (UNFPA) estimates the average national unmet need for contraception in Zimbabwe to be 10.4% and is considerably higher in the 15&#x2013;19 years age group at 12.6% [<xref rid="B24-ijerph-19-03431" ref-type="bibr">24</xref>]. COVID-19 travel restrictions, supply chain disruptions and reprioritisation of expenditure are disrupting access to family planning services for women in the country. Whilst we have no specific estimates for Zimbabwe, global estimates suggest an additional 15 million unintended pregnancies with 28,000 maternal and 168,000 newborn deaths for a 10% drop in contraceptive service coverage [<xref rid="B25-ijerph-19-03431" ref-type="bibr">25</xref>]. Likewise, a 10% reduction in access to safe abortions in 1 year could increase unsafe abortions by an additional 3.3 million resulting in an additional one thousand maternal deaths [<xref rid="B25-ijerph-19-03431" ref-type="bibr">25</xref>].</p>
+        <p>The most popular methods of family planning used by Zimbabwean women include oral contraceptive pills, the injectable depo medroxyprogesterone acetate and the subdermal implant Jadelle. The uptake of other long-acting reversible contraception methods such as the copper intrauterine devices is low in Zimbabwe, and so is the uptake of permanent methods, which are tubal ligation for females and vasectomy for males. In fact, due to the patriarchal nature of Zimbabwean societies, family planning is usually relegated to women. Therefore, males are rarely involved. With very little support from the government, international development partners usually support the provision of contraceptives in the country. Other partners sometimes carry out community outreaches to encourage the uptake and provision of long-acting reversible contraceptives. Due to the pandemic&#x2019;s requirements for infection prevention and control, these services were halted.</p>
+        <p>Gaps exist in access to family planning services, especially in the marginalised communities of Zimbabwe that could suffer disproportionately, owing to COVID-19 containment interventions including the unavailability of transport and closure of health facilities. Local and international partners who regularly support the provision of family planning services may have temporarily shifted attention to COVID-19 control. In <xref rid="ijerph-19-03431-t001" ref-type="table">Table 1</xref>, we propose some interventions to ensure continued access, especially in marginalised communities.</p>
+        <p>Access to safe post-abortion care in time is important for reducing the morbidity and mortality associated with these abortions. Abortions, especially the unsafe ones, conducted under unsterile and dangerous conditions can substantially increase associated adverse outcomes through post-abortal haemorrhage, sepsis and trauma such as that which occurs when penetrating objects are used to terminate pregnancies [<xref rid="B26-ijerph-19-03431" ref-type="bibr">26</xref>]. Timely access to post-abortion care allows access to antibiotics where needed, evacuations of the uterus which aid in stopping bleeding and infections and the identification of injuries to other structures such as the bowel. In the context of marginalised areas of Zimbabwe, these services are usually available at district hospitals and mission hospitals, and therefore the population requires public transport to reach these centres. Due to restrictions in transport to control the spread of SARS-CoV-2, delays are occurring in the decisions to seek care and reach health facilities once the decision to seek care has been made [<xref rid="B3-ijerph-19-03431" ref-type="bibr">3</xref>,<xref rid="B4-ijerph-19-03431" ref-type="bibr">4</xref>,<xref rid="B5-ijerph-19-03431" ref-type="bibr">5</xref>,<xref rid="B27-ijerph-19-03431" ref-type="bibr">27</xref>].</p>
+      </sec>
+      <sec id="sec3dot2-ijerph-19-03431">
+        <title>3.2. Antenatal and Postnatal Care Services</title>
+        <p>Focused antenatal care services were disrupted, resulting in unsatisfactory care and surveillance for pregnant women. Pregnant women are therefore not receiving micronutrient supplements, antenatal HIV testing and treatment services, tetanus toxoid and essential antenatal education. The burden of iron deficiency anaemia in rural communities due to reduced nutrient intake may be higher compared to urban communities [<xref rid="B28-ijerph-19-03431" ref-type="bibr">28</xref>]. The World Health Organization emphasized the need for good nutrition during the COVID-19 pandemic to maintain strong immunity, and this is even more important for pregnant women, hence the need to ensure that they have continued access to micronutrient supplements, even in times of adversities. The disruption of intermittent presumptive therapy for malaria may result in an upsurge of malaria in pregnancy, with adverse feto-maternal sequelae.</p>
+        <p>There is reduced utilisation of maternity services and a trend towards increased maternal and perinatal mortality [<xref rid="B5-ijerph-19-03431" ref-type="bibr">5</xref>,<xref rid="B29-ijerph-19-03431" ref-type="bibr">29</xref>]. Closer surveillance of the situation is warranted to reflect the true burden. Meanwhile, mitigating interventions are urgently required. Those involved in the care of newborn babies must find ways of reducing neonatal sepsis and complications and ensuring BCG vaccination for babies born in the community. We propose some possible interventions for the continuity of antenatal and postnatal care services at the community level during the COVID-19 pandemic in <xref rid="ijerph-19-03431-t002" ref-type="table">Table 2</xref>.</p>
+      </sec>
+      <sec id="sec3dot3-ijerph-19-03431">
+        <title>3.3. Sexually Transmitted Infections and HIV Care and Treatment Services</title>
+        <p>Statistical modelling suggests that a 6-month interruption in the provision of HAART could result in an excess of 500,000 deaths in Sub-Saharan Africa in 4 years, and double the vertical transmission of HIV [<xref rid="B30-ijerph-19-03431" ref-type="bibr">30</xref>]. UNAIDS estimates show that approximately 1.3 million people are living with HIV/AIDS in Zimbabwe, 67% of whom are women [<xref rid="B30-ijerph-19-03431" ref-type="bibr">30</xref>]. With effective treatment regimens, many are now falling pregnant, and another substantial proportion falls pregnant without knowledge of their HIV status or seroconvert in pregnancy. Failure to access HIV Care and Treatment services serves to reverse the Prevention-of-Mother-to-Child-Transmission (PMTCT) gains realised over the previous years. Differentiated models to ensure continuity of antiretroviral therapy provision especially for pregnant women and breastfeeding mothers are required urgently. We make suggestions for ensuring continued access to sexually transmitted infection prevention services and HAART at the community level during the COVID-19 pandemic in <xref rid="ijerph-19-03431-t003" ref-type="table">Table 3</xref>.</p>
+      </sec>
+      <sec id="sec3dot4-ijerph-19-03431">
+        <title>3.4. Sexual and Gender-Based Violence Care</title>
+        <p>Evidence from previous disasters suggests that women and girls are at a heightened risk of domestic violence, intimate partner violence, child abuse and some other forms of sexual and gender-based violence [<xref rid="B9-ijerph-19-03431" ref-type="bibr">9</xref>,<xref rid="B31-ijerph-19-03431" ref-type="bibr">31</xref>]. Disaster times exaggerate pre-existing societal power structures and gender inequities [<xref rid="B31-ijerph-19-03431" ref-type="bibr">31</xref>]. In Sierra Leonne, forces looking after quarantine centres reported sexually abused young girls during the Ebola outbreaks [<xref rid="B31-ijerph-19-03431" ref-type="bibr">31</xref>]. Coupled with the lack of timely access to care, women and girls may suffer from unintended pregnancies, sexually transmitted infections including HIV and prolonged post-traumatic stress disorder. Lack of access to basic MSRH services resulted in a 75% increase in maternal mortality in Guinea, Liberia and Sierra Leone as unintended pregnancies increased during the Ebola outbreak [<xref rid="B9-ijerph-19-03431" ref-type="bibr">9</xref>]. Interventions at the community level are critical to mitigate the gap between event and professional care, and suggestions are made in <xref rid="ijerph-19-03431-t004" ref-type="table">Table 4</xref>.</p>
+      </sec>
+    </sec>
+    <sec id="sec4-ijerph-19-03431">
+      <title>4. Community Interventions as a Gateway to the Formal Health Sector</title>
+      <p>It is important that community MSRH services do not become a substitute for formal healthcare services. Instead, they can be an important intervention for the identification of complications and challenges that require a timely referral, assessment and interventions at district, mission and other hospitals. In the past, community healthcare workers were very effective at treating simple malaria and referring those with severe malaria to hospitals for admission. Similarly, they can be trained to triage pregnant women and refer pregnancies deemed as high risk to health facilities in good time to avert potential complications.</p>
+      <sec id="sec4dot1-ijerph-19-03431">
+        <title>4.1. Vaccination for Women of Reproductive Age and Community Health Workers</title>
+        <p>Like the rest of the world, Zimbabwe commenced COVID-19 vaccination for the adult population in February 2021 [<xref rid="B32-ijerph-19-03431" ref-type="bibr">32</xref>]. COVID-19 vaccination is one of the best public health interventions for the control of the pandemic. Vaccines reduce incident SARS-CoV-2 infections, reduce disease severity, limit hospitalisations and reduce deaths from COVID-19. As MSRH services are extended into communities, it is critical to make sure that both care providers (community health workers) and their clients, who are mainly women of reproductive age in the context of MSRH, are vaccinated. Unfortunately, there are no clear guidelines for the vaccination of pregnant women in Zimbabwe [<xref rid="B33-ijerph-19-03431" ref-type="bibr">33</xref>], and vaccine hesitancy among WRA is relatively higher compared to the rest of the population. This is because this population has safety concerns regarding COVID-19 vaccination, including fears of subfertility, miscarriage, adverse pregnancy outcomes and long-term development of their offspring [<xref rid="B34-ijerph-19-03431" ref-type="bibr">34</xref>]. Therefore, fighting vaccine hesitancy by appropriately addressing this population&#x2019;s concerns is as important as availing the vaccines. Evidence of the safety of SARS-CoV-2 vaccines in this population must be availed and communicated during community outreach programmes [<xref rid="B35-ijerph-19-03431" ref-type="bibr">35</xref>].</p>
+        <p>Optimising the uptake of SARS-CoV-2 vaccines is important towards propelling countries to high proportions of vaccinated cohorts, reducing the chances of breakthrough infections and the continued emergence of variants of concern [<xref rid="B36-ijerph-19-03431" ref-type="bibr">36</xref>]. We, therefore, suggest that the government of Zimbabwe must develop full COVID-19 vaccination guidelines for the population of pregnant women, following the examples that have been set by other bodies such as the WHO, the Royal College of Obstetrics and Gynaecology (RCOG) and the American Congress of Obstetrics and Gynaecology (ACOG).</p>
+      </sec>
+      <sec id="sec4dot2-ijerph-19-03431">
+        <title>4.2. COVID-19 Information, Education and Communication</title>
+        <p>The success of public health interventions critically depends on adequate IEC. The COVID-19 risk communication and community engagement pillars in the various districts must engage with their communities to design appropriate IEC material to distribute within the communities, ideally in local languages. Key MSRH messages can be integrated within COVID-19 IEC material to improve efficiency. Local leaders, including parliamentarians, councillors and traditional leaders play an essential role in educating their communities. They must work closely with healthcare practitioners and educators in their areas to ensure that correct messages reach recipients. It is critical to dispel rumours, myths and misconceptions that can negatively influence key public health interventions such as vaccination. Ideal places for placing IEC material include community boreholes, shops and schools. Prevention of COVID-19 and other communicable diseases remains critical as communities move to provide some MSRH services. If not correctly implemented, well-meant interventions can cultivate disaster. Thus, community kiosks, for example, can end up as hotspots for SARS-CoV-2 transmission.</p>
+        <p>The risk communication and community engagement pillar has a central role in communicating COVID-19 vaccination messages, fighting vaccine hesitancy, falsehoods, rumours, myths and misconceptions and boosting vaccine confidence, thereby improving uptake of vaccines.</p>
+      </sec>
+    </sec>
+    <sec id="sec5-ijerph-19-03431">
+      <title>5. Critical Issues to Consider for Successful Implementation of Community MSRH Services</title>
+      <p>The success of community interventions is dependent on motivation and community participation. Involving communities right from the planning stages of the MSRH interventions and in assessing their own needs and developing strategies to meet those needs can increase intervention ownership and sustainability [<xref rid="B37-ijerph-19-03431" ref-type="bibr">37</xref>]. This will also help in determining an appropriate and realistic scope of work that addresses the priority MSRH service gaps in the community. It is important to consider the key community stakeholders around MSRH and this can include traditional birth attendants, religious leaders, and the community at large as this forges concessions and mutual understanding between the community and formal health systems. Non-financial performance-based incentives can be effective at increasing community health workers&#x2019; motivation and performance especially when the incentives promote social recognition. While financial performance-based incentives alone can improve service delivery outcomes, they pose a risk of unincentivized tasks being neglected [<xref rid="B38-ijerph-19-03431" ref-type="bibr">38</xref>,<xref rid="B39-ijerph-19-03431" ref-type="bibr">39</xref>]. This calls for a joint incentives approach by the organizations that run programs within the communities to avoid this negligence of other programs. This can be achieved if organizations supporting health programs can collaborate in creating a pooled fund for incentives with common incentivized service delivery outcomes such that the recipients of the incentives will not be biased towards programs, they perceive to be more financially rewarding. The COVID-19 pandemic has led to disruption of the workflow upon which community health workers rely; therefore, resources earmarked for performance-based incentives should be reallocated to cover routine salaries and stipends. For instance, village health workers in Zimbabwe&#x2019;s Chipinge district are relying on the allowances paid through UNICEF for their livelihoods as earnings from farming and other activities were disrupted by the COVID-19 outbreak [<xref rid="B40-ijerph-19-03431" ref-type="bibr">40</xref>]. Community health workers must receive allowances for their time and commitment. Engaging key local partners and community stakeholders to support these interventions is therefore necessary.</p>
+      <p>Continuous education to minimise COVID-19 infection within the communities and among the community health workers who provide MSRH services is critical. Thus, basics of infection prevention and control, including hand-washing ports, alcohol-based sanitisers, facemasks and latex gloves need to be supplied. The provision of personal protective equipment is critical as the community health workers bridge the shortages of health workers which are more pronounced in rural areas [<xref rid="B41-ijerph-19-03431" ref-type="bibr">41</xref>]. The success of VHWs and CHWs in managing the expectations of the communities they serve will depend on the type and quality of support from the formal health system and from social networks within the communities. This support can further be compromised by the limited access to facilities because of distance, difficult terrain and lack of funds for transport [<xref rid="B37-ijerph-19-03431" ref-type="bibr">37</xref>,<xref rid="B42-ijerph-19-03431" ref-type="bibr">42</xref>].</p>
+      <p>Whilst telemedicine has been shown to be a useful intervention for managing women in obstetrics and gynaecology [<xref rid="B43-ijerph-19-03431" ref-type="bibr">43</xref>,<xref rid="B44-ijerph-19-03431" ref-type="bibr">44</xref>], internet and voice call charges could be a barrier to utilisation. Communities must engage with mobile service providers for subsidised charges or free access as corporate social responsibility. Community MSRH should aim to promote cultural norms of collective responsibility that remove the perception of women&#x2019;s health as the responsibility of the individual. The communities where this shift in norms occurs are more likely to sustain their efforts to improve health and maintain mechanisms such as transport systems compared with those that remain focused on individual responsibility [<xref rid="B37-ijerph-19-03431" ref-type="bibr">37</xref>]. Furthermore, inclusion and support of men as equal partners can improve sexual and reproductive health indicators, such as contraception acceptance, safer sexual behaviours, use of reproductive health services and reduction in SRH related morbidity and mortality [<xref rid="B45-ijerph-19-03431" ref-type="bibr">45</xref>,<xref rid="B46-ijerph-19-03431" ref-type="bibr">46</xref>].</p>
+      <p>It is important to develop capacity-building strategies for the communities in relation to MSRH knowledge, skills and abilities. The training contents should be adapted to local needs, using appropriate training methodologies for adult learning with considerations of training material being dispensed in local languages. The trained community cadres will also require additional training, refresher courses and regular supportive supervision which can be provided through the various stakeholders operating in these communities.</p>
+      <p>Like any other community health intervention, there is a need for research support to measure the effectiveness of the interventions and evaluate the implementation itself with an aim of learning lessons for national and regional scale-up. Stakeholder collaborations that involve the government, non-governmental organisations and academic institutions will help in developing evidence-based interventions. Findings from such evaluations will also help in making communities appreciate the health benefits of the programs thereby enhancing participation and ownership.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec6-ijerph-19-03431">
+      <title>6. Conclusions</title>
+      <p>As health facilities remain operating sub-optimally, innovative ways of ensuring continued access to essential MSRH services at the community level are needed. Active community participation and delivery of services at the community level can reduce the undesirable consequences that stem from a failure to access services. Thus, communities and key stakeholders must work closely together to ensure continuity. However, community interventions must be used as a gateway to the formal health sector, and women requiring medical attention must be urgently referred to, to prevent avoidable morbidity and mortality. The government in the meanwhile must find ways of urgently restoring essential health services in accordance with technical guidance from the WHO. Optimising vaccination for community health workers and women of reproductive age including pregnant women is important for ensuring the safety of these populations, including reduced adverse outcomes from severe COVID-19. The government must therefore finalise guidelines for pregnant women and adequately fight vaccine hesitancy adequately among women of reproductive age.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p><bold>Publisher&#x2019;s Note:</bold> MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization, G.M. (Grant Murewanhema) and M.G.M.; writing&#x2014;original draft preparation, G.M. (Grant Murewanhema).; writing&#x2014;review and editing, C.G., R.M., I.C., M.C., N.T., G.M. (Godfrey Musuka), T.D. and M.G.M. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Funding</title>
+      <p>There was no funding for this project.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-ijerph-19-03431">
+        <label>1.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group>
+          <article-title>Coronavirus (COVID-19) Dashboard|WHO Coronavirus (COVID-19) Dashboard with Vaccination Data</article-title>
+          <comment>Available online: <ext-link xlink:href="https://covid19.who.int/" ext-link-type="uri">https://covid19.who.int/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-02-19">(accessed on 19 February 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B2-ijerph-19-03431">
+        <label>2.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group>
+          <article-title>Continuity of Essential Health Services: Facility assessment tool</article-title>
+          <comment>Available online: <ext-link xlink:href="https://www.who.int/publications-detail-redirect/WHO-2019-nCoV-HCF-assessment-EHS-2021.1" ext-link-type="uri">https://www.who.int/publications-detail-redirect/WHO-2019-nCoV-HCF-assessment-EHS-2021.1</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-02-19">(accessed on 19 February 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B3-ijerph-19-03431">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dzobo</surname><given-names>M.</given-names></name>
+<name><surname>Chitungo</surname><given-names>I.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>COVID-19: A perspective for lifting lockdown in Zimbabwe</article-title>
+          <source>Pan Afr. Med. J.</source>
+          <year>2020</year>
+          <volume>35</volume>
+          <fpage>13</fpage>
+          <pub-id pub-id-type="doi">10.11604/pamj.supp.2020.35.2.23059</pub-id>
+          <pub-id pub-id-type="pmid">32528624</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-ijerph-19-03431">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Nhari</surname><given-names>L.G.</given-names></name>
+<name><surname>Dzobo</surname><given-names>M.</given-names></name>
+<name><surname>Chitungo</surname><given-names>I.</given-names></name>
+<name><surname>Denhere</surname><given-names>K.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>Implementing effective TB prevention and treatment programmes in the COVID-19 era in Zimbabwe. A call for innovative differentiated service delivery models</article-title>
+          <source>Public Health Pract.</source>
+          <year>2020</year>
+          <volume>1</volume>
+          <fpage>100058</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.puhip.2020.100058</pub-id>
+          <pub-id pub-id-type="pmid">34173583</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-ijerph-19-03431">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Murewanhema</surname><given-names>G.</given-names></name>
+<name><surname>Makurumidze</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic: Perspectives and recommendations</article-title>
+          <source>Pan Afr. Med. J.</source>
+          <year>2020</year>
+          <volume>35</volume>
+          <fpage>143</fpage>
+          <pub-id pub-id-type="doi">10.11604/pamj.supp.2020.35.2.25367</pub-id>
+          <pub-id pub-id-type="pmid">33193958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-ijerph-19-03431">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Callaway</surname><given-names>E.</given-names></name>
+</person-group>
+          <article-title>Beyond Omicron: What&#x2019;s next for COVID&#x2019;s viral evolution</article-title>
+          <source>Nature</source>
+          <year>2021</year>
+          <volume>600</volume>
+          <fpage>204</fpage>
+          <lpage>207</lpage>
+          <pub-id pub-id-type="doi">10.1038/d41586-021-03619-8</pub-id>
+          <pub-id pub-id-type="pmid">34876665</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-ijerph-19-03431">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Hall</surname><given-names>K.S.</given-names></name>
+<name><surname>Samari</surname><given-names>G.</given-names></name>
+<name><surname>Garbers</surname><given-names>S.</given-names></name>
+<name><surname>Casey</surname><given-names>S.E.</given-names></name>
+<name><surname>Diallo</surname><given-names>D.D.</given-names></name>
+<name><surname>Orcutt</surname><given-names>M.</given-names></name>
+<name><surname>Moresky</surname><given-names>R.T.</given-names></name>
+<name><surname>Martinez</surname><given-names>M.E.</given-names></name>
+<name><surname>McGovern</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>Centring sexual and reproductive health and justice in the global COVID-19 response</article-title>
+          <source>Lancet</source>
+          <year>2020</year>
+          <volume>395</volume>
+          <fpage>1175</fpage>
+          <lpage>1177</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30801-1</pub-id>
+          <pub-id pub-id-type="pmid">32278371</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-ijerph-19-03431">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sochas</surname><given-names>L.</given-names></name>
+<name><surname>Channon</surname><given-names>A.A.</given-names></name>
+<name><surname>Nam</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Counting indirect crisis-related deaths in the context of a low-resilience health system: The case of maternal and neonatal health during the Ebola epidemic in Sierra Leone</article-title>
+          <source>Health Policy Plan.</source>
+          <year>2017</year>
+          <volume>32</volume>
+          <fpage>iii32</fpage>
+          <lpage>iii39</lpage>
+          <pub-id pub-id-type="doi">10.1093/heapol/czx108</pub-id>
+          <pub-id pub-id-type="pmid">29149310</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-ijerph-19-03431">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>John</surname><given-names>N.</given-names></name>
+<name><surname>Casey</surname><given-names>S.E.</given-names></name>
+<name><surname>Carino</surname><given-names>G.</given-names></name>
+<name><surname>McGovern</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>Lessons never learned: Crisis and gender-based violence</article-title>
+          <source>Dev. World Bioeth.</source>
+          <year>2020</year>
+          <volume>20</volume>
+          <fpage>65</fpage>
+          <lpage>68</lpage>
+          <pub-id pub-id-type="doi">10.1111/dewb.12261</pub-id>
+          <pub-id pub-id-type="pmid">32267607</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-ijerph-19-03431">
+        <label>10.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>United Nations Zimbabwe</collab>
+</person-group>
+          <article-title>Immediate Socioeconomic Response to COVID-19 in Zimbabwe: A Framework for Integrated Policy Analysis and Support. Covid Mptf</article-title>
+          <year>2020</year>
+          <comment>Available online: <ext-link xlink:href="https://www.undp.org/content/dam/rba/docs/COVID-19-CO-Response/UN-Zimbabwe-COVID19-Socio-economic-Framework-Final.pdf" ext-link-type="uri">https://www.undp.org/content/dam/rba/docs/COVID-19-CO-Response/UN-Zimbabwe-COVID19-Socio-economic-Framework-Final.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-02-01">(accessed on 1 February 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B11-ijerph-19-03431">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Buse</surname><given-names>K.</given-names></name>
+<name><surname>Hawkes</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Health in the sustainable development goals: Ready for a paradigm shift?</article-title>
+          <source>Glob. Health</source>
+          <year>2015</year>
+          <volume>11</volume>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12992-015-0098-8</pub-id>
+          <pub-id pub-id-type="pmid">25890267</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-ijerph-19-03431">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Black</surname><given-names>R.E.</given-names></name>
+<name><surname>Taylor</surname><given-names>C.E.</given-names></name>
+<name><surname>Arole</surname><given-names>S.</given-names></name>
+<name><surname>Bang</surname><given-names>A.</given-names></name>
+<name><surname>Bhutta</surname><given-names>Z.A.</given-names></name>
+<name><surname>Chowdhury</surname><given-names>A.M.R.</given-names></name>
+<name><surname>Kirkwood</surname><given-names>B.R.</given-names></name>
+<name><surname>Kureshy</surname><given-names>N.</given-names></name>
+<name><surname>Lanata</surname><given-names>C.F.</given-names></name>
+<name><surname>Phillips</surname><given-names>J.F.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Comprehensive review of the evidence regarding the effectiveness of community&#x2013;based primary health care in improving maternal, neonatal and child health: 8. summary and recommendations of the Expert Panel</article-title>
+          <source>J. Glob. Health</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <fpage>010908</fpage>
+          <pub-id pub-id-type="doi">10.7189/jogh.07.010908</pub-id>
+          <pub-id pub-id-type="pmid">28685046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-ijerph-19-03431">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Haldane</surname><given-names>V.</given-names></name>
+<name><surname>Chuah</surname><given-names>F.L.</given-names></name>
+<name><surname>Srivastava</surname><given-names>A.</given-names></name>
+<name><surname>Singh</surname><given-names>S.R.</given-names></name>
+<name><surname>Koh</surname><given-names>G.C.</given-names></name>
+<name><surname>Seng</surname><given-names>C.K.</given-names></name>
+<name><surname>Legido-Quigley</surname><given-names>H.</given-names></name>
+</person-group>
+          <article-title>Community participation in health services development, implementation, and evaluation: A systematic review of empowerment, health, community, and process outcomes</article-title>
+          <source>PLoS ONE</source>
+          <year>2019</year>
+          <volume>14</volume>
+          <elocation-id>e0216112</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0216112</pub-id>
+          <pub-id pub-id-type="pmid">31075120</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-ijerph-19-03431">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Chi</surname><given-names>P.C.</given-names></name>
+<name><surname>Urdal</surname><given-names>H.</given-names></name>
+</person-group>
+          <article-title>The evolving role of traditional birth attendants in maternal health in post-conflict Africa: A qualitative study of Burundi and northern Uganda</article-title>
+          <source>SAGE Open Med.</source>
+          <year>2018</year>
+          <volume>6</volume>
+          <fpage>2050312117753631</fpage>
+          <pub-id pub-id-type="doi">10.1177/2050312117753631</pub-id>
+          <pub-id pub-id-type="pmid">29375881</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-ijerph-19-03431">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Fotso</surname><given-names>J.C.</given-names></name>
+<name><surname>Ambrose</surname><given-names>A.</given-names></name>
+<name><surname>Hutchinson</surname><given-names>P.</given-names></name>
+<name><surname>Ali</surname><given-names>D.</given-names></name>
+</person-group>
+          <article-title>Improving maternal and newborn care: Cost-effectiveness of an innovation to rebrand traditional birth attendants in Sierra Leone</article-title>
+          <source>Int. J. Public Health</source>
+          <year>2020</year>
+          <volume>65</volume>
+          <fpage>1603</fpage>
+          <lpage>1612</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00038-020-01487-z</pub-id>
+          <pub-id pub-id-type="pmid">33037894</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-ijerph-19-03431">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Hernandez</surname><given-names>S.</given-names></name>
+<name><surname>Oliveira</surname><given-names>J.B.</given-names></name>
+<name><surname>Shirazian</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>How a training program is transforming the role of traditional birth attendants from cultural practitioners to unique health-care providers: A community case study in rural Guatemala</article-title>
+          <source>Front. Public Health</source>
+          <year>2017</year>
+          <volume>5</volume>
+          <fpage>111</fpage>
+          <pub-id pub-id-type="doi">10.3389/fpubh.2017.00111</pub-id>
+          <pub-id pub-id-type="pmid">28580354</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-ijerph-19-03431">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Wilson</surname><given-names>A.</given-names></name>
+<name><surname>Gallos</surname><given-names>I.D.</given-names></name>
+<name><surname>Plana</surname><given-names>N.</given-names></name>
+<name><surname>Lissauer</surname><given-names>D.</given-names></name>
+<name><surname>Khan</surname><given-names>K.S.</given-names></name>
+<name><surname>Zamora</surname><given-names>J.</given-names></name>
+<name><surname>MacArthur</surname><given-names>C.</given-names></name>
+<name><surname>Coomarasamy</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Effectiveness of strategies incorporating training and support of traditional birth attendants on perinatal and maternal mortality: Meta-analysis</article-title>
+          <source>BMJ</source>
+          <year>2011</year>
+          <volume>343</volume>
+          <fpage>d7102</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmj.d7102</pub-id>
+          <pub-id pub-id-type="pmid">22134967</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-ijerph-19-03431">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Perez</surname><given-names>F.</given-names></name>
+<name><surname>Aung</surname><given-names>K.D.</given-names></name>
+<name><surname>Ndoro</surname><given-names>T.</given-names></name>
+<name><surname>Engelsmann</surname><given-names>B.</given-names></name>
+<name><surname>Dabis</surname><given-names>F.</given-names></name>
+</person-group>
+          <article-title>Participation of traditional birth attendants in prevention of mother-to-child transmission of HIV services in two rural districts in Zimbabwe: A feasibility study</article-title>
+          <source>BMC Public Health</source>
+          <year>2008</year>
+          <volume>8</volume>
+          <fpage>1</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2458-8-401</pub-id>
+          <pub-id pub-id-type="pmid">18173844</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-ijerph-19-03431">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Pellecchia</surname><given-names>U.</given-names></name>
+<name><surname>Baert</surname><given-names>S.</given-names></name>
+<name><surname>Nundwe</surname><given-names>S.</given-names></name>
+<name><surname>Bwanali</surname><given-names>A.</given-names></name>
+<name><surname>Zamadenga</surname><given-names>B.</given-names></name>
+<name><surname>Metcalf</surname><given-names>C.A.</given-names></name>
+<name><surname>Bygrave</surname><given-names>H.</given-names></name>
+<name><surname>Daho</surname><given-names>S.</given-names></name>
+<name><surname>Ohler</surname><given-names>L.</given-names></name>
+<name><surname>Chibwandira</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>&#x201C;We are part of a family&#x201D;. Benefits and limitations of community ART groups (CAGs) in Thyolo, Malawi: A qualitative study</article-title>
+          <source>J. Int. AIDS Soc.</source>
+          <year>2017</year>
+          <volume>20</volume>
+          <fpage>21374</fpage>
+          <pub-id pub-id-type="doi">10.7448/IAS.20.1.21374</pub-id>
+          <pub-id pub-id-type="pmid">28406273</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-ijerph-19-03431">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Bochner</surname><given-names>A.F.</given-names></name>
+<name><surname>Meacham</surname><given-names>E.</given-names></name>
+<name><surname>Mhungu</surname><given-names>N.</given-names></name>
+<name><surname>Manyanga</surname><given-names>P.</given-names></name>
+<name><surname>Petracca</surname><given-names>F.</given-names></name>
+<name><surname>Muserere</surname><given-names>C.</given-names></name>
+<name><surname>Gonese</surname><given-names>G.</given-names></name>
+<name><surname>Makunike</surname><given-names>B.</given-names></name>
+<name><surname>Wazara</surname><given-names>B.</given-names></name>
+<name><surname>Gwanzura</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>The rollout of Community ART Refill Groups in Zimbabwe: A qualitative evaluation</article-title>
+          <source>J. Int. AIDS Soc.</source>
+          <year>2019</year>
+          <volume>22</volume>
+          <fpage>e25393</fpage>
+          <pub-id pub-id-type="doi">10.1002/jia2.25393</pub-id>
+          <pub-id pub-id-type="pmid">31454178</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-ijerph-19-03431">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Smith</surname><given-names>J.M.</given-names></name>
+<name><surname>Gubin</surname><given-names>R.</given-names></name>
+<name><surname>Holston</surname><given-names>M.M.</given-names></name>
+<name><surname>Fullerton</surname><given-names>J.</given-names></name>
+<name><surname>Prata</surname><given-names>N.</given-names></name>
+</person-group>
+          <article-title>Misoprostol for postpartum hemorrhage prevention at home birth: An integrative review of global implementation experience to date</article-title>
+          <source>BMC Pregnancy Childbirth</source>
+          <year>2013</year>
+          <volume>13</volume>
+          <fpage>1</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2393-13-44</pub-id>
+          <pub-id pub-id-type="pmid">23324161</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-ijerph-19-03431">
+        <label>22.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>Venture Strategies Innovations</collab>
+</person-group>
+          <article-title>Expanding Access to Postabortion Care Services in Angola with the Introduction of Misoprostol. VSI 2013</article-title>
+          <comment>Available online: <ext-link xlink:href="http://bixby.berkeley.edu/wp-content/uploads/2015/03/VSI_Angola-MOH-PAC-Brief-2013&#x2013;06&#x2013;20F.pdf" ext-link-type="uri">http://bixby.berkeley.edu/wp-content/uploads/2015/03/VSI_Angola-MOH-PAC-Brief-2013&#x2013;06&#x2013;20F.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-02-01">(accessed on 1 February 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B23-ijerph-19-03431">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yaya</surname><given-names>S.</given-names></name>
+<name><surname>Uthman</surname><given-names>O.A.</given-names></name>
+<name><surname>Ekholuenetale</surname><given-names>M.</given-names></name>
+<name><surname>Bishwajit</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Women empowerment as an enabling factor of contraceptive use in sub-Saharan Africa: A multilevel analysis of cross-sectional surveys of 32 countries</article-title>
+          <source>Reprod. Health</source>
+          <year>2018</year>
+          <volume>15</volume>
+          <fpage>1</fpage>
+          <lpage>12</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12978-018-0658-5</pub-id>
+          <pub-id pub-id-type="pmid">29304829</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-ijerph-19-03431">
+        <label>24.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>UNFPA Zimbabwe</collab>
+</person-group>
+          <article-title>Investing in Sexual and Reproductive Health and Rights Policy Brief</article-title>
+          <year>2019</year>
+          <comment>Available online: <ext-link xlink:href="https://zimbabwe.unfpa.org/en/publications/policy-brief-investing-sexual-and-reproductive-health-and-rights" ext-link-type="uri">https://zimbabwe.unfpa.org/en/publications/policy-brief-investing-sexual-and-reproductive-health-and-rights</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-01-28">(accessed on 28 January 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B25-ijerph-19-03431">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Riley</surname><given-names>T.</given-names></name>
+<name><surname>Sully</surname><given-names>E.</given-names></name>
+<name><surname>Ahmed</surname><given-names>Z.</given-names></name>
+<name><surname>Biddlecom</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Estimates of the potential impact of the COVID-19 pandemic on sexual and reproductive health in low-and middle-income countries</article-title>
+          <source>Int. Perspect. Sex. Reprod. Health</source>
+          <year>2020</year>
+          <volume>46</volume>
+          <fpage>73</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="doi">10.1363/46e9020</pub-id>
+          <pub-id pub-id-type="pmid">32343244</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-ijerph-19-03431">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Murewanhema</surname><given-names>G.</given-names></name>
+<name><surname>Gwinji</surname><given-names>P.T.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>Towards the decriminalization of abortion in Zimbabwe: A public health perspective</article-title>
+          <source>Public Health Pract.</source>
+          <year>2022</year>
+          <fpage>100237</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.puhip.2022.100237</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-ijerph-19-03431">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Chitungo</surname><given-names>I.</given-names></name>
+<name><surname>Mhango</surname><given-names>M.</given-names></name>
+<name><surname>Mbunge</surname><given-names>E.</given-names></name>
+<name><surname>Dzobo</surname><given-names>M.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>Digital technologies and COVID-19: Reconsidering lockdown exit strategies for Africa</article-title>
+          <source>Pan Afr. Med. J.</source>
+          <year>2021</year>
+          <volume>39</volume>
+          <fpage>93</fpage>
+          <pub-id pub-id-type="doi">10.11604/pamj.2021.39.93.29773</pub-id>
+          <pub-id pub-id-type="pmid">34466195</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-ijerph-19-03431">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ayensu</surname><given-names>J.</given-names></name>
+<name><surname>Annan</surname><given-names>R.</given-names></name>
+<name><surname>Lutterodt</surname><given-names>H.</given-names></name>
+<name><surname>Edusei</surname><given-names>A.</given-names></name>
+<name><surname>Peng</surname><given-names>L.S.</given-names></name>
+</person-group>
+          <article-title>Prevalence of anaemia and low intake of dietary nutrients in pregnant women living in rural and urban areas in the Ashanti region of Ghana</article-title>
+          <source>PLoS ONE</source>
+          <year>2020</year>
+          <volume>15</volume>
+          <elocation-id>e0226026</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0226026</pub-id>
+          <pub-id pub-id-type="pmid">31978048</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-ijerph-19-03431">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Bikwa</surname><given-names>Y.</given-names></name>
+<name><surname>Murewanhema</surname><given-names>G.</given-names></name>
+<name><surname>Kanyangarara</surname><given-names>M.</given-names></name>
+<name><surname>Madziyire</surname><given-names>M.G.</given-names></name>
+<name><surname>Chirenje</surname><given-names>Z.M.</given-names></name>
+</person-group>
+          <article-title>Impact of COVID-19 on maternal and perinatal outcomes in Harare, Zimbabwe: A comparative maternal audit</article-title>
+          <source>J. Glob. Health Rep.</source>
+          <year>2021</year>
+          <volume>5</volume>
+          <fpage>e2021093</fpage>
+          <pub-id pub-id-type="doi">10.29392/001c.28995</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-ijerph-19-03431">
+        <label>30.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>UNAIDS</collab>
+</person-group>
+          <article-title>AIDSInfo: Global Data on HIV Epidemiology and Response</article-title>
+          <year>2020</year>
+          <comment>Available online: <ext-link xlink:href="http://aidsinfo.unaids.org/" ext-link-type="uri">http://aidsinfo.unaids.org/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-01-02">(accessed on 2 January 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B31-ijerph-19-03431">
+        <label>31.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>Amnesty International</collab>
+</person-group>
+          <article-title>Sexual and Gender-Based Violence in the Pacific</article-title>
+          <comment>Available online: <ext-link xlink:href="https://www.amnesty.org.nz/sexual-and-gender-based-violence-pacific" ext-link-type="uri">https://www.amnesty.org.nz/sexual-and-gender-based-violence-pacific</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-02-08">(accessed on 8 February 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B32-ijerph-19-03431">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+<name><surname>Nachipo</surname><given-names>B.</given-names></name>
+<name><surname>Phiri</surname><given-names>B.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>COVID-19 vaccine roll-out in South Africa and Zimbabwe: Urgent need to address community preparedness, fears and hesitancy</article-title>
+          <source>Vaccines</source>
+          <year>2021</year>
+          <volume>9</volume>
+          <elocation-id>250</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/vaccines9030250</pub-id>
+          <pub-id pub-id-type="pmid">33809002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-ijerph-19-03431">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Murewanhema</surname><given-names>G.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+<name><surname>Herrera</surname><given-names>H.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>COVID-19 vaccination for pregnant women in Zimbabwe: A public health challenge that needs an urgent discourse</article-title>
+          <source>Public Health Pract.</source>
+          <year>2021</year>
+          <volume>2</volume>
+          <fpage>100200</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.puhip.2021.100200</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-ijerph-19-03431">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Murewanhema</surname><given-names>G.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+<name><surname>Denhere</surname><given-names>K.</given-names></name>
+<name><surname>Chingombe</surname><given-names>I.</given-names></name>
+<name><surname>Mapingure</surname><given-names>M.P.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>The Landscape of COVID-19 Vaccination in Zimbabwe: A Narrative Review and Analysis of the Strengths, Weaknesses, Opportunities and Threats of the Programme</article-title>
+          <source>Vaccines</source>
+          <year>2022</year>
+          <volume>10</volume>
+          <elocation-id>262</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/vaccines10020262</pub-id>
+          <pub-id pub-id-type="pmid">35214720</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35-ijerph-19-03431">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Murewanhema</surname><given-names>G.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+<name><surname>Madziva</surname><given-names>R.</given-names></name>
+<name><surname>Herrera</surname><given-names>H.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>SARS-CoV-2 vaccine-related adverse events in Zimbabwe: The need to strengthen pharmacovigilance in resource-limited settings</article-title>
+          <source>Pharmacoepidemiol. Drug Saf.</source>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1002/pds.5393</pub-id>
+          <pub-id pub-id-type="pmid">34882894</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B36-ijerph-19-03431">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+<name><surname>Tungwarara</surname><given-names>N.</given-names></name>
+<name><surname>Chitungo</surname><given-names>I.</given-names></name>
+<name><surname>Chimene</surname><given-names>M.</given-names></name>
+<name><surname>Iradukunda</surname><given-names>P.G.</given-names></name>
+<name><surname>Mashora</surname><given-names>M.</given-names></name>
+<name><surname>Murewanhema</surname><given-names>G.</given-names></name>
+<name><surname>Rwibasira</surname><given-names>G.N.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Unpacking the Implications of SARS-CoV-2 Breakthrough Infections on COVID-19 Vaccination Programs</article-title>
+          <source>Vaccines</source>
+          <year>2022</year>
+          <volume>10</volume>
+          <elocation-id>252</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/vaccines10020252</pub-id>
+          <pub-id pub-id-type="pmid">35214710</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37-ijerph-19-03431">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Howard-Grabman</surname><given-names>L.</given-names></name>
+<name><surname>Miltenburg</surname><given-names>A.S.</given-names></name>
+<name><surname>Marston</surname><given-names>C.</given-names></name>
+<name><surname>Portela</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Factors affecting effective community participation in maternal and newborn health programme planning, implementation and quality of care interventions</article-title>
+          <source>BMC Pregnancy Childbirth</source>
+          <year>2017</year>
+          <volume>17</volume>
+          <fpage>1</fpage>
+          <lpage>18</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12884-017-1443-0</pub-id>
+          <pub-id pub-id-type="pmid">28049520</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38-ijerph-19-03431">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Gadsden</surname><given-names>T.</given-names></name>
+<name><surname>Mabunda</surname><given-names>S.A.</given-names></name>
+<name><surname>Palagyi</surname><given-names>A.</given-names></name>
+<name><surname>Maharani</surname><given-names>A.</given-names></name>
+<name><surname>Sujarwoto</surname><given-names>S.</given-names></name>
+<name><surname>Baddeley</surname><given-names>M.</given-names></name>
+<name><surname>Jan</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Performance-based incentives and community health workers&#x2019; outputs, a systematic review</article-title>
+          <source>Bull. World Health Organ.</source>
+          <year>2021</year>
+          <volume>99</volume>
+          <fpage>805</fpage>
+          <lpage>818</lpage>
+          <pub-id pub-id-type="doi">10.2471/BLT.20.285218</pub-id>
+          <pub-id pub-id-type="pmid">34737473</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39-ijerph-19-03431">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Colvin</surname><given-names>C.J.</given-names></name>
+<name><surname>Hodgins</surname><given-names>S.</given-names></name>
+<name><surname>Perry</surname><given-names>H.B.</given-names></name>
+</person-group>
+          <article-title>Community health workers at the dawn of a new era: 8. Incentives and remuneration</article-title>
+          <source>Health Res. Policy Syst.</source>
+          <year>2021</year>
+          <volume>19</volume>
+          <fpage>1</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12961-021-00750-w</pub-id>
+          <pub-id pub-id-type="pmid">33388085</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40-ijerph-19-03431">
+        <label>40.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>UNICEF</collab>
+</person-group>
+          <article-title>Allowances Provide Crucial Support to Village Health Workers in Zimbabwe</article-title>
+          <comment>Available online: <ext-link xlink:href="https://www.unicef.org/zimbabwe/stories/allowances-provide-crucial-support-village-health-workers-zimbabwe" ext-link-type="uri">https://www.unicef.org/zimbabwe/stories/allowances-provide-crucial-support-village-health-workers-zimbabwe</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-02-18">(accessed on 18 February 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B41-ijerph-19-03431">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ballard</surname><given-names>M.</given-names></name>
+<name><surname>Bancroft</surname><given-names>E.</given-names></name>
+<name><surname>Nesbit</surname><given-names>J.</given-names></name>
+<name><surname>Johnson</surname><given-names>A.</given-names></name>
+<name><surname>Holeman</surname><given-names>I.</given-names></name>
+<name><surname>Foth</surname><given-names>J.</given-names></name>
+<name><surname>Rogers</surname><given-names>D.</given-names></name>
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+<name><surname>Nardella</surname><given-names>J.</given-names></name>
+<name><surname>Olsen</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Prioritising the role of community health workers in the COVID-19 response</article-title>
+          <source>BMJ Glob. Health</source>
+          <year>2020</year>
+          <volume>5</volume>
+          <fpage>e002550</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmjgh-2020-002550</pub-id>
+          <pub-id pub-id-type="pmid">32503889</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B42-ijerph-19-03431">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zulu</surname><given-names>J.M.</given-names></name>
+<name><surname>Kinsman</surname><given-names>J.</given-names></name>
+<name><surname>Hurtig</surname><given-names>A.-K.</given-names></name>
+<name><surname>Michelo</surname><given-names>C.</given-names></name>
+<name><surname>George</surname><given-names>A.</given-names></name>
+<name><surname>Schneider</surname><given-names>H.</given-names></name>
+</person-group>
+          <article-title>Integrating community health assistant-driven sexual and reproductive health services in the community health system in Nyimba district in Zambia: Mapping key actors, points of integration, and conditions shaping the process</article-title>
+          <source>Reprod. Health</source>
+          <year>2019</year>
+          <volume>16</volume>
+          <fpage>1</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12978-019-0788-4</pub-id>
+          <pub-id pub-id-type="pmid">30621726</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B43-ijerph-19-03431">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>DeNicola</surname><given-names>N.</given-names></name>
+<name><surname>Grossman</surname><given-names>D.</given-names></name>
+<name><surname>Marko</surname><given-names>K.</given-names></name>
+<name><surname>Sonalkar</surname><given-names>S.</given-names></name>
+<name><surname>Tobah</surname><given-names>Y.S.B.</given-names></name>
+<name><surname>Ganju</surname><given-names>N.</given-names></name>
+<name><surname>Witkop</surname><given-names>C.T.</given-names></name>
+<name><surname>Henderson</surname><given-names>J.T.</given-names></name>
+<name><surname>Butler</surname><given-names>J.L.</given-names></name>
+<name><surname>Lowery</surname><given-names>C.</given-names></name>
+</person-group>
+          <article-title>Telehealth interventions to improve obstetric and gynecologic health outcomes: A systematic review</article-title>
+          <source>Obstet. Gynecol.</source>
+          <year>2020</year>
+          <volume>135</volume>
+          <fpage>371</fpage>
+          <pub-id pub-id-type="doi">10.1097/AOG.0000000000003646</pub-id>
+          <pub-id pub-id-type="pmid">31977782</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B44-ijerph-19-03431">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Chitungo</surname><given-names>I.</given-names></name>
+<name><surname>Mhango</surname><given-names>M.</given-names></name>
+<name><surname>Mbunge</surname><given-names>E.</given-names></name>
+<name><surname>Dzobo</surname><given-names>M.</given-names></name>
+<name><surname>Musuka</surname><given-names>G.</given-names></name>
+<name><surname>Dzinamarira</surname><given-names>T.</given-names></name>
+</person-group>
+          <article-title>Utility of telemedicine in sub-Saharan Africa during the COVID-19 pandemic. A rapid review</article-title>
+          <source>Hum. Behav. Emerg. Technol.</source>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1002/hbe2.297</pub-id>
+          <pub-id pub-id-type="pmid">34901772</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45-ijerph-19-03431">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Kura</surname><given-names>S.</given-names></name>
+<name><surname>Vince</surname><given-names>J.</given-names></name>
+<name><surname>Crouch-Chivers</surname><given-names>P.</given-names></name>
+</person-group>
+          <article-title>Male involvement in sexual and reproductive health in the Mendi district, Southern Highlands province of Papua New Guinea: A descriptive study</article-title>
+          <source>Reprod. Health</source>
+          <year>2013</year>
+          <volume>10</volume>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="doi">10.1186/1742-4755-10-46</pub-id>
+          <pub-id pub-id-type="pmid">23279882</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B46-ijerph-19-03431">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Adongo</surname><given-names>P.B.</given-names></name>
+<name><surname>Tapsoba</surname><given-names>P.</given-names></name>
+<name><surname>Phillips</surname><given-names>J.F.</given-names></name>
+<name><surname>Tabong</surname><given-names>P.T.N.</given-names></name>
+<name><surname>Stone</surname><given-names>A.</given-names></name>
+<name><surname>Kuffour</surname><given-names>E.</given-names></name>
+<name><surname>Esantsi</surname><given-names>S.F.</given-names></name>
+<name><surname>Akweongo</surname><given-names>P.</given-names></name>
+</person-group>
+          <article-title>The role of community-based health planning and services strategy in involving males in the provision of family planning services: A qualitative study in Southern Ghana</article-title>
+          <source>Reprod. Health</source>
+          <year>2013</year>
+          <volume>10</volume>
+          <fpage>1</fpage>
+          <lpage>15</lpage>
+          <pub-id pub-id-type="doi">10.1186/1742-4755-10-36</pub-id>
+          <pub-id pub-id-type="pmid">23279882</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <table-wrap position="float" id="ijerph-19-03431-t001">
+      <object-id pub-id-type="pii">ijerph-19-03431-t001_Table 1</object-id>
+      <label>Table 1</label>
+      <caption>
+        <p>Maintaining essential family planning activities and managing abortions at the community level during the COVID-19 pandemic.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Item and Objective</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Action Points</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Train village health workers: to ensure continuity of access to essential family planning services</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Village health workers can be trained to distribute oral contraceptives in the community, to reduce travel requirements and bring contraceptives closer to where the clients stay;</p></list-item><list-item><p>Provide village health workers with tools for infection prevention and control to protect themselves and their community whilst they distribute contraceptives.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Community Kiosks: to ensure easy access of family planning methods at strategic points in communities</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Women can access contraceptive pills and condoms at community kiosks manned by village health workers or primary care nurses stationed in villages, to reduce the need to travel;</p></list-item><list-item><p>Place IEC material at these community kiosks and aim to integrate family planning and other MSRH messages within key COVID-19 IEC messages, incorporating colourful displays.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Provide long-acting reversible contraception via mobile clinics: to reduce the need for repeated visits to health centres</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Long-acting reversible methods of contraception such as Jadelle, Implanon and Copper Intra-uterine contraceptive devices can be offered via mobile clinics observing minimum aseptic techniques;</p></list-item><list-item><p>Village health workers, village heads and other community leaders can spread information regarding visit schedules.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Establish telemedicine services: to minimize person-to-person contact with healthcare providers in avoidable circumstances</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Provide communities with linkage to telemedicine services in case they encounter adverse effects to contraception. This enables triaging to determine who needs attention in a medical facility:
+<list list-type="simple"><list-item><label>&#x25CB;</label><p>With government medical officers</p></list-item><list-item><label>&#x25CB;</label><p>With gynaecologists</p></list-item></list></p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Managing abortion in the community: to reduce adverse outcomes associated with reduced access to post-abortion care</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Community nurses can work with community health workers for the administration of misoprostol to stable patients awaiting access to safe health facilities. Liaising with midwives and medical officers through teleconsultations will be critical;</p></list-item><list-item><p>Community health workers must be empowered to identify and facilitate the urgent referral of all unstable patients to health facilities.</p></list-item></list>
+</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="ijerph-19-03431-t002">
+      <object-id pub-id-type="pii">ijerph-19-03431-t002_Table 2</object-id>
+      <label>Table 2</label>
+      <caption>
+        <p>Ensuring the continuity of essential antenatal and postnatal care services at the community level during the COVID-19 pandemic.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Item and Objective</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Provide micronutrient supplements and malaria prophylaxis tablets at the community level: to reduce risk of anaemia and malnutrition, and reduce adverse outcomes from malaria in pregnancy in endemic areas </td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Village health workers, village heads and other community leaders can keep a diary of all pregnant women in their locality;</p></list-item><list-item><p>Village health workers to provide all pregnant women in their communities with micronutrient supplements and provide them with three-month supplies of iron and folate;</p></list-item><list-item><p>Village health workers can be educated on dosing schedules for intermittent presumptive therapy of malaria with sulphadoxine-pyrimethamine and provide correct doses to pregnant women in malaria-endemic areas.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Establish mobile antenatal care clinics and mobility for community nurses: to ensure continued access to essential antenatal care and surveillance in marginalized communities</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Mobile antenatal clinics. These can be integrated with mobile family planning and HIV care services, and the same basic precautionary infection prevention and control measures taken as above;</p></list-item><list-item><p>Village heads, community leaders and village health workers can spread dates of scheduled visits into the community;</p></list-item><list-item><p>Ministry of Health and Child Care and development partners to support the mobile clinics with basic personal protective equipment, sphygmomanometers, thermos-scanners and hand-held dopplers;</p></list-item><list-item><p>Ministry of Health and Child Care and development partners can provide motorbikes for community nurses and community health workers, with thermoscanners and blood pressure machines, to monitor pregnant and postpartum patients;</p></list-item><list-item><p>Advocate for observation of physical distancing and attending to limited numbers of clients during these visits. A strict booking register can be observed;</p></list-item><list-item><p>Any clients with high-risk pregnancies should be referred to higher facilities.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Community distribution of misoprostol: to reduce adverse outcomes from postpartum haemorrhage for women who face challenges in accessing health centres in time</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Village health workers are provided with misoprostol to distribute to pregnant women near term in case they fail to access health facilities when they get into labour due to transport challenges.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Transport and logistics for labouring women: to reduce the logistical challenges in accessing transport and minimize delays in reaching health centres for labour and delivery</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Villages/Communities must ideally locate a resident with a reliable vehicle, and pool funds to ensure it is always fuelled;</p></list-item><list-item><p>This individual(s) can assist with getting pregnant women to nearby health facilities when they get into labour, and they must be given exemption letters to allow them to travel freely;</p></list-item><list-item><p>Sensitise local leaders (chiefs, headmen) on the importance of timely access to healthcare facilities for labouring women. Most chiefs are provided with government vehicles that can be used to assist pregnant women in marginalised areas.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Postnatal care: to ensure continued access to essential postnatal care services at the community level</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Village health workers and other community health workers can be sensitised to follow-up pregnant women who cannot access health facilities, to identify any dangerous symptoms and signs that need urgent intervention;</p></list-item><list-item><p>Smooth communication between midwives, medical officers and local leadership can facilitate urgent referral of such women to higher facilities.</p></list-item></list>
+</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="ijerph-19-03431-t003">
+      <object-id pub-id-type="pii">ijerph-19-03431-t003_Table 3</object-id>
+      <label>Table 3</label>
+      <caption>
+        <p>Ensuring continued access to sexually transmitted infection prevention and HAART services at the community level during the COVID-19 pandemic.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Item and Objective</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Community antiretroviral therapy delivery models for pregnant and breastfeeding women: to ensure continued access to antiretroviral therapy with no disruptions</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Development partners in conjunction with the Ministry of Health and Child Care to urgently design differentiated models of antiretroviral therapy delivery for pregnant women and breastfeeding mothers;</p></list-item><list-item><p>All pregnant women must be granted exemption letters to enable them free movement between village and health facility levels. At the community level, village heads and chiefs can be granted this authority;</p></list-item><list-item><p>Ensure maximumly permissible (3&#x2013;6 months) supplies of HAART and Co-trimoxazole are given for each client;</p></list-item><list-item><p>Groups can apply to partners for funding for transport allowances for the appointed members.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mobile antiretroviral therapy clinics: to ensure continued access to HIV treatment in the communities, closer to where people stay</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Pregnant women must be given priority for testing;</p></list-item><list-item><p>Ensure test and treat strategy is employed effectively for any pregnant mothers who test positive for HIV to minimise vertical transmission;</p></list-item><list-item><p>Appropriate counselling services must be maintained for women to ensure adherence and compliance to medicines;</p></list-item><list-item><p>Village health workers, community leaders and village heads can spread the news of scheduled dates.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Telemedicine: to minimize unnecessary face-to-face contacts between clients and service providers</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Establish links for telemedicine with medical officers and specialist doctors for side-effects and other problems;</p></list-item><list-item><p>Communities to advocate for phones and subsidised calls to ensure availability of these services</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sexually transmitted infections prevention at the community level: to ensure continued access to these preventive services for those in need</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Condom distribution at community kiosks;</p></list-item><list-item><p>Condom distribution through village health workers and other community health workers for free;</p></list-item><list-item><p>Reinforce messages on the importance of safer sex and abstinence at key and strategic points in the community;</p></list-item><list-item><p>Integrate COVID-19 prevention messages with messages on HIV and sexually transmitted infections prevention.</p></list-item></list>
+</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="ijerph-19-03431-t004">
+      <object-id pub-id-type="pii">ijerph-19-03431-t004_Table 4</object-id>
+      <label>Table 4</label>
+      <caption>
+        <p>Ensuring early care for sexual and gender-based violence and rape survivors at the community level.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Item</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Disclosure of sexual and gender-based violence: to ensure timely access to care and treatment for victims</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Primary care counsellors and community health workers must be empowered to encourage early disclosure of sexual and gender-based violence by victims to promote early seeking of appropriate treatment and counselling services.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Emergency Contraception: to reduce the risks of unwanted pregnancies for rape survivors</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Village health workers and community health workers must be trained to provide emergency oral contraception to survivors at the community level within 12&#x2013;72 h to prevent unintended pregnancies.</p></list-item></list>
+</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Post-Exposure Prophylaxis: to reduce the risk of incident HIV and sexually transmitted infections from rape incidents</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Provide post-exposure prophylaxis for HIV and sexually transmitted infections to reduce the incidence among sexual and gender-based violence and rape survivors.</p></list-item></list>
+</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

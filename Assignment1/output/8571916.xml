@@ -1,0 +1,668 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Pan Afr Med J</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Pan Afr Med J</journal-id>
+      <journal-id journal-id-type="publisher-id">PAMJ</journal-id>
+      <journal-title-group>
+        <journal-title>The Pan African Medical Journal</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1937-8688</issn>
+      <publisher>
+        <publisher-name>The African Field Epidemiology Network</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">34795827</article-id>
+      <article-id pub-id-type="pmc">8571916</article-id>
+      <article-id pub-id-type="publisher-id">PAMJ-40-46</article-id>
+      <article-id pub-id-type="doi">10.11604/pamj.2021.40.46.31237</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Perspectives</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Drivers of the third wave of COVID-19 in Zimbabwe and challenges for control: perspectives and recommendations</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Murewanhema</surname>
+            <given-names>Grant</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="corresp" rid="cor1">&amp;</xref>
+          <ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0001-7531-730X">https://orcid.org/0000-0001-7531-730X</ext-link>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mutsigiri-Murewanhema</surname>
+            <given-names>Faith</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-4075-4822">https://orcid.org/0000-0002-4075-4822</ext-link>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><label>1</label>Unit of Obstetrics and Gynaecology, Department of Primary Health Care Sciences, Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare, Zimbabwe,</aff>
+      <aff id="aff2"><label>2</label>Department of Community Medicine, Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare, Zimbabwe</aff>
+      <author-notes>
+        <corresp id="cor1"><bold>Corresponding author:</bold> Grant Murewanhema, Unit of Obstetrics and Gynaecology, Department of Primary Health Care Sciences, Faculty of Medicine and Health Sciences, University of Zimbabwe, Harare, Zimbabwe. <email>gmurewanhema@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>9</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2021</year>
+      </pub-date>
+      <volume>40</volume>
+      <elocation-id>46</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>8</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>9</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement><bold>Copyright:</bold> Grant Murewanhema et al.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>The Pan African Medical Journal (ISSN: 1937-8688). This is an Open Access article distributed under the terms of the Creative Commons Attribution International 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Since the beginning of June 2021, Zimbabwe entered into a harsh third wave of the COVID-19 pandemic, which saw an increase in the cumulative number of cases from approximately 38,000 to 120,000 in just two months. This exponential case rise was accompanied by an increase in the absolute number of case fatalities, with a corresponding strain on the public health sector. To effectively inform public health responses, policy and strategy to deal with the current wave and prepare for further waves, we discuss the drivers and challenges of control for this current wave and future waves, and offer practical recommendations. Vaccination will be the most important public health intervention to deal with the spread, morbidity and mortality of COVID-19, therefore, efforts to fight vaccine hesitancy and build vaccine confidence and availability will be critical. Similarly, it will be important to build public health sector capacity and resilience to adequately deal with large-scale outbreaks and absorb the shock waves associated with such. Resuscitating and building the economy is an indispensable component of protecting public health. Therefore, collaborative efforts from relevant public health stakeholders, economists, politicians and other players are required to effectively coordinate the necessary responses and formulate the right policies and strategies.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>COVID-19</kwd>
+        <kwd>pandemic</kwd>
+        <kwd>waves</kwd>
+        <kwd>vaccination</kwd>
+        <kwd>Zimbabwe</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="S1">
+      <title>Perspective</title>
+      <p>Zimbabwe experienced its harshest wave of the COVID-19 pandemic to date from June 2021, to end of July 2021. This wave saw the highest number of cases, resulting in a tripling of the cumulative number of confirmed COVID-19 cases from an estimated 38,000 at the end of May 2021 to near 120,000 at the end of July 2021. The first wave, which settled by the end of August 2020, left the country with less than 1000 confirmed cases, having followed a very insidious course [<xref rid="ref1" ref-type="bibr">1</xref>]. The second wave was more severe compared to the first wave, and saw an over 300% increase in case burden from December 2020 to January 2021 [<xref rid="ref2" ref-type="bibr">2</xref>]. The case fatality rate during both waves was reported as 3.4% [<xref rid="ref1" ref-type="bibr">1</xref>,<xref rid="ref2" ref-type="bibr">2</xref>]. The majority of cases reported in the first wave were imported from other countries such as South Africa, Botswana and the United Kingdom, with only a small proportion attributable to local community transmission [<xref rid="ref3" ref-type="bibr">3</xref>]. Conversely, the majority of cases in the second wave, over 90%, were attributable to different patterns of local transmission, including clustering, sporadic and widespread community transmission [<xref rid="ref2" ref-type="bibr">2</xref>].</p>
+      <p>The drivers of transmission for the waves have also been different. The most likely drivers for the first wave included porous borders, weak surveillance at ports of entry into the country and within the country, and asymptomatic transmission as the majority of the cases were reported as asymptomatic [<xref rid="ref3" ref-type="bibr">3</xref>]. Owing to the milder nature of the disease, more people with infection may have been missed due to lack of symptoms [<xref rid="ref4" ref-type="bibr">4</xref>]. Due to a very strict and thoroughly enforced lockdown, fewer cases were attributable to human mobility. On the other hand, the second wave was largely driven by complacency, increased human mobility, and the more transmissible beta variant that had its origins in South Africa. Results from genomic sequencing revealed that more than 70% of incident cases in January 2020 were due to this variant, whilst greater than 90% of cases in January 2021 were attributable to this variant [<xref rid="ref5" ref-type="bibr">5</xref>]. The newer variants have higher effective reproduction numbers, and come with changing disease epidemiology. The drivers of the pandemic are evolving as the pandemic evolves, and as the third wave settles across Africa, it is important to examine the drivers of the third wave and the challenges faced in controlling the wave. It is now becoming apparent that the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) may remain an important respiratory pathogen in the future, with periods of low transmission and intervening harsh waves in between [<xref rid="ref6" ref-type="bibr">6</xref>]. It is therefore important for stakeholders in public health to design preventive and control strategies proactively. This is premised upon an understanding of the factors that may be driving the waves, and the possible challenges for control. In this present paper, we therefore give perspectives on the possible drivers of transmission in the third wave and the control challenges, and offer proactive recommendations as we anticipate further waves of COVID-19 in Zimbabwe and beyond.</p>
+      <sec id="S1_1">
+        <title>Drivers of the waves</title>
+        <p><bold>More transmissible variants:</bold> globally, the delta variant, first detected in India, has been detected. This variant is more easily transmissible with a higher reproduction number, shorter incubation period and more severe clinical disease. In Zimbabwe, the delta variant was reported to be responsible for 98% of the cases in the third wave in a cabinet briefing. SARS-CoV-2, like many other viruses has been undergoing frequent mutations, and the mutant strains have different transmissibility and clinical disease spectrum [<xref rid="ref6" ref-type="bibr">6</xref>]. The strains may also reduce the effectiveness of the current vaccines and necessitate the need for repeated vaccine doses. In populations that are vaccine hesitant [<xref rid="ref7" ref-type="bibr">7</xref>], this may result in reduced uptake of subsequent doses.</p>
+        <p><bold>Pandemic fatigue and human complacency:</bold> after a prolonged period under COVID-19 control restrictions, the population is becoming fatigued and therefore more complacent to preventive strategies. Wearing of facemasks, physical distancing and frequent hand hygiene are unnatural and tiring for many. People have become tired of being confined to certain areas, are moving about more widely, and are less likely to adhere to restrictions and control measures.</p>
+        <p><bold>Public health sector challenges:</bold> the public health sector in Zimbabwe, like that of many countries in sub-Saharan Africa, was largely reported as fragile at the onset of the COVID-19 pandemic [<xref rid="ref8" ref-type="bibr">8</xref>]. Several challenges stemming from an inadequate national budget and resource allocations towards building and capacitating the public health sector have resulted in widespread shortage of medical consumables and equipment, and lack of space for admitting and treating sick COVID-19 patients [<xref rid="ref9" ref-type="bibr">9</xref>]. This has been worsened by the continuous migration of skilled workers to greener pastures as the hyperinflationary environment erodes earnings. This has resulted in gross work force challenges during the COVID-19 pandemic, with understaffed facilities failing to cope with the increased demands. Owing to lack of insurance and competitive remuneration, healthcare workers have remained largely hesitant to work in hazardous environments. News of the death of frontline healthcare workers have worsened the situation [<xref rid="ref10" ref-type="bibr">10</xref>]. This has resulted in patients staying at home and seeking home-based care services. The infection prevention and control conditions prevailing in these homes are largely unknown, and might possibly have fuelled infections. Unfortunately, some of the patients have also deteriorated at home, presented to hospitals with advanced disease due to lack of proper monitoring, which has worsened their prognosis.</p>
+        <p><bold>Surveillance challenges:</bold> breaking the chains of SARS-CoV-2 transmission within a wave requires effecting testing, treating and isolating of confirmed cases, as well as contact tracing with quarantining of contacts of confirmed cases until the end of the incubation period [<xref rid="ref11" ref-type="bibr">11</xref>]. Surveillance at ports of entry is critical for arresting inward migrating of residents infected with SARS-CoV-2 until they are negative, and serves to contain imported cases. Within country, active surveillance encompasses actively testing all suspected cases, treating them and tracing all their contacts, as well as sentinel surveillance through surveillance for acute respiratory infections and influenza-like illnesses. Zimbabwe faced several surveillance challenges from the onset of the pandemic. Contact tracing is often challenged by lack of human resources, fuel and communication means such as for calling and data transmission [<xref rid="ref3" ref-type="bibr">3</xref>]. Limited laboratory testing capacity has been a challenge, as the conventional reverse transcription polymerase chain reaction (RT-PCR) testing has been very expensive and unsustainable, while alternative polymerase chain reaction (PCR) testing on GeneXpert platforms was made difficult by a global shortage of the cartridges [<xref rid="ref3" ref-type="bibr">3</xref>]. The cheap rapid antibody tests have very low sensitivity and specificity [<xref rid="ref12" ref-type="bibr">12</xref>], and have not been included in the national programme. Rapid antigen testing has provided a cheaper alternative, has improved the testing capacity of the country, but has largely remained inadequate.</p>
+        <p><bold>Transport challenges:</bold> from the onset of restrictive measures in March 2020, the government of Zimbabwe banned all forms of public transport except those affiliated to a national passenger company [<xref rid="ref3" ref-type="bibr">3</xref>]. The country mainly relies on road transport, there being no efficient or working public rail systems. The transport control measures helped to control flow of human traffic during the first and second waves. However, with increased human mobility and failure/refusal to comply with restrictive measures in the third wave, the available form of transport has proved to be largely inadequate. This has resulted in overcrowding at both the stations and within the locomotives, all potential SARS-CoV-2 super spreader activities. The current transport challenges need an urgent redress.</p>
+        <p><bold>Overcrowding:</bold> the government introduced vaccination in February 2021 [<xref rid="ref13" ref-type="bibr">13</xref>]. The onset of the third wave has seen people flocking to vaccination centres. Vaccine shortages and inefficiency owing to human resources shortages and fewer vaccination centres have seen people overcrowding as they scramble for the available vaccines at the running centres. Despite restricting permitted numbers to thirty, people have continued attending some funerals in large numbers. All these overcrowding events may possibly have led to the further spread of SARS-CoV-2.</p>
+        <p><bold>Relaxed restrictive measures:</bold> unlike the first and second wave where restrictive measures were seriously controlled, with traffic checkpoints and random checks on human movement, and closure of market places and informal trading places [<xref rid="ref14" ref-type="bibr">14</xref>], the current measures have largely been relaxed or not enforced fully. In places where infection control measures such as screening, hand washing and maintenance of physical distancing must be enforced, there has been limited monitoring or compliance or both.</p>
+      </sec>
+      <sec id="S1_2">
+        <title>Challenges for control</title>
+        <p><bold>Difficulties with decision-making matrices:</bold> the socioeconomic circumstances of most Zimbabweans are difficult, with the majority of the population now living in absolute poverty as defined by the World Bank. The crux of survival for the majority is informal trading in a country where the majority are unemployed and have no disposable savings. On the other hand, lockdowns have been argued to have negative socioeconomic consequences on the population [<xref rid="ref15" ref-type="bibr">15</xref>]. This may be more severe where there is non-existent social support from the government. The excess socioeconomic problems precipitated indirectly on the populace by the COVID-19 pandemic are difficult to estimate; however, it is widely postulated that the indirect damage may have greatly exceeded the damage caused directly by the disease. Additionally, academics have questioned the value of lockdowns in countries where more people die annually from other diseases such as tuberculosis, malaria, HIV and many other public health challenges [<xref rid="ref16" ref-type="bibr">16</xref>]. The government tried to introduce targeted lockdowns at the beginning of the third wave, with restrictions placed in areas that designated as hotspots. However, with continued spread, the government had to impose a nationwide but relaxed lockdown. The partial opening of the resort town of Victoria Falls attests to the dilemma of whether to keep the country locked down, or allow activities that bring in revenue inflow into the country as the government attempts to resuscitate a largely collapsed economy. Indeed, the government has been faced with a decision-making conundrum in the third wave much more than the previous waves, and with progression of time, decision-making is likely to become even more complicated.</p>
+        <p><bold>Recommendations:</bold> policy and strategy must focus on bringing the current wave under control, but more importantly, must prepare the country against future waves that are inevitable, in terms of reducing the morbidity and mortality associated with severe COVID-19, and prepare the healthcare system to absorb any shock waves that may be brought about by harsher waves. We therefore make summarised recommendations as in <xref rid="T1" ref-type="table">Table 1</xref>.</p>
+        <table-wrap id="T1" orientation="portrait" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p>recommendations for controlling the third wave and preparing for further waves of the COVID-19 pandemic in Zimbabwe</p>
+          </caption>
+          <table frame="border" rules="all">
+            <thead valign="top">
+              <tr>
+                <th rowspan="1" colspan="1">Recommendation</th>
+                <th rowspan="1" colspan="1">Action items</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td rowspan="4" colspan="1">Accelerate the vaccination programme to achieve herd immunity</td>
+                <td rowspan="1" colspan="1">Accelerate procurement of vaccines</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Adequately deal with vaccine hesitancy</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Build vaccine confidence</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Deal with logistical issues, and ensure wider availability and accessibility of the vaccines, prioritising the most vulnerable members of the population</td>
+              </tr>
+              <tr>
+                <td rowspan="5" colspan="1">Strengthen risk communication and community engagement</td>
+                <td rowspan="1" colspan="1">Continue reinforcing that all groups are susceptible to COVID-19</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Continue dealing adequately with the rumours, myths and misconceptions regarding COVID-19 and the vaccination therefore</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Continuously develop, adapt and distribute COVID-19 information, education and communication material in all the local languages</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Continue to widely disseminate the information, education and communication material on all possible media platforms</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Continuously develop strategies to deal with pandemic fatigue and complacency</td>
+              </tr>
+              <tr>
+                <td rowspan="5" colspan="1">Build public health sector capacity and resilience</td>
+                <td align="left" rowspan="1" colspan="1">Use period(s) of stability to address human resources and bed capacity challenges</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Adequately address healthcare workers&#x2019; insurance and remuneration concerns to avoid further brain drain</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Build more isolation and quarantine facilities for further waves</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Build up on stocks of consumables such as oxygen, medicines, personal protective equipment and other sundries</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Enhance the public health sector&#x2019;s capacity to test, treat and isolate confirmed cases, conduct efficient contact tracing and quarantine contacts</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Integrate COVID-19 prevention activities into mainstream public health activities</td>
+                <td align="left" rowspan="1" colspan="1">Reinforce the message that SARS-CoV-2 is likely to remain as one of the major respiratory pathogens in the future, therefore begin to integrate COVID-19 prevention messages into the main public health arena alongside other infections of public health importance</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Enhance differentiated control strategies</td>
+                <td align="left" rowspan="1" colspan="1">During periods of low transmission, develop differentiated strategies that allow economic activities to go on whilst clusters of cases are contained</td>
+              </tr>
+              <tr>
+                <td rowspan="2" colspan="1">Work on building/resuscitating the economy and enhance social support for the vulnerable</td>
+                <td align="left" rowspan="1" colspan="1">The economy is the basis of a functional public health sector, and needs urgent resuscitation</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Enhance social support systems that prioritise the vulnerable and protect them during periods of high transmission</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec id="S2">
+      <title>Conclusion</title>
+      <p>Whilst control of the ongoing third wave is a high priority, the government of Zimbabwe must also focus on preparing for future waves, which are inevitable. To this end, various stakeholders in public health, including those in politics and economics must continue working collaboratively to devise effective policy and control strategies, premised upon understanding the drivers and challenges of SARS-CoV-2 transmissions and COVID-19 wave&#xB4;s control. Local studies to build the evidence are required to effectively inform public health.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="fn1">
+        <p><bold>Cite this article:</bold> Grant Murewanhema et al. Drivers of the third wave of COVID-19 in Zimbabwe and challenges for control: perspectives and recommendations. Pan African Medical Journal. 2021;40(46). 10.11604/pamj.2021.40.46.31237</p>
+      </fn>
+    </fn-group>
+    <sec id="S3" sec-type="COI-statement">
+      <title>Competing interests</title>
+      <p>The authors declare no competing interests.</p>
+    </sec>
+    <sec id="S4">
+      <title>Authors' contributions</title>
+      <p>Grant Murewanhema and Faith Mutsigiri-Murewanhema developed the concept, drafted the manuscript, edited it and finalised it for submission for publication. All the authors have read and agreed to the final manuscript.</p>
+    </sec>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murewanhema</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Burukai</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Mazingi</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Fabian</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Davison</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>A descriptive study of the trends of COVID-19 in Zimbabwe from March-June 2020: policy and strategy implications</article-title>
+          <source>Pan African Medical Journal</source>
+          <year>2020</year>
+          <month>11</month>
+          <day>9</day>
+          <volume>37</volume>
+          <issue>Suppl 1</issue>
+          <fpage>33</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murewanhema</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Burukai</surname>
+              <given-names>TV</given-names>
+            </name>
+            <name>
+              <surname>Chiwaka</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Maunganidze</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Munodawafa</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Pote</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>The effect of increased mobility on SARS-CoV-2 transmission: a descriptive study of the trends of COVID-19 in Zimbabwe between December 2020 and January 2021</article-title>
+          <source>Pan African Medical Journal</source>
+          <year>2021</year>
+          <volume>39</volume>
+          <comment>December 2020</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murewanhema</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19 control pitfalls and challenges and drivers of SARS-CoV-2 transmission in Zimbabwe</article-title>
+          <source>Pan African Medical Journal</source>
+          <year>2021</year>
+          <month>1</month>
+          <day>13</day>
+          <volume>38</volume>
+          <fpage>28</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diop</surname>
+              <given-names>BZ</given-names>
+            </name>
+            <name>
+              <surname>Ngom</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pougu&#xE9;</surname>
+              <given-names>BC</given-names>
+            </name>
+          </person-group>
+          <article-title>The relatively young and rural population may limit the spread and severity of COVID-19 in Africa: a modelling study</article-title>
+          <source>BMJ Glob Health</source>
+          <year>2020</year>
+          <month>5</month>
+          <volume>5</volume>
+          <issue>5</issue>
+          <fpage>e002699</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mashe</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Takawira</surname>
+              <given-names>FT</given-names>
+            </name>
+            <name>
+              <surname>Gumbo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Agnes</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Charles</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Kenneth</surname>
+              <given-names>KM</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Surveillance of SARS-CoV-2 in Zimbabwe shows dominance of variants of concern</article-title>
+          <source>Lancet Microbe</source>
+          <year>2021</year>
+          <month>5</month>
+          <volume>2</volume>
+          <issue>5</issue>
+          <fpage>e177</fpage>
+          <pub-id pub-id-type="pmid">33723535</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fontanet</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Autran</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Lina</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Marie</surname>
+              <given-names>PK</given-names>
+            </name>
+            <name>
+              <surname>Salim</surname>
+              <given-names>SAK</given-names>
+            </name>
+            <name>
+              <surname>Devi</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>SARS-CoV-2 variants and ending the COVID-19 pandemic</article-title>
+          <source>Lancet</source>
+          <year>2021</year>
+          <month>3</month>
+          <day>13</day>
+          <volume>397</volume>
+          <issue>10278</issue>
+          <fpage>952</fpage>
+          <lpage>954</lpage>
+          <pub-id pub-id-type="pmid">33581803</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nachega</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Sam-agudu</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Masekela</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Marieke</surname>
+              <given-names>MvZ</given-names>
+            </name>
+            <name>
+              <surname>Sabin</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Jeanine</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Addressing challenges to rolling out COVID-19 vaccines in African countries</article-title>
+          <source>Lancet Glob Health</source>
+          <year>2021</year>
+          <month>6</month>
+          <volume>9</volume>
+          <issue>6</issue>
+          <fpage>e746</fpage>
+          <lpage>e748</lpage>
+          <pub-id pub-id-type="pmid">33713633</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lone</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19 pandemic: an African perspective</article-title>
+          <source>Emerg Microbes Infect</source>
+          <year>2020</year>
+          <month>12</month>
+          <volume>9</volume>
+          <issue>1</issue>
+          <fpage>1300</fpage>
+          <lpage>1308</lpage>
+          <pub-id pub-id-type="pmid">32458760</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muewanhema</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Makurumidze</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic: perspectives and recommendations</article-title>
+          <source>Pan African Medical journal</source>
+          <year>2020</year>
+          <month>8</month>
+          <day>11</day>
+          <volume>35</volume>
+          <issue>Suppl 2</issue>
+          <fpage>143</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Truscott</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Covid-19: health worker strikes, limited testing, and clinic closures hamper Zimbabwe&#xB4;s response</article-title>
+          <source>BMJ</source>
+          <year>2020</year>
+          <month>8</month>
+          <day>19</day>
+          <volume>370</volume>
+          <fpage>m3267</fpage>
+          <pub-id pub-id-type="pmid">32816753</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>World Health Organization</collab>
+          </person-group>
+          <article-title>Global surveillance for human infection with coronavirus disease (COVID-19)</article-title>
+          <source>Interim Guid</source>
+          <year>2020</year>
+          <fpage>27</fpage>
+          <lpage>9</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lisboa Bastos</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tavaziva</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Abidi</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Jonathon</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Louis-Patrick</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>James</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Diagnostic accuracy of serological tests for COVID-19: systematic review and meta-analysis</article-title>
+          <source>BMJ</source>
+          <year>2020</year>
+          <month>7</month>
+          <day>1</day>
+          <volume>370</volume>
+          <fpage>m2516</fpage>
+          <pub-id pub-id-type="pmid">32611558</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chiwenga</surname>
+              <given-names>CGDN</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID vaccine deployment and roll out plan</article-title>
+          <year>2020</year>
+          <comment>Accessed on 1<sup>st</sup> Sept 21</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="other">
+          <person-group person-group-type="author">
+            <collab>Government of Zimbabwe</collab>
+          </person-group>
+          <article-title>Zimbabwe COVID-19 operational plan May-July 2020</article-title>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Melnick</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>Ioannidis</surname>
+              <given-names>JPA</given-names>
+            </name>
+          </person-group>
+          <article-title>Should governments continue lockdown to slow the spread of COVID-19?</article-title>
+          <source>BMJ</source>
+          <year>2020</year>
+          <month>6</month>
+          <day>3</day>
+          <volume>369</volume>
+          <fpage>m1924</fpage>
+          <pub-id pub-id-type="pmid">32493767</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Damme</surname>
+              <given-names>WV</given-names>
+            </name>
+            <name>
+              <surname>Dahake</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Delamou</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ingelbeen</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wouters</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Vanham</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>The COVID-19 pandemic: diverse contexts; different epidemics-how and why?</article-title>
+          <source>BMJ Global Health</source>
+          <year>2020</year>
+          <month>7</month>
+          <volume>5</volume>
+          <issue>7</issue>
+          <fpage>e003098</fpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1867 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="other">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Biology (Basel)</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Biology (Basel)</journal-id>
+      <journal-id journal-id-type="publisher-id">biology</journal-id>
+      <journal-title-group>
+        <journal-title>Biology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2079-7737</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">34207024</article-id>
+      <article-id pub-id-type="pmc">8235440</article-id>
+      <article-id pub-id-type="doi">10.3390/biology10060545</article-id>
+      <article-id pub-id-type="publisher-id">biology-10-00545</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Opinion</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Coronavirus Disease 2019 (COVID-19) Crisis: Losing Our Immunity When We Need It the Most</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ghanemi</surname>
+            <given-names>Abdelaziz</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-biology-10-00545">1</xref>
+          <xref ref-type="aff" rid="af2-biology-10-00545">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3519-9024</contrib-id>
+          <name>
+            <surname>Yoshioka</surname>
+            <given-names>Mayumi</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-biology-10-00545">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2595-6127</contrib-id>
+          <name>
+            <surname>St-Amand</surname>
+            <given-names>Jonny</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-biology-10-00545">1</xref>
+          <xref ref-type="aff" rid="af2-biology-10-00545">2</xref>
+          <xref rid="c1-biology-10-00545" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Drummer</surname>
+            <given-names>Heidi</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-biology-10-00545"><label>1</label>Functional Genomics Laboratory, Endocrinology and Nephrology Axis, CHU de Qu&#xE9;bec-Universit&#xE9; Laval Research Center, Qu&#xE9;bec, QC G1V 4G2, Canada; <email>abdelaziz.ghanemi@crchudequebec.ulaval.ca</email> (A.G.); <email>mayumi.yoshioka@crchudequebec.ulaval.ca</email> (M.Y.)</aff>
+      <aff id="af2-biology-10-00545"><label>2</label>Department of Molecular Medicine, Faculty of Medicine, Laval University, Qu&#xE9;bec, QC G1V 0A6, Canada</aff>
+      <author-notes>
+        <corresp id="c1-biology-10-00545"><label>*</label>Correspondence: <email>jonny.st-amand@crchudequebec.ulaval.ca</email>; Tel.: +1-418-654-2296; Fax: +1-418-654-2761</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>6</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>6</month>
+        <year>2021</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>6</issue>
+      <elocation-id>545</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>4</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>6</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2021 by the authors.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Simple Summary</title>
+          <p>With the current coronavirus disease 2019 (COVID-19) crisis, humans have developed new habits and adapted to a novel socioeconomic reality. Indeed, measures including confinement and lockdown have led to mental health problems, economic crisis, and social isolation, among other consequences. These consequences, along with hand washing, sanitization, and face masks, would reduce our immunity against infections, including COVID-19. Such reduced immunity could impact not only our vulnerability to diseases but also the efficacy of vaccines that carry the biggest hope to putting an end to this COVID-19 pandemic. Thus, there is a need to review these approaches and optimize measures taken to limit the spread of COVID-19 by taking into consideration the possible impact of these measures on our immunity to fight COVID-19.</p>
+        </sec>
+        <sec>
+          <title>Abstract</title>
+          <p>The ongoing coronavirus disease 2019 (COVID-19) crisis has led to a new socioeconomic reality with the acquisition of novel habits. Measures imposed by governments and health authorities such as confinement and lockdown have had important consequences, including mental health problems, economic crisis, and social isolation. Combined with newly acquired habits such as hand washing, sanitization, and face masks, these have all directly and indirectly led to reduced immunity. Such effects on the immune system not only impact the epidemiological profile with respect to COVID-19 and other infectious diseases but also limit the efficacy of the ongoing anti-COVID-19 vaccination campaign. Therefore, there is a need to review these approaches and optimize measures towards better population immunity, which is much needed during such an epidemic.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>coronavirus disease 2019 (COVID-19)</kwd>
+        <kwd>immunity</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>The ongoing coronavirus disease 2019 (COVID-19) crisis [<xref rid="B1-biology-10-00545" ref-type="bibr">1</xref>], as well as the measures imposed by governments, public health recommendations, the emergence of new variants, and the delay in vaccination campaigns, has put a greater spotlight on the importance of population immunity during the critical phase of this rapidly evolving pandemic. In this paper, we focus on the hypothesis that the measures taken during the pandemic and the socioeconomic situation caused by this crisis are reducing immunity at a period when we need it the most.</p>
+    <p>One of the most important risk factors for immunity problems is obesity, which negatively impacts immunity [<xref rid="B2-biology-10-00545" ref-type="bibr">2</xref>,<xref rid="B3-biology-10-00545" ref-type="bibr">3</xref>]. We believe that the measures imposed to limit the spread of COVID-19, including home confinement, curfew, closed gymnasiums, and work from home recommendations, result in sedentary behaviors [<xref rid="B4-biology-10-00545" ref-type="bibr">4</xref>], which would lead to an obesity pandemic [<xref rid="B5-biology-10-00545" ref-type="bibr">5</xref>]. As we have previously suggested, obesity also increases the vulnerability of patients recovering from COVID-19 as it can lead to an impaired regeneration homeostasis [<xref rid="B6-biology-10-00545" ref-type="bibr">6</xref>] and impact the development of immune cells.</p>
+    <p>The other measures characterizing this crisis are the periodic hand washing and sanitizing along with physical distancing. Both of these reduce our contact with different infections and pathogenic agents. Contact with pathogens, in a similar way to vaccines, stimulates the immune system [<xref rid="B7-biology-10-00545" ref-type="bibr">7</xref>,<xref rid="B8-biology-10-00545" ref-type="bibr">8</xref>] and increases its performance. However, with such limited interaction with the environment compared to that before the start of the COVID-19 crisis, less pathogens are detected by the immune system. This could limit its functional interaction as described by the hygiene hypothesis [<xref rid="B9-biology-10-00545" ref-type="bibr">9</xref>], especially within the context of the COVID-19 crisis [<xref rid="B10-biology-10-00545" ref-type="bibr">10</xref>] and the impact on the microbiome [<xref rid="B11-biology-10-00545" ref-type="bibr">11</xref>]. This is also of particular importance given the close link between the microbiome and immunity [<xref rid="B12-biology-10-00545" ref-type="bibr">12</xref>,<xref rid="B13-biology-10-00545" ref-type="bibr">13</xref>] as well as the link between microbiota composition and mental health, including anxiety and depression [<xref rid="B14-biology-10-00545" ref-type="bibr">14</xref>,<xref rid="B15-biology-10-00545" ref-type="bibr">15</xref>], during this COVID-19 outbreak as per the opinions of Venema et al. and Janda et al. and supported by the research of Yeoh et al. [<xref rid="B16-biology-10-00545" ref-type="bibr">16</xref>,<xref rid="B17-biology-10-00545" ref-type="bibr">17</xref>,<xref rid="B18-biology-10-00545" ref-type="bibr">18</xref>].</p>
+    <p>The hard economic situation caused by this COVID-19 crisis [<xref rid="B19-biology-10-00545" ref-type="bibr">19</xref>] has also made a contribution. For instance, many individuals have lost their jobs [<xref rid="B20-biology-10-00545" ref-type="bibr">20</xref>], and food insecurity has worsened [<xref rid="B21-biology-10-00545" ref-type="bibr">21</xref>] due to price inflation in the markets [<xref rid="B22-biology-10-00545" ref-type="bibr">22</xref>]. Therefore, the grocery options for individuals with limited income is more inclined towards unhealthy choices, including high-fat, high-sugar, and high-salt foods, which are more affordable but have an impact on immunity [<xref rid="B23-biology-10-00545" ref-type="bibr">23</xref>], including the microbiome [<xref rid="B24-biology-10-00545" ref-type="bibr">24</xref>,<xref rid="B25-biology-10-00545" ref-type="bibr">25</xref>], and further worsen obesity. In addition, the poor nutritive value of such an unhealthy diet limits the intake of nutrients like vitamins and therefore impacts the production of antibodies [<xref rid="B26-biology-10-00545" ref-type="bibr">26</xref>], among other immune functions [<xref rid="B27-biology-10-00545" ref-type="bibr">27</xref>]. In addition, diets also impact the microbiota [<xref rid="B28-biology-10-00545" ref-type="bibr">28</xref>,<xref rid="B29-biology-10-00545" ref-type="bibr">29</xref>] and therefore mental health and immunity.</p>
+    <p>Another consequence of the ongoing COVID-19 crisis is the impact on mental health [<xref rid="B30-biology-10-00545" ref-type="bibr">30</xref>,<xref rid="B31-biology-10-00545" ref-type="bibr">31</xref>] due to psychological stress, disturbed sleeping, and reduced social interaction, which can lead to problems including depression, anxiety, distress, and panic disorder [<xref rid="B32-biology-10-00545" ref-type="bibr">32</xref>,<xref rid="B33-biology-10-00545" ref-type="bibr">33</xref>,<xref rid="B34-biology-10-00545" ref-type="bibr">34</xref>]. These mental health issues during the COVID-19 crisis, along with the impact on immunity [<xref rid="B35-biology-10-00545" ref-type="bibr">35</xref>], could also increase the usage/intake of products such as drugs, alcohol, and tobacco [<xref rid="B36-biology-10-00545" ref-type="bibr">36</xref>,<xref rid="B37-biology-10-00545" ref-type="bibr">37</xref>] with consequent effect on immunity, as has been reported for alcohol consumption [<xref rid="B38-biology-10-00545" ref-type="bibr">38</xref>,<xref rid="B39-biology-10-00545" ref-type="bibr">39</xref>], tobacco [<xref rid="B40-biology-10-00545" ref-type="bibr">40</xref>,<xref rid="B41-biology-10-00545" ref-type="bibr">41</xref>], and drugs [<xref rid="B42-biology-10-00545" ref-type="bibr">42</xref>]. Within this context, it is worth highlighting the importance of pets as companions in reducing the discomfort caused by social isolation, with resulting benefits for both mental health (depression, anxiety, and stress) and physical activity [<xref rid="B43-biology-10-00545" ref-type="bibr">43</xref>], especially as they do not cause transmission of the COVID-19 virus [<xref rid="B44-biology-10-00545" ref-type="bibr">44</xref>].</p>
+    <p>Moreover, with the lockdown, some individuals may delay receiving the medical care they need or reduce the frequency of visits to these services [<xref rid="B45-biology-10-00545" ref-type="bibr">45</xref>,<xref rid="B46-biology-10-00545" ref-type="bibr">46</xref>], especially given most healthcare facilities would have reduced their regular services so that they could focus their energy on treating COVID-19 cases. This also has a significant impact on general health, including immunity.</p>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The consequences of this multifactorial reduced immunity (<xref ref-type="fig" rid="biology-10-00545-f001">Figure 1</xref>) can not only increase the risk of developing a severe case of COVID-19 [<xref rid="B47-biology-10-00545" ref-type="bibr">47</xref>] and other infectious diseases [<xref rid="B48-biology-10-00545" ref-type="bibr">48</xref>,<xref rid="B49-biology-10-00545" ref-type="bibr">49</xref>] but also limit the efficacy of vaccines [<xref rid="B50-biology-10-00545" ref-type="bibr">50</xref>].</p>
+      <p>However, to what extent the effects on immunity due to the issues discussed in this paper (obesity, stress, mental health, hygiene hypothesis, etc.) impact the immune system compared to primary and secondary immunodeficiencies would depend on many factors, including the duration of exposure (which would be the period of the COVID-19 crisis), the severity of these factors, and individual physiological and pathological profiles. Other factors that could have an important influence include medication and the available medical care, which could worsen or improve the immunological outcome. Within this context, our theory indicates that these elements will have an immediate impact on immunity and vaccine effectiveness (pertinent to the current outcomes in this pandemic) as well as potential long-term effects that could persist in the future. Indeed, whereas factors such as disturbed microbiota and mental health problems [<xref rid="B51-biology-10-00545" ref-type="bibr">51</xref>] can be reversed following a healthy lifestyle and/or therapies, which will then improve immunity, other factors such as obesity can turn into a chronic status [<xref rid="B52-biology-10-00545" ref-type="bibr">52</xref>] with long-lasting consequences [<xref rid="B53-biology-10-00545" ref-type="bibr">53</xref>], including on immunity.</p>
+      <p>Therefore, it is urgent to find innovative solutions beyond home confinement and lockdown to get over this health crisis. Among the most efficient approaches would be to increase the physical activity of the population because exercise has been shown to improve immunity, including in the context of COVID-19 [<xref rid="B54-biology-10-00545" ref-type="bibr">54</xref>,<xref rid="B55-biology-10-00545" ref-type="bibr">55</xref>,<xref rid="B56-biology-10-00545" ref-type="bibr">56</xref>]. This could reduce the incidence of COVID-19 and improve vaccine efficacy. Importantly, the negative effects of this crisis on immunity described herein suggest the need to speed up the vaccination process before the effect of the vaccines is reduced, especially due to the emerging variants.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Abdelaziz Ghanemi received a scholarship under the Merit Scholarship Program for foreign students from the Ministry of Education and Higher Education of Quebec, Canada. The Fonds de recherche du Qu&#xE9;bec&#x2014;Nature et technologies (FRQNT) is responsible for managing the program (Bourses d&#x2019;excellence pour &#xE9;tudiants &#xE9;trangers du Minist&#xE8;re de l&#x2019;&#xC9;ducation et de l&#x2019;Enseignement sup&#xE9;rieur du Qu&#xE9;bec, Le Fonds de recherche du Qu&#xE9;bec&#x2014;Nature et technologies (FRQNT) est responsable de la gestion du programme). The figure was created using images from <uri xlink:href="https://mindthegraph.com/">https://mindthegraph.com/</uri> (accessed on 19 April 2021).</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p><bold>Publisher&#x2019;s Note:</bold> MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>A.G. designed the manuscript structure and wrote it. A.G., M.Y., and J.S.-A. discussed the content and exchanged ideas and suggestions (concepts to add, the figure, references selection, etc.) throughout the writing process, edited and critically revised the paper. J.S.-A. gave the final approval for the version to be published. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Funding</title>
+      <p>This work received no external funding. </p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare that there is no conflict of interest. This paper does not take any position for or against any decision of a political or economic nature. </p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-biology-10-00545">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sohrabi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Alsafi</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Neill</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kerwan</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Al-Jabir</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Iosifidis</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Agha</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>World Health Organization declares global emergency: A review of the 2019 novel coronavirus (COVID-19)</article-title>
+          <source>Int. J. Surg.</source>
+          <year>2020</year>
+          <volume>76</volume>
+          <fpage>71</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijsu.2020.02.034</pub-id>
+          <pub-id pub-id-type="pmid">32112977</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-biology-10-00545">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Milner</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Beck</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of obesity on the immune response to infection</article-title>
+          <source>Proc. Nutr. Soc.</source>
+          <year>2012</year>
+          <volume>71</volume>
+          <fpage>298</fpage>
+          <lpage>306</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0029665112000158</pub-id>
+          <pub-id pub-id-type="pmid">22414338</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-biology-10-00545">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andersen</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>K.E.</given-names>
+            </name>
+            <name>
+              <surname>Fernandez</surname>
+              <given-names>M.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Impact of Obesity and Metabolic Syndrome on Immunity</article-title>
+          <source>Adv. Nutr.</source>
+          <year>2016</year>
+          <volume>7</volume>
+          <fpage>66</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="doi">10.3945/an.115.010207</pub-id>
+          <pub-id pub-id-type="pmid">26773015</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-biology-10-00545">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McDowell</surname>
+              <given-names>C.P.</given-names>
+            </name>
+            <name>
+              <surname>Herring</surname>
+              <given-names>M.P.</given-names>
+            </name>
+            <name>
+              <surname>Lansing</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Brower</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>J.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Working From Home and Job Loss Due to the COVID-19 Pandemic Are Associated With Greater Time in Sedentary Behaviors</article-title>
+          <source>Front. Public Health</source>
+          <year>2020</year>
+          <volume>8</volume>
+          <fpage>597619</fpage>
+          <pub-id pub-id-type="doi">10.3389/fpubh.2020.597619</pub-id>
+          <pub-id pub-id-type="pmid">33224922</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-biology-10-00545">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghanemi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>St-Amand</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Will an obesity pandemic replace the coronavirus disease-2019 (COVID-19) pandemic?</article-title>
+          <source>Med. Hypotheses</source>
+          <year>2020</year>
+          <volume>144</volume>
+          <fpage>110042</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.mehy.2020.110042</pub-id>
+          <pub-id pub-id-type="pmid">32758883</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-biology-10-00545">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghanemi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>St-Amand</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regeneration during Obesity: An Impaired Homeostasis</article-title>
+          <source>Animals</source>
+          <year>2020</year>
+          <volume>10</volume>
+          <elocation-id>2344</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/ani10122344</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-biology-10-00545">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Akira</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Uematsu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Takeuchi</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathogen recognition and innate immunity</article-title>
+          <source>Cell</source>
+          <year>2006</year>
+          <volume>124</volume>
+          <fpage>783</fpage>
+          <lpage>801</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2006.02.015</pub-id>
+          <pub-id pub-id-type="pmid">16497588</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-biology-10-00545">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Medzhitov</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recognition of microorganisms and activation of the immune response</article-title>
+          <source>Nature</source>
+          <year>2007</year>
+          <volume>449</volume>
+          <fpage>819</fpage>
+          <lpage>826</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature06246</pub-id>
+          <pub-id pub-id-type="pmid">17943118</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-biology-10-00545">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alexandre-Silva</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Brito-Souza</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>A.C.S.</given-names>
+            </name>
+            <name>
+              <surname>Cerni</surname>
+              <given-names>F.A.</given-names>
+            </name>
+            <name>
+              <surname>Zottich</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Pucca</surname>
+              <given-names>M.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>The hygiene hypothesis at a glance: Early exposures, immune mechanism and novel therapies</article-title>
+          <source>Acta Trop.</source>
+          <year>2018</year>
+          <volume>188</volume>
+          <fpage>16</fpage>
+          <lpage>26</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.actatropica.2018.08.032</pub-id>
+          <pub-id pub-id-type="pmid">30165069</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-biology-10-00545">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sehrawat</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Rouse</surname>
+              <given-names>B.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Does the hygiene hypothesis apply to COVID-19 susceptibility?</article-title>
+          <source>Microbes Infect.</source>
+          <year>2020</year>
+          <volume>22</volume>
+          <fpage>400</fpage>
+          <lpage>402</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.micinf.2020.07.002</pub-id>
+          <pub-id pub-id-type="pmid">32653475</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-biology-10-00545">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Finlay</surname>
+              <given-names>B.B.</given-names>
+            </name>
+            <name>
+              <surname>Amato</surname>
+              <given-names>K.R.</given-names>
+            </name>
+            <name>
+              <surname>Azad</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Blaser</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Bosch</surname>
+              <given-names>T.C.G.</given-names>
+            </name>
+            <name>
+              <surname>Chu</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Dominguez-Bello</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Ehrlich</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Elinav</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Geva-Zatorsky</surname>
+              <given-names>N.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The hygiene hypothesis, the COVID pandemic, and consequences for the human microbiome</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2021</year>
+          <volume>118</volume>
+          <pub-id pub-id-type="doi">10.1073/pnas.2010217118</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-biology-10-00545">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thaiss</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Zmora</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Levy</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Elinav</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>The microbiome and innate immunity</article-title>
+          <source>Nature</source>
+          <year>2016</year>
+          <volume>535</volume>
+          <fpage>65</fpage>
+          <lpage>74</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature18847</pub-id>
+          <pub-id pub-id-type="pmid">27383981</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-biology-10-00545">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sadler</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Benakis</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Garzetti</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Brea</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Stecher</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Anrather</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Liesz</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microbiota differences between commercial breeders impacts the post-stroke immune response</article-title>
+          <source>Brain Behav. Immun.</source>
+          <year>2017</year>
+          <volume>66</volume>
+          <fpage>23</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbi.2017.03.011</pub-id>
+          <pub-id pub-id-type="pmid">28347867</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-biology-10-00545">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rieder</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Wisniewski</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Alderman</surname>
+              <given-names>B.L.</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>S.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microbes and mental health: A review</article-title>
+          <source>Brain Behav. Immun.</source>
+          <year>2017</year>
+          <volume>66</volume>
+          <fpage>9</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbi.2017.01.016</pub-id>
+          <pub-id pub-id-type="pmid">28131791</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-biology-10-00545">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dinan</surname>
+              <given-names>T.G.</given-names>
+            </name>
+            <name>
+              <surname>Cryan</surname>
+              <given-names>J.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Microbiome-Gut-Brain Axis in Health and Disease</article-title>
+          <source>Gastroentero. Clin. N. Am.</source>
+          <year>2017</year>
+          <volume>46</volume>
+          <fpage>77</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.gtc.2016.09.007</pub-id>
+          <pub-id pub-id-type="pmid">28164854</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-biology-10-00545">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Venema</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Foreword&#x2014;The importance of a healthy microbiota in the era of COVID-19</article-title>
+          <source>Benef. Microbes</source>
+          <year>2021</year>
+          <volume>12</volume>
+          <fpage>1</fpage>
+          <lpage>3</lpage>
+          <pub-id pub-id-type="doi">10.3920/BM2021.x001</pub-id>
+          <pub-id pub-id-type="pmid">33627060</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-biology-10-00545">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Janda</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Mihal&#x10D;in</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>&#x160;&#x165;astn&#xE1;</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Is a healthy microbiome responsible for lower mortality in COVID-19?</article-title>
+          <source>Biologia</source>
+          <year>2021</year>
+          <volume>76</volume>
+          <fpage>819</fpage>
+          <lpage>829</lpage>
+          <pub-id pub-id-type="doi">10.2478/s11756-020-00614-8</pub-id>
+          <pub-id pub-id-type="pmid">33078028</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-biology-10-00545">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yeoh</surname>
+              <given-names>Y.K.</given-names>
+            </name>
+            <name>
+              <surname>Zuo</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Lui</surname>
+              <given-names>G.C.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>A.Y.</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Cheung</surname>
+              <given-names>C.P.</given-names>
+            </name>
+            <name>
+              <surname>Tso</surname>
+              <given-names>E.Y.</given-names>
+            </name>
+            <name>
+              <surname>Fung</surname>
+              <given-names>K.S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Gut microbiota composition reflects disease severity and dysfunctional immune responses in patients with COVID-19</article-title>
+          <source>Gut</source>
+          <year>2021</year>
+          <volume>70</volume>
+          <fpage>698</fpage>
+          <lpage>706</lpage>
+          <pub-id pub-id-type="doi">10.1136/gutjnl-2020-323020</pub-id>
+          <pub-id pub-id-type="pmid">33431578</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-biology-10-00545">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Abdelmaksoud</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jafferany</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lotti</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sadoughifar</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Goldust</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19 and economy</article-title>
+          <source>Dermatol. Ther.</source>
+          <year>2020</year>
+          <volume>33</volume>
+          <fpage>e13329</fpage>
+          <pub-id pub-id-type="doi">10.1111/dth.13329</pub-id>
+          <pub-id pub-id-type="pmid">32216130</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-biology-10-00545">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crayne</surname>
+              <given-names>M.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>The traumatic impact of job loss and job search in the aftermath of COVID-19</article-title>
+          <source>Psychol. Trauma</source>
+          <year>2020</year>
+          <volume>12</volume>
+          <fpage>S180</fpage>
+          <lpage>S182</lpage>
+          <pub-id pub-id-type="doi">10.1037/tra0000852</pub-id>
+          <pub-id pub-id-type="pmid">32478539</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-biology-10-00545">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Niles</surname>
+              <given-names>M.T.</given-names>
+            </name>
+            <name>
+              <surname>Bertmann</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Belarmino</surname>
+              <given-names>E.H.</given-names>
+            </name>
+            <name>
+              <surname>Wentworth</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Biehl</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Neff</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Early Food Insecurity Impacts of COVID-19</article-title>
+          <source>Nutrients</source>
+          <year>2020</year>
+          <volume>12</volume>
+          <elocation-id>96</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/nu12072096</pub-id>
+          <pub-id pub-id-type="pmid">32679788</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-biology-10-00545">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nourozi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Acharya</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Thapa</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Estimating the potential effects of COVID-19 pandemic on food commodity prices and nutrition security in Nepal</article-title>
+          <source>J. Nutr. Sci.</source>
+          <year>2020</year>
+          <volume>9</volume>
+          <fpage>e51</fpage>
+          <pub-id pub-id-type="doi">10.1017/jns.2020.43</pub-id>
+          <pub-id pub-id-type="pmid">33240495</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-biology-10-00545">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Myles</surname>
+              <given-names>I.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fast food fever: Reviewing the impacts of the Western diet on immunity</article-title>
+          <source>Nutr. J.</source>
+          <year>2014</year>
+          <volume>13</volume>
+          <fpage>61</fpage>
+          <pub-id pub-id-type="doi">10.1186/1475-2891-13-61</pub-id>
+          <pub-id pub-id-type="pmid">24939238</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-biology-10-00545">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Agus</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Denizot</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Th&#xE9;venot</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Martinez-Medina</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Massier</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sauvanet</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Bernalier-Donadille</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Denis</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hofman</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Bonnet</surname>
+              <given-names>R.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Western diet induces a shift in microbiota composition enhancing susceptibility to Adherent-Invasive E. coli infection and intestinal inflammation</article-title>
+          <source>Sci. Rep.</source>
+          <year>2016</year>
+          <volume>6</volume>
+          <fpage>19032</fpage>
+          <pub-id pub-id-type="doi">10.1038/srep19032</pub-id>
+          <pub-id pub-id-type="pmid">26742586</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25-biology-10-00545">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Cong</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Gut microbiota-derived metabolites in the regulation of host immune responses and immune-related inflammatory diseases</article-title>
+          <source>Cell Mol. Immunol.</source>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1038/s41423-021-00661-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-biology-10-00545">
+        <label>26.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Axelrod</surname>
+              <given-names>A.E.</given-names>
+            </name>
+            <name>
+              <surname>Pruzansky</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Role of the Vitamins in Antibody Production</article-title>
+          <source>Vitamins &amp; Hormones</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Harris</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Marrian</surname>
+              <given-names>G.F.</given-names>
+            </name>
+            <name>
+              <surname>Thimann</surname>
+              <given-names>K.V.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>Cambridge, MA, USA</publisher-loc>
+          <year>1955</year>
+          <volume>Volume 13</volume>
+          <fpage>1</fpage>
+          <lpage>27</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B27-biology-10-00545">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wintergerst</surname>
+              <given-names>E.S.</given-names>
+            </name>
+            <name>
+              <surname>Maggini</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hornig</surname>
+              <given-names>D.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Contribution of selected vitamins and trace elements to immune function</article-title>
+          <source>Ann. Nutr. Metab.</source>
+          <year>2007</year>
+          <volume>51</volume>
+          <fpage>301</fpage>
+          <lpage>323</lpage>
+          <pub-id pub-id-type="doi">10.1159/000107673</pub-id>
+          <pub-id pub-id-type="pmid">17726308</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-biology-10-00545">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conlon</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Bird</surname>
+              <given-names>A.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Impact of Diet and Lifestyle on Gut Microbiota and Human Health</article-title>
+          <source>Nutrients</source>
+          <year>2015</year>
+          <volume>7</volume>
+          <fpage>17</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="doi">10.3390/nu7010017</pub-id>
+          <pub-id pub-id-type="pmid">25545101</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-biology-10-00545">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chassaing</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Vijay-Kumar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gewirtz</surname>
+              <given-names>A.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>How diet can impact gut microbiota to promote or endanger health</article-title>
+          <source>Curr. Opin. Gastroenterol.</source>
+          <year>2017</year>
+          <volume>33</volume>
+          <fpage>417</fpage>
+          <lpage>421</lpage>
+          <pub-id pub-id-type="doi">10.1097/MOG.0000000000000401</pub-id>
+          <pub-id pub-id-type="pmid">29019865</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-biology-10-00545">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Xue</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Impact of COVID-19 Epidemic Declaration on Psychological Consequences: A Study on Active Weibo Users</article-title>
+          <source>Int. J. Environ. Res. Public Health</source>
+          <year>2020</year>
+          <volume>17</volume>
+          <elocation-id>2032</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/ijerph17062032</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31-biology-10-00545">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shigemura</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ursano</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Morganstein</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Kurosawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Benedek</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Public responses to the novel 2019 coronavirus (2019-nCoV) in Japan: Mental health consequences and target populations</article-title>
+          <source>Psychiatry Clin. Neurosci.</source>
+          <year>2020</year>
+          <volume>74</volume>
+          <fpage>281</fpage>
+          <lpage>282</lpage>
+          <pub-id pub-id-type="doi">10.1111/pcn.12988</pub-id>
+          <pub-id pub-id-type="pmid">32034840</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-biology-10-00545">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ettman</surname>
+              <given-names>C.K.</given-names>
+            </name>
+            <name>
+              <surname>Abdalla</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>G.H.</given-names>
+            </name>
+            <name>
+              <surname>Sampson</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Vivier</surname>
+              <given-names>P.M.</given-names>
+            </name>
+            <name>
+              <surname>Galea</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Prevalence of Depression Symptoms in US Adults Before and During the COVID-19 Pandemic</article-title>
+          <source>JAMA Netw. Open</source>
+          <year>2020</year>
+          <volume>3</volume>
+          <fpage>e2019686</fpage>
+          <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2020.19686</pub-id>
+          <pub-id pub-id-type="pmid">32876685</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-biology-10-00545">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sher</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19, anxiety, sleep disturbances and suicide</article-title>
+          <source>Sleep Med.</source>
+          <year>2020</year>
+          <volume>70</volume>
+          <fpage>124</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.sleep.2020.04.019</pub-id>
+          <pub-id pub-id-type="pmid">32408252</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-biology-10-00545">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Qiu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>A nationwide survey of psychological distress among Chinese people in the COVID-19 epidemic: Implications and policy recommendations</article-title>
+          <source>Gen. Psychiatr.</source>
+          <year>2020</year>
+          <volume>33</volume>
+          <fpage>e100213</fpage>
+          <pub-id pub-id-type="doi">10.1136/gpsych-2020-100213</pub-id>
+          <pub-id pub-id-type="pmid">32215365</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35-biology-10-00545">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vasile</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental health and immunity (Review)</article-title>
+          <source>Exp. Ther. Med.</source>
+          <year>2020</year>
+          <volume>20</volume>
+          <fpage>211</fpage>
+          <pub-id pub-id-type="doi">10.3892/etm.2020.9341</pub-id>
+          <pub-id pub-id-type="pmid">33149775</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B36-biology-10-00545">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jane-Llopis</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Matytsina</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental health and alcohol, drugs and tobacco: A review of the comorbidity between mental disorders and the use of alcohol, tobacco and illicit drugs</article-title>
+          <source>Drug Alcohol Rev.</source>
+          <year>2006</year>
+          <volume>25</volume>
+          <fpage>515</fpage>
+          <lpage>536</lpage>
+          <pub-id pub-id-type="doi">10.1080/09595230600944461</pub-id>
+          <pub-id pub-id-type="pmid">17132571</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37-biology-10-00545">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tran</surname>
+              <given-names>T.D.</given-names>
+            </name>
+            <name>
+              <surname>Hammarberg</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kirkman</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>H.T.M.</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Alcohol use and mental health status during the first months of COVID-19 pandemic in Australia</article-title>
+          <source>J. Affect. Disord.</source>
+          <year>2020</year>
+          <volume>277</volume>
+          <fpage>810</fpage>
+          <lpage>813</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jad.2020.09.012</pub-id>
+          <pub-id pub-id-type="pmid">33065821</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38-biology-10-00545">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pasala</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Barr</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Messaoudi</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Impact of Alcohol Abuse on the Adaptive Immune System</article-title>
+          <source>Alcohol Res.</source>
+          <year>2015</year>
+          <volume>37</volume>
+          <fpage>185</fpage>
+          <lpage>197</lpage>
+          <pub-id pub-id-type="pmid">26695744</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39-biology-10-00545">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Szabo</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Saha</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Alcohol&#x2019;s Effect on Host Defense</article-title>
+          <source>Alcohol Res.</source>
+          <year>2015</year>
+          <volume>37</volume>
+          <fpage>159</fpage>
+          <lpage>170</lpage>
+          <pub-id pub-id-type="pmid">26695755</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40-biology-10-00545">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Houchens</surname>
+              <given-names>D.P.</given-names>
+            </name>
+            <name>
+              <surname>Kluwe</surname>
+              <given-names>W.M.</given-names>
+            </name>
+            <name>
+              <surname>Craig</surname>
+              <given-names>D.K.</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>G.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of Mainstream and Environmental Tobacco Smoke on the Immune System in Animals and Humans: A Review</article-title>
+          <source>Crit. Rev. Toxicol.</source>
+          <year>1990</year>
+          <volume>20</volume>
+          <fpage>369</fpage>
+          <lpage>395</lpage>
+          <pub-id pub-id-type="doi">10.3109/10408449009089870</pub-id>
+          <pub-id pub-id-type="pmid">2202327</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B41-biology-10-00545">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arnson</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Shoenfeld</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Amital</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of tobacco smoke on immunity, inflammation and autoimmunity</article-title>
+          <source>J. Autoimmun.</source>
+          <year>2010</year>
+          <volume>34</volume>
+          <fpage>J258</fpage>
+          <lpage>J265</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jaut.2009.12.003</pub-id>
+          <pub-id pub-id-type="pmid">20042314</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B42-biology-10-00545">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cabral</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Dove Pettit</surname>
+              <given-names>D.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Drugs and immunity: Cannabinoids and their role in decreased resistance to infectious disease</article-title>
+          <source>J. Neuroimmunol.</source>
+          <year>1998</year>
+          <volume>83</volume>
+          <fpage>116</fpage>
+          <lpage>123</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0165-5728(97)00227-0</pub-id>
+          <pub-id pub-id-type="pmid">9610679</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B43-biology-10-00545">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morgan</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Protopopova</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Birkler</surname>
+              <given-names>R.I.D.</given-names>
+            </name>
+            <name>
+              <surname>Itin-Shwartz</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Sutton</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Gamliel</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yakobson</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Raz</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Human&#x2013;dog relationships during the COVID-19 pandemic: Booming dog adoption during social isolation</article-title>
+          <source>Humanit. Soc. Sci. Commun.</source>
+          <year>2020</year>
+          <volume>7</volume>
+          <fpage>155</fpage>
+          <pub-id pub-id-type="doi">10.1057/s41599-020-00649-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B44-biology-10-00545">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Costagliola</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Liguori</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>d&#x2019;Angelo</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Costa</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Ciani</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Giordano</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Do Animals Play a Role in the Transmission of Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2)? A Commentary</article-title>
+          <source>Animals</source>
+          <year>2020</year>
+          <volume>11</volume>
+          <elocation-id>16</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/ani11010016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45-biology-10-00545">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ajisola</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Azeem</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Bakibinga</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Choudhury</surname>
+              <given-names>N.N.</given-names>
+            </name>
+            <name>
+              <surname>Fayehun</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Griffiths</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kibe</surname>
+              <given-names>P.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Impact of the societal response to COVID-19 on access to healthcare for non-COVID-19 health issues in slum communities of Bangladesh, Kenya, Nigeria and Pakistan: Results of pre-COVID and COVID-19 lockdown stakeholder engagements</article-title>
+          <source>BMJ Glob. Health</source>
+          <year>2020</year>
+          <volume>5</volume>
+          <pub-id pub-id-type="doi">10.1136/bmjgh-2020-003042</pub-id>
+          <pub-id pub-id-type="pmid">32819917</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B46-biology-10-00545">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murewanhema</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Makurumidze</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic: Perspectives and recommendations</article-title>
+          <source>Pan Afr. Med. J.</source>
+          <year>2020</year>
+          <volume>35</volume>
+          <fpage>143</fpage>
+          <pub-id pub-id-type="doi">10.11604/pamj.supp.2020.35.2.25367</pub-id>
+          <pub-id pub-id-type="pmid">33193958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B47-biology-10-00545">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shields</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Burns</surname>
+              <given-names>S.O.</given-names>
+            </name>
+            <name>
+              <surname>Savic</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Richter</surname>
+              <given-names>A.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19 in patients with primary and secondary immunodeficiency: The United Kingdom experience</article-title>
+          <source>J. Allergy Clin. Immunol.</source>
+          <year>2021</year>
+          <volume>147</volume>
+          <fpage>870</fpage>
+          <lpage>875.e871</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jaci.2020.12.620</pub-id>
+          <pub-id pub-id-type="pmid">33338534</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B48-biology-10-00545">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cohen</surname>
+              <given-names>J.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Primary Immunodeficiencies Associated with EBV Disease</article-title>
+          <source>Curr. Top. Microbiol. Immunol.</source>
+          <year>2015</year>
+          <volume>390</volume>
+          <fpage>241</fpage>
+          <lpage>265</lpage>
+          <pub-id pub-id-type="doi">10.1007/978-3-319-22822-8_10</pub-id>
+          <pub-id pub-id-type="pmid">26424649</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B49-biology-10-00545">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chinen</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Shearer</surname>
+              <given-names>W.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Secondary immunodeficiencies, including HIV infection</article-title>
+          <source>J. Allergy Clin. Immunol.</source>
+          <year>2010</year>
+          <volume>125</volume>
+          <fpage>S195</fpage>
+          <lpage>S203</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jaci.2009.08.040</pub-id>
+          <pub-id pub-id-type="pmid">20042227</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B50-biology-10-00545">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonilla</surname>
+              <given-names>F.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Update: Vaccines in primary immunodeficiency</article-title>
+          <source>J. Allergy Clin. Immunol.</source>
+          <year>2018</year>
+          <volume>141</volume>
+          <fpage>474</fpage>
+          <lpage>481</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jaci.2017.12.980</pub-id>
+          <pub-id pub-id-type="pmid">29288077</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B51-biology-10-00545">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Minihan</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Gavin</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>B.D.</given-names>
+            </name>
+            <name>
+              <surname>McNicholas</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19, mental health and psychological first aid</article-title>
+          <source>Ir. J. Psychol. Med.</source>
+          <year>2020</year>
+          <volume>37</volume>
+          <fpage>259</fpage>
+          <lpage>263</lpage>
+          <pub-id pub-id-type="doi">10.1017/ipm.2020.41</pub-id>
+          <pub-id pub-id-type="pmid">32404221</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B52-biology-10-00545">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghanemi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>St-Amand</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Redefining obesity toward classifying as a disease</article-title>
+          <source>Eur. J. Intern. Med.</source>
+          <year>2018</year>
+          <volume>55</volume>
+          <fpage>20</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejim.2018.05.025</pub-id>
+          <pub-id pub-id-type="pmid">29807850</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B53-biology-10-00545">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghanemi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>St-Amand</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Broken Energy Homeostasis and Obesity Pathogenesis: The Surrounding Concepts</article-title>
+          <source>J. Clin. Med.</source>
+          <year>2018</year>
+          <volume>7</volume>
+          <elocation-id>453</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/jcm7110453</pub-id>
+          <pub-id pub-id-type="pmid">30463389</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B54-biology-10-00545">
+        <label>54.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdelbasset</surname>
+              <given-names>W.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stay Home: Role of Physical Exercise Training in Elderly Individuals&#x2019; Ability to Face the COVID-19 Infection</article-title>
+          <source>J. Immunol. Res.</source>
+          <year>2020</year>
+          <volume>2020</volume>
+          <fpage>8375096</fpage>
+          <pub-id pub-id-type="doi">10.1155/2020/8375096</pub-id>
+          <pub-id pub-id-type="pmid">33354578</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B55-biology-10-00545">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ranasinghe</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Ozemek</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Arena</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Exercise and well-being during COVID 19&#x2014;Time to boost your immunity</article-title>
+          <source>Expert Rev. Anti-Infect. Ther.</source>
+          <year>2020</year>
+          <volume>18</volume>
+          <fpage>1195</fpage>
+          <lpage>1200</lpage>
+          <pub-id pub-id-type="doi">10.1080/14787210.2020.1794818</pub-id>
+          <pub-id pub-id-type="pmid">32662717</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B56-biology-10-00545">
+        <label>56.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shahrbanian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Alikhani</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ahmadi Kakavandi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hackney</surname>
+              <given-names>A.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Physical Activity for Improving the Immune System of Older Adults During the COVID-19 Pandemic</article-title>
+          <source>Altern Ther. Health Med.</source>
+          <year>2020</year>
+          <volume>26</volume>
+          <fpage>117</fpage>
+          <lpage>125</lpage>
+          <pub-id pub-id-type="pmid">33245704</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="biology-10-00545-f001" orientation="portrait" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <p>COVID-19 crisis measures lead to reduced immunity via diverse factors that could impact both COVID-19 morbidities and vaccines efficacy.</p>
+      </caption>
+      <graphic xlink:href="biology-10-00545-g001"/>
+    </fig>
+  </floats-group>
+</article>
+</pmc-articleset>

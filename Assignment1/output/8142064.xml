@@ -1,0 +1,1229 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Malar J</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Malar J</journal-id>
+      <journal-title-group>
+        <journal-title>Malaria Journal</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1475-2875</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">34030711</article-id>
+      <article-id pub-id-type="pmc">8142064</article-id>
+      <article-id pub-id-type="publisher-id">3770</article-id>
+      <article-id pub-id-type="doi">10.1186/s12936-021-03770-7</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Case Study</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Malaria incidence and mortality in Zimbabwe during the COVID-19 pandemic: analysis of routine surveillance data</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gavi</surname>
+            <given-names>Samuel</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tapera</surname>
+            <given-names>Oscar</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mberikunashe</surname>
+            <given-names>Joseph</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Kanyangarara</surname>
+            <given-names>Mufaro</given-names>
+          </name>
+          <address>
+            <email>mufaro@mailbox.sc.edu</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.254567.7</institution-id><institution-id institution-id-type="ISNI">0000 0000 9075 106X</institution-id><institution>Department of Epidemiology and Biostatistics, Arnold School of Public Health, </institution><institution>University of South Carolina, </institution></institution-wrap>915 Greene Street, Columbia, SC 29208 USA </aff>
+        <aff id="Aff2"><label>2</label>Sadtap Health Research Institute, Harare, Zimbabwe </aff>
+        <aff id="Aff3"><label>3</label>National Malaria Control Programme, Ministry of Health and Child Care, Harare, Zimbabwe </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>5</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>24</day>
+        <month>5</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2021</year>
+      </pub-date>
+      <volume>20</volume>
+      <elocation-id>233</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>2</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>5</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2021</copyright-statement>
+        <license>
+          <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">The coronavirus disease 2019 (COVID-19) pandemic has posed a unique challenge to health care systems globally. To curb COVID-19 transmission, mitigation measures such as travel restrictions, border closures, curfews, lockdowns, and social distancing have been implemented. However, these measures may directly and indirectly affect the delivery and utilization of essential health services, including malaria services. The suspension of indoor residual spraying (IRS) and insecticide-treated net (ITN) distribution, shortages of malaria commodities, and reduced demand for health services have hindered the continued delivery of malaria services. The overall goal of this analysis was to describe the trends in malaria incidence and mortality in Zimbabwe prior to and during the pandemic to understand the consequences of COVID-19-related changes in the delivery and utilization of malaria services.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p id="Par2">Monthly data on the number of malaria cases and deaths by district for the period January 2017 to June 2020 were obtained from the national health management information system (HMIS). District-level population data were obtained from the 2012 Census. Malaria incidence per 1000 population and malaria deaths per 100,000 population were calculated for 2017, 2018, 2019, and 2020 and mapped to describe the spatial and temporal variation of malaria at the district level.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p id="Par3">Compared to the same period in 2017, 2018 and 2019, there was an excess of over 30,000 malaria cases from January to June 2020. The number of malaria deaths recorded in January to June 2020 exceeded the annual totals for 2018 and 2019. District level maps indicated that areas outside high malaria burden provinces experienced higher than expected malaria incidence and mortality, suggesting potential outbreaks.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p id="Par4">The observed surge in malaria cases and deaths in January to June 2020 coincided with the onset of COVID-19 in Zimbabwe. While further research is needed to explore possible explanations for the observed trends, prioritizing the continuity of essential malaria services amid the COVID-19 pandemic remains crucial.</p>
+        </sec>
+        <sec>
+          <title>Supplementary Information</title>
+          <p>The online version contains supplementary material available at 10.1186/s12936-021-03770-7.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Malaria</kwd>
+        <kwd>COVID-19</kwd>
+        <kwd>Zimbabwe</kwd>
+        <kwd>Sub-Saharan Africa</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; The Author(s) 2021</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec2">
+      <title>Background</title>
+      <p id="Par18">The coronavirus disease 2019 (COVID-19) pandemic has posed a unique challenge to health care systems globally. To curb COVID-19 transmission, mitigation measures such as travel restrictions, border closures, curfews, lockdowns, and social distancing have been implemented. However, these measures may directly and indirectly affect the delivery and utilization of essential health services, including malaria services. The suspension of indoor residual spraying (IRS) and insecticide-treated net (ITN) distribution, shortages of malaria commodities, and reduced demand for health services have hindered the continued delivery of malaria services. The overall goal of this analysis was to describe the trends in malaria incidence and mortality in Zimbabwe prior to and during the pandemic to understand the consequences of COVID-19-related changes in the delivery and utilization of malaria services.</p>
+      <p id="Par19">The first official cases of COVID-19 were reported in Wuhan, China in December 2019 after an outbreak of pneumonia of unknown origin was identified [<xref ref-type="bibr" rid="CR1">1</xref>]. On 30 January, 2020, the outbreak was declared a public health emergency of international concern (PHEIC) by the World Health Organization (WHO) [<xref ref-type="bibr" rid="CR2">2</xref>]. Two weeks later, the first case of COVID-19 was reported on the African continent in Egypt [<xref ref-type="bibr" rid="CR3">3</xref>]. In response to the looming public health crisis, African governments introduced regulations and restrictions such as travel bans, border closures, curfews, lockdowns, and social distancing [<xref ref-type="bibr" rid="CR4">4</xref>]. While these mitigation measures were aimed at slowing down the spread of COVID-19 and preventing healthcare systems from becoming overwhelmed, there have been wide-reaching unintended consequences on health systems. The demand for essential health services has been adversely affected by stay-at-home orders, stigma and fear of contracting COVID-19 infection, travel restrictions, increased financial barriers and misinformation about COVID-19 [<xref ref-type="bibr" rid="CR5">5</xref>&#x2013;<xref ref-type="bibr" rid="CR7">7</xref>]. The provision of routine health services has been disrupted by the diversion of limited resources and health care workers for COVID-19 prevention and control efforts, the occupational risk faced by health care workers, the lack of personal protective equipment, and breakdowns in procurement and supply chains for medicines and commodities [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. Similar reductions in the demand and provision of essential health services were observed during the 2014&#x2013;2016 Ebola outbreak in West Africa [<xref ref-type="bibr" rid="CR9">9</xref>].</p>
+      <p id="Par20">For national malaria control programmes, the reduced access to and availability of malaria services, disruptions in the production and supply of malaria commodities, and the suspension of IRS and ITN distribution campaigns have hindered the continued provision of malaria services during the COVID-19 pandemic [<xref ref-type="bibr" rid="CR10">10</xref>]. Several modelling analyses have assessed the potential impact of disruptions in health service provision on malaria morbidity and mortality. Findings from these analyses have asserted that lack of continuity and disruption of malaria programmes could cause a COVID-19-induced malaria crisis, potentially reversing the gains towards malaria control and elimination [<xref ref-type="bibr" rid="CR11">11</xref>&#x2013;<xref ref-type="bibr" rid="CR14">14</xref>]. More devastating effects of the pandemic are expected in Africa because of the disproportionate burden of infectious diseases, including malaria, weaker health systems and limited financial and human resources for health [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. One modelling analysis projected that if the distribution of ITNs was suspended and access to anti-malarial medicines reduced by 75%, an additional 769,000 malaria deaths would occur in sub-Saharan Africa in 2020 [<xref ref-type="bibr" rid="CR14">14</xref>]. Another modelling analysis estimated that in malaria-endemic areas, the disruption of planned ITN distribution campaigns, because of the COVID-19 pandemic, could cause a 36% increase in malaria deaths in the next five years [<xref ref-type="bibr" rid="CR12">12</xref>]. COVID-related reductions or suspensions of ITN and IRS campaigns, which are the cornerstone of malaria vector control in Africa, were projected to give rise to the largest number of additional malaria deaths [<xref ref-type="bibr" rid="CR11">11</xref>&#x2013;<xref ref-type="bibr" rid="CR14">14</xref>]. These estimates most likely underestimate the potential excess mortality as the underlying models do not account for disruptions in the delivery of other life-saving malaria interventions, such as seasonal malaria chemoprevention (SMC) and intermittent preventative treatment in pregnancy (IPTp) [<xref ref-type="bibr" rid="CR15">15</xref>]. However, these initial estimates inform pandemic response by forecasting morbidity and mortality, estimating healthcare system requirements and assessing the effectiveness of various containment and mitigation strategies.</p>
+      <p id="Par21">Malaria transmission within Zimbabwe is spatially heterogenous; areas from the northwest to southeast borders of the country are characterized as high malaria-risk zones, while, areas along the central plateau and in the southwest of the country experience little to no malaria transmission [<xref ref-type="bibr" rid="CR16">16</xref>]. The rainy season typically runs from October to April, with increasing average annual rainfall from the west to the east of the country [<xref ref-type="bibr" rid="CR17">17</xref>]. Half (50%) of the population is at risk of malaria infection [<xref ref-type="bibr" rid="CR18">18</xref>]. For vector control, the National Malaria Control Programme (NMCP) implements a two-pronged approach that targets the deployment of either ITNs or IRS to malarious districts. In moderate and high transmission areas, 51% of households own at least one ITN for every two household members, and 85% of households own at least one ITN and/or are protected by IRS, showing high levels of protection [<xref ref-type="bibr" rid="CR19">19</xref>].</p>
+      <p id="Par22">In Zimbabwe, the first official case of COVID-19 was reported on 20 March, 2020 [<xref ref-type="bibr" rid="CR20">20</xref>] (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). The delay in identifying the first COVID-19 cases, despite several people exhibiting symptoms after international travel has been attributed to the lack of COVID-19 testing capacity and resources [<xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>]. In response to COVID-19, the Government of Zimbabwe introduced public health measures to curb the spread of disease on 30 March, 2020 [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>]. These measures included closure of borders, restrictions on in-country travel, bans on public gatherings, the closure of schools, colleges and universities, and the designation of quarantine and isolation facilities for suspected and confirmed COVID-19 cases [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR23">23</xref>]. There was a peak in the number of COVID-19 cases and deaths in September and October 2020 (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). Since December 2020, the country has been experiencing a second wave of COVID-19 with a higher transmission rate [<xref ref-type="bibr" rid="CR24">24</xref>]. The second wave coincides with the onset of the rainy season and the start of increased malaria transmission season. As of 21 April, 2021, a cumulative 37,859 confirmed COVID-19 cases and 1,553 deaths had been reported in Zimbabwe according to the WHO (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>) [<xref ref-type="bibr" rid="CR24">24</xref>].<fig id="Fig1"><label>Fig. 1</label><caption><p>Confirmed COVID-19 cases and deaths in Zimbabwe, March 2020&#x2013;April 2021</p></caption><graphic xlink:href="12936_2021_3770_Fig1_HTML" id="MO1"/></fig></p>
+      <p id="Par23">Understanding the indirect consequences of the COVID-19 pandemic remains key to developing health system resilience, allocating limited resources to pandemic response while maintaining essential health services, and sustaining efforts to control malaria and address other health priorities. Therefore, monitoring malaria morbidity and mortality is essential to tracking the consequences of COVID-19-related changes to the delivery and utilization of malaria services [<xref ref-type="bibr" rid="CR25">25</xref>]. The overall goal of this analysis was to describe the trends of malaria incidence and mortality in Zimbabwe prior to and during the COVID-19 pandemic to inform program planning and decision-making. Using routine data from the national health management information system (HMIS), this analysis described the spatial and temporal trends of malaria incidence and mortality from January 2017 to June 2020. These findings may help improve understanding of the indirect health consequences of the pandemic and draw attention to the need for sustained efforts to control malaria amidst the pandemic.</p>
+    </sec>
+    <sec id="Sec3">
+      <title>Methods</title>
+      <p id="Par24">Zimbabwe is a land-locked country that shares borders with 4 other malaria-endemic countries: Zambia in the north, Mozambique in the east, South Africa in the south; Botswana in the west and southwest. The country has a population of 16.2 million people, and two-thirds of the population live in rural areas [<xref ref-type="bibr" rid="CR26">26</xref>]. The country is divided into 10 provinces, comprising 62 districts. The delivery of essential health services, including malaria diagnosis and treatment is decentralized. According to the 2015 Zimbabwe Demographic and Health Survey (DHS), 77% of live births were delivered at a health facility and 51% of children under five years with a fever were taken to a health facility for treatment [<xref ref-type="bibr" rid="CR27">27</xref>].</p>
+      <sec id="Sec4">
+        <title>Data and analysis</title>
+        <p id="Par25">This was a retrospective descriptive study of malaria incidence and mortality in Zimbabwe from January 2017 to June 2020. Passive malaria surveillance data are routinely collected from all public and private health facilities and submitted to the HMIS regularly. The malaria data are relatively complete [<xref ref-type="bibr" rid="CR28">28</xref>]. For this analysis, confirmed malaria cases and deaths data aggregated by month and district were used. Given weekly fluctuations in malaria cases and deaths, monthly data was used for this analysis. This analysis used data up to 30 June, 2020 to ensure the inclusion of the peak malaria transmission season for 2020.</p>
+        <p id="Par26">Malaria cases and deaths were aggregated by province and year (2017, 2018, 2019, 2020), and stratified by age (&lt;&#x2009;5&#xA0;years and&#x2009;&#x2265;&#x2009;5&#xA0;years) and gender (male and female). Using district population counts from the 2012 Census adjusted for annual population growth rate (1.1%) [<xref ref-type="bibr" rid="CR26">26</xref>], malaria incidence per 1000 population and malaria mortality per 100,000 population were calculated. Changes in malaria cases and deaths during the pandemic were evaluated by comparing the observed values for January-June 2020 to expected values based on previous years. The expected values were calculated by taking the mean of values for the same months in 2017, 2018 and 2019. Maps of malaria incidence and mortality by year were used to describe the spatial variation at the district level. Data management and analysis were conducted using STATA 15 (Stata Corporation, College Station, TX, USA) and maps were generated using ArcMap 10.5.1 (ESRI, Redlands, CA, USA).</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Ethical considerations</title>
+        <p id="Par27">Aggregate-level data on malaria cases and deaths from districts were used. Ethical clearance was not required as no individual personal identifying information was used.</p>
+      </sec>
+    </sec>
+    <sec id="Sec6">
+      <title>Results</title>
+      <p id="Par28">At national level, the annual number of confirmed malaria cases decreased by 41% from 316,431 in 2017 to 186,556 in 2019 (Table <xref rid="Tab1" ref-type="table">1</xref>). The lowest number of malaria cases was observed in 2018. Of the reported cases, about 50% were among females (Additional file <xref rid="MOESM1" ref-type="media">1</xref>: Figure S1). The proportion of malaria cases among children under five years of age fluctuated between 10 and 20% (Additional file <xref rid="MOESM2" ref-type="media">2</xref>: Figure S2). Across all years, Manicaland, Mashonaland Central, Mashonaland East and Masvingo provinces had the highest number of confirmed malaria cases and accounted for over 85% of the national burden of malaria cases (Table <xref rid="Tab1" ref-type="table">1</xref>). As of 30 June, 2020, there were 605 cumulative COVID-19 cases and 17 COVID-19 deaths. Harare, the capital city had the highest number of cases. Between January and June 2020, which coincided with the peak malaria transmission season, there was a surge in malaria cases as 221,860 confirmed malaria cases were reported. In January and February 2020, the number of malaria cases reported was fairly similar to the expected number of malaria cases based on previous years (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>A). However, there was a higher than expected increase in malaria cases in March 2020, which coincided with detection of the first COVID-19 case in Zimbabwe. In April 2020, malaria cases were more than double the expected number. Overall, between January and June 2020, the number of malaria cases exceeded the expected number by 30,197 cases (16%).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Number of confirmed malaria and COVID-19 cases and deaths in Zimbabwe, January 2017&#x2013;June 2020</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2"/><th align="left" colspan="4">Malaria cases</th><th align="left" colspan="4">Malaria deaths</th><th align="left">Cumulative COVID-19 cases</th><th align="left">Cumulative COVID-19 deaths</th></tr><tr><th align="left">2017</th><th align="left">2018</th><th align="left">2019</th><th align="left">January&#x2013;June 2020</th><th align="left">2017</th><th align="left">2018</th><th align="left">2019</th><th align="left">January&#x2013;June 2020</th><th align="left">March&#x2013;June 2020</th><th align="left">March&#x2013;June 2020</th></tr></thead><tbody><tr><td align="left">National</td><td align="left">316,431</td><td align="left">184,427</td><td align="left">186,556</td><td align="left">221,860</td><td align="left">531</td><td align="left">232</td><td align="left">311</td><td align="left">350</td><td align="left">605</td><td align="left">7</td></tr><tr><td align="left">Province</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left">Bulawayo</td><td align="left">161</td><td align="left">104</td><td align="left">73</td><td align="left">59</td><td align="left">45</td><td align="left">5</td><td align="left">13</td><td align="left">8</td><td align="left">64</td><td align="left">3</td></tr><tr><td align="left">Harare</td><td align="left">3167</td><td align="left">1614</td><td align="left">1977</td><td align="left">891</td><td align="left">57</td><td align="left">34</td><td align="left">59</td><td align="left">20</td><td align="left">225</td><td align="left">2</td></tr><tr><td align="left">Manicaland</td><td align="left">98,093</td><td align="left">48,783</td><td align="left">57,909</td><td align="left">67,841</td><td align="left">140</td><td align="left">52</td><td align="left">73</td><td align="left">97</td><td align="left">29</td><td align="left">0</td></tr><tr><td align="left">Mashonaland Central</td><td align="left">70,233</td><td align="left">37,400</td><td align="left">51,776</td><td align="left">50,996</td><td align="left">47</td><td align="left">24</td><td align="left">42</td><td align="left">54</td><td align="left">10</td><td align="left">0</td></tr><tr><td align="left">Mashonaland East</td><td align="left">69,146</td><td align="left">35,962</td><td align="left">39,208</td><td align="left">47,293</td><td align="left">63</td><td align="left">32</td><td align="left">39</td><td align="left">62</td><td align="left">55</td><td align="left">0</td></tr><tr><td align="left">Mashonaland West</td><td align="left">11,720</td><td align="left">13,158</td><td align="left">12,957</td><td align="left">21,071</td><td align="left">20</td><td align="left">18</td><td align="left">23</td><td align="left">36</td><td align="left">41</td><td align="left">1</td></tr><tr><td align="left">Masvingo</td><td align="left">54,224</td><td align="left">39,314</td><td align="left">17,673</td><td align="left">24,978</td><td align="left">118</td><td align="left">47</td><td align="left">44</td><td align="left">42</td><td align="left">53</td><td align="left">0</td></tr><tr><td align="left">Matabeleland North</td><td align="left">2303</td><td align="left">3357</td><td align="left">1916</td><td align="left">2048</td><td align="left">9</td><td align="left">5</td><td align="left">5</td><td align="left">4</td><td align="left">17</td><td align="left">0</td></tr><tr><td align="left">Matabeleland South</td><td align="left">5480</td><td align="left">2529</td><td align="left">997</td><td align="left">2896</td><td align="left">21</td><td align="left">10</td><td align="left">9</td><td align="left">15</td><td align="left">54</td><td align="left">0</td></tr><tr><td align="left">Midlands</td><td align="left">1904</td><td align="left">2206</td><td align="left">2070</td><td align="left">3787</td><td align="left">11</td><td align="left">5</td><td align="left">4</td><td align="left">12</td><td align="left">57</td><td align="left">1</td></tr></tbody></table></table-wrap><fig id="Fig2"><label>Fig. 2</label><caption><p>Changes in malaria cases and deaths in Zimbabwe, January&#x2013;June 2020</p></caption><graphic xlink:href="12936_2021_3770_Fig2_HTML" id="MO2"/></fig></p>
+      <p id="Par29">Like the pattern observed for malaria cases, the number of malaria deaths dropped by 41% between 2017 and 2019 (Table <xref rid="Tab1" ref-type="table">1</xref>) Additional file <xref rid="MOESM3" ref-type="media">3</xref>: Figure S3. However, the declining trend was reversed in 2020 when the number of deaths reported between January and June (n&#x2009;=&#x2009;350) exceeded the annual totals for 2018 and 2019 (n&#x2009;=&#x2009;232 and n&#x2009;=&#x2009;311, respectively). In April 2020, the number of malaria deaths was more than triple the expected number based on previous years (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>B). The surge in malaria deaths was uneven and primarily observed in Mashonaland Central and Mashonaland West provinces. The number of malaria deaths reported between January and June 2020 exceeded the annual totals for 2018 and 2019 and the expected number by 28% (Table <xref rid="Tab1" ref-type="table">1</xref>, Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>B).</p>
+      <p id="Par30">Figure&#xA0;<xref rid="Fig3" ref-type="fig">3</xref> shows the spatial variation of malaria incidence and mortality for January&#x2013;June 2020. Districts along the northern, eastern and southern borders of the country reported the highest malaria incidence and mortality rates (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>). Out of 62 districts, 11 recorded higher than expected malaria incidence from January to June 2020, indicating possible malaria outbreaks (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>B). Strikingly, 8 districts (Bubi, Chikomba, Gwanda, Hwedza, Lupane, Murewa, Nkayi, and Zvimba) had malaria incidence rates more than triple the expected numbers for January to June 2020. Notably, only 3 of these districts were in the high malaria burden provinces of Manicaland, Mashonaland Central, Mashonaland East and Masvingo; the remaining 5 were in areas characterized by little to no malaria transmission. Similar patterns were observed for malaria mortality: 5 districts (Centenary, Gweru, Hwedza, Mazoe, Makonde) had more than triple the expected malaria mortality rate for January to June 2020 (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>C, D).<fig id="Fig3"><label>Fig. 3</label><caption><p>Map of malaria incidence and mortality in Zimbabwe, January&#x2013;June 2020</p></caption><graphic xlink:href="12936_2021_3770_Fig3_HTML" id="MO3"/></fig></p>
+    </sec>
+    <sec id="Sec7">
+      <title>Discussion</title>
+      <p id="Par31">National efforts to control malaria have resulted in significant reductions in malaria morbidity and mortality in Zimbabwe. The reductions have been attributed to the provision of ITNs and IRS in high burden areas and improved diagnostics and effective anti-malarial treatment [<xref ref-type="bibr" rid="CR29">29</xref>&#x2013;<xref ref-type="bibr" rid="CR31">31</xref>]. Despite reductions in recent years, there was a substantial increase in malaria cases and deaths in 2020. Consistent with the peak malaria transmission season in Zimbabwe, the number of malaria cases and deaths rose in January, peaked in April, then declined. From January-June 2020, there was a higher than expected increase in malaria cases and deaths compared to the 3 previous years (2017&#x2013;2019). This increase resulted in an excess of over 30,000 malaria cases and 75 malaria deaths. Notably, the increase in malaria incidence and mortality rates was predominantly in districts outside of the high malaria burden provinces of Manicaland, Mashonaland Central, Mashonaland East and Masvingo, suggesting an increase in malaria transmission (Additional file <xref rid="MOESM3" ref-type="media">3</xref>: Figure S3).</p>
+      <p id="Par32">There are several potential explanations for the apparent increase in malaria incidence and mortality rates observed between January and June 2020. The increase in malaria morbidity and mortality coincided with both the peak malaria season and the detection of the first cases of COVID-19 and implementation of nationwide containment and mitigation measures to curtail spread of COVID-19. It is likely that several factors explain the observed increase in malaria transmission and outbreaks, including COVID-19-related disruptions in the malaria prevention and control activities, limited availability of malaria commodities, modification of health-seeking behaviour, and possible changes in case management and reporting practices. According to WHO, less than half of the 22 million ITNs, that were expected to be distributed globally in 2020, had been distributed as of November 2020 [<xref ref-type="bibr" rid="CR32">32</xref>]. Additionally, less than half of malaria-endemic countries that had planned IRS campaigns in 2020 had completed them [<xref ref-type="bibr" rid="CR32">32</xref>]. Although it is likely the increased morbidity and mortality is the result of COVID-19-related disruptions in malaria prevention and control activities, for Zimbabwe it is unlikely to result from disruptions in IRS. IRS is typically deployed prior to the commencement of the rainy season in November/December. The NMCP began deploying for the 2019/2020 season in November 2019. A total of 2,151,375 rooms (88% of those targeted) were sprayed and a population of 3,164,344 (83% of targeted population) were covered [<xref ref-type="bibr" rid="CR33">33</xref>].</p>
+      <p id="Par33">Changes in health-seeking behaviour may have contributed to the observed surge in malaria cases and deaths. On one hand, lockdowns, curfews, in-country travel restrictions, and fear of infection may have disincentivized accessing routine health services resulting in the reduced uptake of essential health services and increased malaria transmission. In several malaria-endemic countries, including Zimbabwe, there was a decrease in malaria outpatient attendance in 2020 following the implementation of nationwide lockdowns [<xref ref-type="bibr" rid="CR32">32</xref>]. On the other hand, the excess in malaria morbidity and mortality observed may be a result of efforts by the Ministry of Health and Child Care to maintain essential health services amid the pandemic. Individuals suspected of having malaria are routinely tested for malaria using rapid diagnostic tests (RDTs). Increased awareness and vigilance by health care workers may have improved and widened testing practices to diagnose malaria and reporting practices. Also, public health messaging encouraging early care-seeking for any COVID-19 symptoms, including fever, may have promoted prompt care-seeking. Given the overlapping symptoms between COVID-19 and malaria, individuals with fever, headache and body aches or weakness who under normal circumstances would not have sought care may have promptly sought care.</p>
+      <p id="Par34">Nevertheless, it is likely that the surge in malaria cases and deaths is not entirely attributable to COVID-19 related disruptions. For example, the higher occurrence of malaria might be associated with variations in environmental factors such as temperature and rainfall. Previous research has showed the important role of environmental factors play in malaria transmission in Zimbabwe [<xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR35">35</xref>]. To understand the drivers of the observed trends in malaria morbidity and mortality, further contextual information on the far-reaching impact of COVID-19 mitigation measures is needed. Furthermore, given the impact of the pandemic is likely to be lagged in time, further studies should consider time periods beyond the initial few months of the pandemic.</p>
+      <p id="Par35">Several limitations are worth noting. First, malaria transmission is Zimbabwe is heterogenous, and the distribution of malaria risk even within districts is not uniform. Second, the analysis made use of routine malaria surveillance data, which are prone to data quality issues and low reporting rates. Although a data quality audit of the malaria data obtained from the national HMIS was not conducted in the present study, previous research suggests high data quality, timely reporting and high completeness [<xref ref-type="bibr" rid="CR28">28</xref>]. Several research studies have used routine malaria surveillance data from Zimbabwe to assess changes in malaria indicators, such as intervention coverage and incidence rates [<xref ref-type="bibr" rid="CR29">29</xref>, <xref ref-type="bibr" rid="CR30">30</xref>, <xref ref-type="bibr" rid="CR34">34</xref>]. Third, the observed trends in malaria incidence and mortality reported here likely do not represent trends in the 2020/2021 season. Lastly, this analysis only presented trends for two indicators: malaria incidence and malaria mortality. There is an opportunity to supplement data from the HMIS with data from household surveys assessing changes in health-seeking behaviour and intervention coverage and data from health facility surveys assessing availability and readiness of health facilities to provide essential malaria services [<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+    </sec>
+    <sec id="Sec8">
+      <title>Conclusions</title>
+      <p id="Par36">Limitations notwithstanding, this analysis described an excess of malaria morbidity and mortality which coincided with the onset of COVID-19 in Zimbabwe. While the drivers of the observed increases in malaria morbidity and mortality remain to be determined, the continued delivery of essential health services amid the COVID-19 pandemic remains crucial. Governments in low-middle income countries should prioritize continuity of essential health services to preserve the hard-earned gains realized through years of investments especially for communicable diseases like malaria.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Information</title>
+      <sec id="Sec9">
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="12936_2021_3770_MOESM1_ESM.png"><caption><p><bold>Additional file 1: Figure S1.</bold> Number of confirmed malaria cases by gender.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="12936_2021_3770_MOESM2_ESM.png"><caption><p><bold>Additional file 2: Figure S2.</bold> Number of confirmed malaria cases by age.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="12936_2021_3770_MOESM3_ESM.png"><caption><p><bold>Additional file 3: Figure S3.</bold> Number of malaria deaths by age.</p></caption></media></supplementary-material></p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term>ACT</term>
+          <def>
+            <p id="Par5">Artemisinin-based combination therapy</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>COVID-19</term>
+          <def>
+            <p id="Par6">Coronavirus disease 2019</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>DHS</term>
+          <def>
+            <p id="Par7">Demographic and Health Surveys</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>HMIS</term>
+          <def>
+            <p id="Par8">Health management information system</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>IRS</term>
+          <def>
+            <p id="Par9">Indoor residual spraying</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ITN</term>
+          <def>
+            <p id="Par10">Insecticide-treated net</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>IPTp</term>
+          <def>
+            <p id="Par11">Intermittent preventative treatment in pregnancy</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>MoHCC</term>
+          <def>
+            <p id="Par12">Ministry of Health and Child Care</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>NMCP</term>
+          <def>
+            <p id="Par13">National Malaria Control Programme</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PHEIC</term>
+          <def>
+            <p id="Par14">Public health emergency of international concern</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>RDT</term>
+          <def>
+            <p id="Par15">Rapid diagnostic test</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>SMC</term>
+          <def>
+            <p id="Par16">Seasonal malaria chemoprevention</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>WHO</term>
+          <def>
+            <p id="Par17">World Health Organization</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher's Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Not applicable.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>MK and OT developed the original concept. MK and SG analysed the data and wrote the manuscript. MK, SG, OT, JM critically revised the manuscript for important intellectual content. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>Data are available from the Zimbabwe National Malaria Control Programme. Requests for access to the data can be made to: Dr Joseph Mberikunashe (jmberikunashe@nmcpzim.co.zw).</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar1">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par37">Aggregate-level data on malaria cases and deaths from districts were obtained from the Zimbabwe National Malaria Control Programme. Ethical clearance was not required as no individual personal identifying information was used.</p>
+      </notes>
+      <notes id="FPar2">
+        <title>Consent for publication</title>
+        <p id="Par38">Not applicable.</p>
+      </notes>
+      <notes id="FPar3" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par39">The authors declare that they have no competing interests.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China</article-title>
+          <source>Lancet</source>
+          <year>2020</year>
+          <volume>395</volume>
+          <fpage>497</fpage>
+          <lpage>506</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30183-5</pub-id>
+          <pub-id pub-id-type="pmid">31986264</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Eurosurveillance Editorial Team</collab>
+          </person-group>
+          <article-title>World Health Organization declares novel coronavirus (2019-nCoV) sixth public health emergency of international concern</article-title>
+          <source>Eurosurveillance</source>
+          <year>2020</year>
+          <volume>25</volume>
+          <fpage>200131e</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Medhat</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>El Kassas</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19 in Egypt: uncovered figures or a different situation?</article-title>
+          <source>J Glob Health</source>
+          <year>2020</year>
+          <volume>10</volume>
+          <fpage>10368</fpage>
+          <pub-id pub-id-type="doi">10.7189/jogh.10.010368</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ogunleye</surname>
+              <given-names>OO</given-names>
+            </name>
+            <name>
+              <surname>Basu</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sneddon</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Seaton</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Yinka-Ogunleye</surname>
+              <given-names>AF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Response to the novel Corona Virus (COVID-19) pandemic across Africa: successes, challenges, and implications for the future</article-title>
+          <source>Front Pharmacol</source>
+          <year>2020</year>
+          <volume>11</volume>
+          <fpage>1205</fpage>
+          <pub-id pub-id-type="doi">10.3389/fphar.2020.01205</pub-id>
+          <pub-id pub-id-type="pmid">33071775</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lusambili</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Martini</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Abdirahman</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Asante</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ochieng</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Guni</surname>
+              <given-names>JN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>&#x201C;We have a lot of home deliveries&#x201D; A qualitative study on the impact of COVID-19 on access to and utilization of reproductive, maternal, newborn and child health care among refugee women in urban Eastleigh, Kenya</article-title>
+          <source>J Migr Health</source>
+          <year>2020</year>
+          <volume>1&#x2013;2</volume>
+          <fpage>100025</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.jmh.2020.100025</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murewanhema</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Makurumidze</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic: perspectives and recommendations</article-title>
+          <source>Pan Afr Med J</source>
+          <year>2020</year>
+          <volume>35</volume>
+          <issue>Suppl 2</issue>
+          <fpage>143</fpage>
+          <pub-id pub-id-type="pmid">33193958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oluoch-Aridi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chelagat</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Nyikuri</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Onyango</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Guzman</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Makanga</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>COVID-19 Effect on access to maternal health services in Kenya</article-title>
+          <source>Front Glob Women&#x2019;s Health</source>
+          <year>2020</year>
+          <volume>1</volume>
+          <fpage>19</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diptyanusa</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Zablon</surname>
+              <given-names>KN</given-names>
+            </name>
+          </person-group>
+          <article-title>Addressing budget reduction and reallocation on health-related resources during COVID-19 pandemic in malaria-endemic countries</article-title>
+          <source>Malar J</source>
+          <year>2020</year>
+          <volume>19</volume>
+          <fpage>411</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12936-020-03488-y</pub-id>
+          <pub-id pub-id-type="pmid">33198747</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilhelm</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Helleringer</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Utilization of non-Ebola health care services during Ebola outbreaks: a systematic review and meta-analysis</article-title>
+          <source>J Glob Health</source>
+          <year>2019</year>
+          <volume>9</volume>
+          <fpage>10406</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Penjor</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Tobgyal</surname>
+            </name>
+            <name>
+              <surname>Zangpo</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Clements</surname>
+              <given-names>ACA</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Wangdi</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Has COVID19 derailed Bhutan&#x2019;s national malaria elimination goal? A commentary</article-title>
+          <source>Malar J.</source>
+          <year>2021</year>
+          <volume>20</volume>
+          <fpage>20</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12936-020-03562-5</pub-id>
+          <pub-id pub-id-type="pmid">33407471</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sherrard-Smith</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Hogan</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Hamlet</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>OJ</given-names>
+            </name>
+            <name>
+              <surname>Whittaker</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Winskill</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The potential public health consequences of COVID-19 on malaria in Africa</article-title>
+          <source>Nat Med</source>
+          <year>2020</year>
+          <volume>26</volume>
+          <fpage>1411</fpage>
+          <lpage>1416</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41591-020-1025-y</pub-id>
+          <pub-id pub-id-type="pmid">32770167</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hogan</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Jewell</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Sherrard-Smith</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Vesga</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>OJ</given-names>
+            </name>
+            <name>
+              <surname>Whittaker</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Potential impact of the COVID-19 pandemic on HIV, tuberculosis, and malaria in low-income and middle-income countries: a modelling study</article-title>
+          <source>Lancet Glob Health</source>
+          <year>2020</year>
+          <volume>8</volume>
+          <fpage>e1132</fpage>
+          <lpage>e1141</lpage>
+          <pub-id pub-id-type="doi">10.1016/S2214-109X(20)30288-6</pub-id>
+          <pub-id pub-id-type="pmid">32673577</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weiss</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Bertozzi-Villa</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rumisha</surname>
+              <given-names>SF</given-names>
+            </name>
+            <name>
+              <surname>Amratia</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Arambepola</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Battle</surname>
+              <given-names>KE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Indirect effects of the COVID-19 pandemic on malaria intervention coverage, morbidity, and mortality in Africa: a geospatial modelling analysis</article-title>
+          <source>Lancet Infect Dis</source>
+          <year>2021</year>
+          <volume>21</volume>
+          <fpage>59</fpage>
+          <lpage>69</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30700-3</pub-id>
+          <pub-id pub-id-type="pmid">32971006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>WHO</collab>
+          </person-group>
+          <source>The potential impact of health service disruptions on the burden of malaria: a modelling analysis for countries in sub-Saharan Africa</source>
+          <year>2020</year>
+          <publisher-loc>Geneva</publisher-loc>
+          <publisher-name>World Health Organization</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rogerson</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Beeson</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Laman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Poespoprodjo</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>William</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Simpson</surname>
+              <given-names>JA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identifying and combating the impacts of COVID-19 on malaria</article-title>
+          <source>BMC Med</source>
+          <year>2020</year>
+          <volume>18</volume>
+          <fpage>239</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12916-020-01710-x</pub-id>
+          <pub-id pub-id-type="pmid">32727467</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gwitira</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Murwira</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Masocha</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zengeya</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>Shekede</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Chirenda</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>GIS-based stratification of malaria risk zones for Zimbabwe</article-title>
+          <source>Geocarto Int</source>
+          <year>2019</year>
+          <volume>34</volume>
+          <fpage>1163</fpage>
+          <lpage>1176</lpage>
+          <pub-id pub-id-type="doi">10.1080/10106049.2018.1478889</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sibanda</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Grab</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Long-term rainfall characteristics in the Mzingwane catchment of south-western Zimbabwe</article-title>
+          <source>Theor Appl Climatol</source>
+          <year>2020</year>
+          <volume>139</volume>
+          <fpage>935</fpage>
+          <lpage>948</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00704-019-03020-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Zimbabwe National Malaria Control Programme</collab>
+          </person-group>
+          <source>National Malaria Strategic Plan 2016&#x2013;2020</source>
+          <year>2016</year>
+          <publisher-loc>Harare</publisher-loc>
+          <publisher-name>Zimbabwe National Malaria Control Programme</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dube</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Mberikunashe</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Dhliwayo</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Tangwena</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Shambira</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Chimusoro</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>How far is the journey before malaria is knocked out malaria in Zimbabwe: results of the malaria indicator survey 2016</article-title>
+          <source>Malar J</source>
+          <year>2019</year>
+          <volume>18</volume>
+          <fpage>171</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12936-019-2801-3</pub-id>
+          <pub-id pub-id-type="pmid">31088465</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Makurumidze</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Coronavirus-19 disease (COVID-19): a case series of early suspected cases reported and the implications towards the response to the pandemic in Zimbabwe</article-title>
+          <source>J Microbiol Immunol Infect</source>
+          <year>2020</year>
+          <volume>53</volume>
+          <fpage>493</fpage>
+          <lpage>498</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jmii.2020.04.002</pub-id>
+          <pub-id pub-id-type="pmid">32305269</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dzinamarira</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Mukwenha</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Eghtessadi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Cuadros</surname>
+              <given-names>DF</given-names>
+            </name>
+            <name>
+              <surname>Mhlanga</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Musuka</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Coronavirus disease 2019 (COVID-19) response in Zimbabwe: a call for urgent scale-up of testing to meet national capacity</article-title>
+          <source>Clin Infect Dis</source>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1093/cid/ciaa1301</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dzobo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chitungo</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Dzinamarira</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19: a perspective for lifting lockdown in Zimbabwe</article-title>
+          <source>Pan Afr Med J</source>
+          <year>2020</year>
+          <volume>35</volume>
+          <issue>Suppl 2</issue>
+          <fpage>13</fpage>
+          <pub-id pub-id-type="pmid">32528624</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haider</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Osman</surname>
+              <given-names>AY</given-names>
+            </name>
+            <name>
+              <surname>Gadzekpo</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Akipede</surname>
+              <given-names>GO</given-names>
+            </name>
+            <name>
+              <surname>Asogun</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Ansumana</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Lockdown measures in response to COVID-19 in nine sub-Saharan African countries</article-title>
+          <source>BMJ Glob Health</source>
+          <year>2020</year>
+          <volume>5</volume>
+          <fpage>e003319</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmjgh-2020-003319</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <mixed-citation publication-type="other">WHO. COVID-19 Explorer. 2020. <ext-link ext-link-type="uri" xlink:href="https://worldhealthorg.shinyapps.io/covid/">https://worldhealthorg.shinyapps.io/covid/</ext-link>. Accessed 1 Feb 2021.</mixed-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <mixed-citation publication-type="other">WHO. Analysing and using routine data to monitor the effects of COVID-19 on essential health services: practical guide for national and sub-national decision-makers. Geneva: World Health Organization; 2021. <ext-link ext-link-type="uri" xlink:href="https://apps.who.int/iris/rest/bitstreams/1327399/retrieve">https://apps.who.int/iris/rest/bitstreams/1327399/retrieve</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab> Zimbabwe National Statistical Agency</collab>
+          </person-group>
+          <source>Census 2012: preliminary report</source>
+          <year>2012</year>
+          <publisher-loc>Harare</publisher-loc>
+          <publisher-name>Zimbabwe National Statistical Agency</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <mixed-citation publication-type="other">Zimbabwe National Statistics Agency and ICF International. Zimbabwe Demographic and Health Survey 2015: final report. Rockville: Zimbabwe National Statistics Agency (ZIMSTAT) and ICF International; 2016. <ext-link ext-link-type="uri" xlink:href="http://dhsprogram.com/pubs/pdf/FR322/FR322.pdf">http://dhsprogram.com/pubs/pdf/FR322/FR322.pdf</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <mixed-citation publication-type="other">Mbunge E, Millham R, Sibiya MN, Takavarasha S. Impact of COVID-19 on Malaria elimination: juxtaposing indoor residual spraying and mobile phones in Buhera Rural District, Zimbabwe. Research Square; 2021.</mixed-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kanyangarara</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mamini</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Mharakurwa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Munyati</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gwanzura</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Reduction in malaria incidence following indoor residual spraying with Actellic 300 CS in a setting with pyrethroid resistance: Mutasa District, Zimbabwe</article-title>
+          <source>PLoS ONE</source>
+          <year>2016</year>
+          <volume>11</volume>
+          <fpage>e0151971</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0151971</pub-id>
+          <pub-id pub-id-type="pmid">27018893</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sande</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zimba</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mberikunashe</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tangwena</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Chimusoro</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Progress towards malaria elimination in Zimbabwe with special reference to the period 2003&#x2013;2015</article-title>
+          <source>Malar J</source>
+          <year>2017</year>
+          <volume>16</volume>
+          <fpage>295</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12936-017-1939-0</pub-id>
+          <pub-id pub-id-type="pmid">28738840</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tapera</surname>
+              <given-names>O</given-names>
+            </name>
+          </person-group>
+          <article-title>Determinants of long-lasting insecticidal net ownership and utilization in malaria transmission regions: evidence from Zimbabwe Demographic and Health Surveys</article-title>
+          <source>Malar J</source>
+          <year>2019</year>
+          <volume>18</volume>
+          <fpage>278</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12936-019-2912-x</pub-id>
+          <pub-id pub-id-type="pmid">31429761</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>WHO</collab>
+          </person-group>
+          <source>World malaria report 2020: 20 years of global progress and challenges</source>
+          <year>2020</year>
+          <publisher-loc>Geneva</publisher-loc>
+          <publisher-name>World Health Organization</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Zimbabwe National Malaria Control Programme, Ministry of Health and Child Welfare</collab>
+          </person-group>
+          <source>Indoor Residual Spraying Report, 2019&#x2013;2020</source>
+          <year>2020</year>
+          <publisher-loc>Harare</publisher-loc>
+          <publisher-name>Zimbabwe National Malaria Control Programme</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gwitira</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Mukonoweshuro</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mapako</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Shekede</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Chirenda</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Mberikunashe</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Spatial and spatio-temporal analysis of malaria cases in Zimbabwe</article-title>
+          <source>Infect Dis Poverty</source>
+          <year>2020</year>
+          <volume>9</volume>
+          <fpage>146</fpage>
+          <pub-id pub-id-type="doi">10.1186/s40249-020-00764-6</pub-id>
+          <pub-id pub-id-type="pmid">33092651</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kanyangarara</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mamini</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Mharakurwa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Munyati</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gwanzura</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>High-resolution <italic>Plasmodium falciparum</italic> malaria risk mapping in Mutasa District, Zimbabwe: implications for regaining control</article-title>
+          <source>Am Soc Trop Med Hyg</source>
+          <year>2016</year>
+          <volume>95</volume>
+          <fpage>141</fpage>
+          <lpage>147</lpage>
+          <pub-id pub-id-type="doi">10.4269/ajtmh.15-0865</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

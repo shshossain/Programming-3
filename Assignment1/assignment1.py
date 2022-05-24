@@ -26,6 +26,8 @@ def ncbi_articles(pmid):
                             api_key='f1a7da656f5d4442111d3e7fdc19fe74b108')
     path = Path(__file__).parent.absolute()
     output_path = path/'output'
+    if not(output_path.exists()):
+      output_path.mkdir(parents=True,exist_ok=False)
     with open(f'{output_path}/{pmid}.xml', 'wb') as file:
         file.write(handle.read())
 

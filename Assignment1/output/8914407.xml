@@ -1,0 +1,1420 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMJ Open</journal-id>
+      <journal-id journal-id-type="iso-abbrev">BMJ Open</journal-id>
+      <journal-id journal-id-type="hwp">bmjopen</journal-id>
+      <journal-id journal-id-type="publisher-id">bmjopen</journal-id>
+      <journal-title-group>
+        <journal-title>BMJ Open</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2044-6055</issn>
+      <publisher>
+        <publisher-name>BMJ Publishing Group</publisher-name>
+        <publisher-loc>BMA House, Tavistock Square, London, WC1H 9JR</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35273053</article-id>
+      <article-id pub-id-type="pmc">8914407</article-id>
+      <article-id pub-id-type="publisher-id">bmjopen-2021-055815</article-id>
+      <article-id pub-id-type="doi">10.1136/bmjopen-2021-055815</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Health Services Research</subject>
+        </subj-group>
+        <subj-group subj-group-type="hwp-journal-coll">
+          <subject>1506</subject>
+          <subject>2474</subject>
+          <subject>1704</subject>
+        </subj-group>
+        <series-title>Original research</series-title>
+      </article-categories>
+      <title-group>
+        <article-title>Quantifying the indirect impact of COVID-19 pandemic on utilisation of outpatient and immunisation services in Kenya: a longitudinal study using interrupted time series analysis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="author-90302138" contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-2300-7670</contrib-id>
+          <name>
+            <surname>Wambua</surname>
+            <given-names>Steven</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib id="author-90325286" contrib-type="author">
+          <name>
+            <surname>Malla</surname>
+            <given-names>Lucas</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib id="author-47087951" contrib-type="author">
+          <name>
+            <surname>Mbevi</surname>
+            <given-names>George</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib id="author-90324648" contrib-type="author">
+          <name>
+            <surname>Kandiah</surname>
+            <given-names>Joel</given-names>
+          </name>
+          <xref rid="aff3" ref-type="aff">3</xref>
+        </contrib>
+        <contrib id="author-90324703" contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-6991-7798</contrib-id>
+          <name>
+            <surname>Nwosu</surname>
+            <given-names>Amen-Patrick</given-names>
+          </name>
+          <xref rid="aff4" ref-type="aff">4</xref>
+        </contrib>
+        <contrib id="author-47087680" contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7915-3004</contrib-id>
+          <name>
+            <surname>Tuti</surname>
+            <given-names>Timothy</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib id="author-66690815" contrib-type="author">
+          <name>
+            <surname>Paton</surname>
+            <given-names>Chris</given-names>
+          </name>
+          <xref rid="aff4" ref-type="aff">4</xref>
+        </contrib>
+        <contrib id="author-90324792" contrib-type="author">
+          <name>
+            <surname>Wambu</surname>
+            <given-names>Bernard</given-names>
+          </name>
+          <xref rid="aff5" ref-type="aff">5</xref>
+        </contrib>
+        <contrib id="author-36087750" contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7427-0826</contrib-id>
+          <name>
+            <surname>English</surname>
+            <given-names>Mike</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">2</xref>
+          <xref rid="aff4" ref-type="aff">4</xref>
+        </contrib>
+        <contrib id="author-84172592" contrib-type="author">
+          <name>
+            <surname>Okiro</surname>
+            <given-names>Emelda A</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <xref rid="aff4" ref-type="aff">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><label>1</label><institution content-type="department">Population Health Unit</institution>, <institution>KEMRI-Wellcome Trust Research Programme Nairobi</institution>, <addr-line content-type="city">Nairobi</addr-line>, <country>Kenya</country></aff>
+      <aff id="aff2"><label>2</label><institution content-type="department">Health Services Unit</institution>, <institution>KEMRI-Wellcome Trust Research Programme Nairobi</institution>, <addr-line content-type="city">Nairobi</addr-line>, <country>Kenya</country></aff>
+      <aff id="aff3"><label>3</label><institution content-type="department">Mathematics Institute</institution>, <institution>University of Warwick</institution>, <addr-line content-type="city">Coventry</addr-line>, <country>UK</country></aff>
+      <aff id="aff4"><label>4</label><institution content-type="department">Nuffield Department of Clinical Medicine</institution>, <institution>Oxford Centre for Global Health Research</institution>, <addr-line content-type="city">Oxford</addr-line>, <country>UK</country></aff>
+      <aff id="aff5"><label>5</label><institution content-type="department">Division of Neonatal and Child Health</institution>, <institution>Kenya Ministry of Health</institution>, <addr-line content-type="city">Nairobi</addr-line>, <country>Kenya</country></aff>
+      <author-notes>
+        <corresp><label>Correspondence to</label> Mr Steven Wambua; <email>stevenwambua3@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>3</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>10</day>
+        <month>3</month>
+        <year>2022</year>
+      </pub-date>
+      <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+      <volume>12</volume>
+      <issue>3</issue>
+      <elocation-id>e055815</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>7</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>31</day>
+          <month>1</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY. Published by BMJ.</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2022-03-10">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed in accordance with the Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits others to copy, redistribute, remix, transform and build upon this work for any purpose, provided the original work is properly cited, a link to the licence is given, and indication of whether changes were made. See:&#xA0;<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:title="pdf" xlink:href="bmjopen-2021-055815.pdf"/>
+      <self-uri content-type="reviewers-comments-pdf" xlink:href="bmjopen-2021-055815.reviewer_comments.pdf"/>
+      <self-uri content-type="draft-revisions-pdf" xlink:href="bmjopen-2021-055815.draft_revisions.pdf"/>
+      <abstract>
+        <sec>
+          <title>Objective</title>
+          <p>In this study, we assess the indirect impact of COVID-19 on utilisation of immunisation and outpatient services in Kenya.</p>
+        </sec>
+        <sec>
+          <title>Design</title>
+          <p>Longitudinal study.</p>
+        </sec>
+        <sec>
+          <title>Setting</title>
+          <p>Data were analysed from all healthcare facilities reporting to Kenya&#x2019;s health information system from January 2018 to March 2021. Multiple imputation was used to address missing data, interrupted time series analysis was used to quantify the changes in utilisation of services and sensitivity analysis was carried out to assess robustness of estimates.</p>
+        </sec>
+        <sec>
+          <title>Exposure of interest</title>
+          <p>COVID-19 outbreak and associated interventions.</p>
+        </sec>
+        <sec>
+          <title>Outcome measures</title>
+          <p>Monthly attendance to health facilities. We assessed changes in immunisation and various outpatient services nationally.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>Before the first case of COVID-19 and pursuant intervention measures in March 2020, uptake of health services was consistent with historical levels. There was significant drops in attendance (level changes) in April 2020 for overall outpatient visits for under-fives (rate ratio, RR 0.50, 95% CI 0.44 to 0.57), under-fives with pneumonia (RR 0.43, 95% CI 0.38 to 0.47), overall over-five visits (RR 0.65, 95% CI 0.57 to 0.75), over-fives with pneumonia (RR 0.62, 95% CI 0.55 to 0.70), fourth antenatal care visit (RR 0.86, 95% CI 0.80 to 0.93), total hypertension (RR 0.89, 95% CI 0.82 to 0.96), diabetes cases (RR 0.95 95% CI, 0.93 to 0.97) and HIV testing (RR 0.97, 95% CI 0.94 to 0.99). Immunisation services, first antenatal care visits, new cases of hypertension and diabetes were not affected. The post-COVID-19 trend was increasing, with more recent data suggesting reversal of effects and health services reverting to expected levels as of March 2021.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>COVID-19 pandemic has had varied indirect effects on utilisation of health services in Kenya. There is need for proactive and targeted interventions to reverse these effects as part of the pandemic&#x2019;s response to avert non-COVID-19 indirect mortality.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>COVID-19</kwd>
+        <kwd>SARS-CoV-2</kwd>
+        <kwd>outpatient services</kwd>
+        <kwd>immunization</kwd>
+        <kwd>DHIS2</kwd>
+      </kwd-group>
+      <funding-group specific-use="FundRef">
+        <award-group id="funding-1">
+          <funding-source>
+<institution-wrap><institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100010269</institution-id><institution>Wellcome</institution></institution-wrap>
+</funding-source>
+          <award-id>092654</award-id>
+          <award-id>203077</award-id>
+          <award-id>207522</award-id>
+        </award-group>
+        <award-group id="funding-2">
+          <funding-source>
+<institution-wrap><institution>Wellcome Trust Intermediate Fellow</institution></institution-wrap>
+</funding-source>
+          <award-id>201866</award-id>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>special-feature</meta-name>
+          <meta-value>unlocked</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <boxed-text id="BX1" position="float">
+      <caption>
+        <title>Strengths and limitations of this study</title>
+      </caption>
+      <list list-type="bullet">
+        <list-item>
+          <p>This analysis is strengthened by use of a broad set of health services indicators and over a large number of health facilities nationally and a longer time period (39 months) allowing for the adjustment of pre-COVID-19 trends.</p>
+        </list-item>
+        <list-item>
+          <p>We have adjusted for factors such as health workers strikes and missing data in the analysis strengthening the validity of the results.</p>
+        </list-item>
+        <list-item>
+          <p>Data were analysed across the whole healthcare system in Kenya (both public and private sector), therefore, can be used to predict impact in other similar settings.</p>
+        </list-item>
+        <list-item>
+          <p>COVID-19 outbreak and associated public health measures were not random. Other concurrent unmeasured factors or shocks could have contributed, however, small to the changes.</p>
+        </list-item>
+        <list-item>
+          <p>This study does not allow for in-depth evaluation of the specific causes of the trends observed within a qualitative framework because it was purely quantitative.</p>
+        </list-item>
+      </list>
+    </boxed-text>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>The novel COVID-19 outbreak was declared a global pandemic by WHO on 11 March 2020. By 6 May 2021, 156 million cases and 3.2 million deaths have been reported globally.<xref rid="R1" ref-type="bibr">1</xref> Since the first case of COVID-19 was reported in Kenya on 13 March 2020, 1 62 098 cases and 2850 deaths were reported by 6 May 2021.<xref rid="R1" ref-type="bibr">1</xref> The government, in attempt to control the spread of the pandemic, instituted a raft of interventions. Consequently, beyond the pandemic&#x2019;s direct impact on the population health, indirect effects due to the control measures, changes in public and clinician behaviour and health system reorganisation are likely to manifest in changes to utilisation of essential health services.</p>
+      <p>The country has experienced three waves of the pandemic.<xref rid="R2" ref-type="bibr">2</xref> The first wave peaked in July/August 2020,<xref rid="R3" ref-type="bibr">3</xref> and in March 2021, the country experienced the third wave with the highest daily cases recorded since the start of pandemic. Throughout this period, a series of public health measures have been instituted by government authorities such as restrictions in movement, international travel and suspension of gatherings in various public places. In 5 March 2021, the COVID-19 vaccination campaign targeting 1.02 million health workers and those above the age of 58 years was launched.<xref rid="R4" ref-type="bibr">4</xref></p>
+      <p>The public health interventions are expected to have economic and social impacts such as reductions in manufacturing, access to employment and basic necessities.<xref rid="R5" ref-type="bibr">5 6</xref> Consequently, access and utilisation of essential health services are likely to be affected.<xref rid="R7" ref-type="bibr">7</xref> Early modelled predictions showed reductions in utilisation of health services.<xref rid="R8" ref-type="bibr">8 9</xref> In addition, studies during previous epidemics in sub-Saharan Africa reported a reduction in utilisation of essential health services during and after outbreaks.<xref rid="R10" ref-type="bibr">10&#x2013;14</xref> Various population groups are likely to be affected differently, with children and women at a higher risk.<xref rid="R10" ref-type="bibr">10 15</xref> These interruptions in health service utilisation are raising concerns of increased morbidity and mortality for non-COVID-19 illnesses and especially for childcare services.<xref rid="R9" ref-type="bibr">9</xref> Although recent studies have reported variable impact of the pandemic on various health services, the impact on administration of vaccines and monitoring a broad set of essential services over a longer -observation period after the pandemic was announced by WHO has not been evaluated rigorously in Kenya.<xref rid="R16" ref-type="bibr">16&#x2013;19</xref></p>
+      <p>Using the Kenya&#x2019;s routine health information system implemented through the District Health Information Software version 2 (DHIS 2), a database where all health facilities in Kenya are expected to report services they offered in a given month, this study aimed to assess the indirect impact of COVID-19 on utilisation of varied basic essential health services nationally.</p>
+    </sec>
+    <sec sec-type="methods" id="s2">
+      <title>Methods</title>
+      <sec id="s2-1">
+        <title>Timeline of events</title>
+        <sec id="s2-1-1">
+          <title>Pre-COVID-19 measures</title>
+          <p>Two months before the first case of COVID-19 was reported in Kenya, the government increased preparedness towards the pandemic. The preparedness measures included monitoring suspected cases of COVID-19 at points of entry to the country, increasing capacity for testing and isolation centres, providing healthcare workers with information and tools for dealing with COVID-19 cases and enactment of an emergency response committee.<xref rid="R20" ref-type="bibr">20 21</xref></p>
+        </sec>
+        <sec id="s2-1-2">
+          <title>Post-COVID-19 control measures</title>
+          <sec id="s2-1-2-1">
+            <title>Control measures to manage COVID-19 spread were first enacted on 13 March 2020<xref rid="R22" ref-type="bibr">22</xref></title>
+            <p>These were suspension of public gatherings including places of worship and limiting the number of people attending weddings and funerals. Institution of learning, bars and restaurants were also closed. Travel restrictions into and out of the country were put in place and the national dusk-to-dawn curfew was introduced. A month later, restrictions in movement into and out of counties with highest cases of COVID-19 were instituted and restaurants resumed operations under strict guidelines of social and physical distancing, temperature checks when accessing the restaurants and handwashing. In the month of May 2020, the government ceased movement into and out of the country through two neighbouring countries (Tanzania and Somalia). Home-based care was introduced for patients with COVID-19 in June 2020 and in July 2020 the government started relaxing restrictions on movement and local air travel and phased reopening of churches and other places of worship. In August 2020, international air travel resumed and in September 2020, operation of bars resumed. This was followed by phased reopening of schools and lifting of suspension on political gatherings in October 2020 and November 2020, respectively. Between December 2020 to February 2021, there was a national health workers strike triggered by demands for better working conditions such as provision of adequate personal protective equipment, enhanced risk allowances and a health insurance cover. Although the length of the strike varied by health facilities and cadre of health workers, we could not obtain a database which tracks strikes nationally, and we therefore assumed most of the health facilities were on strike during the whole period. All schools reopened in January 2021. The timeline of COVID-19 control measures is presented in <xref rid="F1" ref-type="fig">figure 1</xref>.</p>
+            <fig position="float" id="F1">
+              <label>Figure 1</label>
+              <caption>
+                <p>Daily seven moving average trend of COVID-19 cases in Kenya showing various public health interventions initiated by the government to control the spread of the pandemic.</p>
+              </caption>
+              <graphic xlink:href="bmjopen-2021-055815f01" position="float"/>
+            </fig>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="s2-2">
+        <title>Data</title>
+        <sec id="s2-2-1">
+          <title>Data sources</title>
+          <sec id="s2-2-1-1">
+            <title>District Health Information Software version 2</title>
+            <p>DHIS2 is an open-source software platform for data reporting by all the health facilities in a country. The primary goals of the system were to establish a centralised database with reporting capabilities at health facilities, to define and determine the standards for local and national health service reports and to connect service delivery and other health system input databases.<xref rid="R23" ref-type="bibr">23</xref> Monthly aggregated hospital level data can be entered into the system using a variety of tools, including desktop computers, laptops, tablets and smartphones by health records and information officers (HRIOs) situated in various hospitals. For health facilities without a HRIO, data is sent to a central administrative unit where the data is aggregated and entered into the system. Strong technical capabilities, flexibility, cost-effectiveness, increased satisfaction and networking among stakeholders have been some of the strengths of DHIS2 reported in 11 countries.<xref rid="R24" ref-type="bibr">24</xref></p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="s2-3">
+        <title>Extracted data</title>
+        <p>We extracted monthly data from DHIS 2 for the period January 2018 to March 2021 on total outpatient visits (under and over-fives), the number of hypertension and diabetes cases and HIV tests performed, doses of immunisation antigens administered and antenatal care visits (the first (ANC 1) and fourth (ANC 4) visits). ANC 1 and ANC 4 are recommended by WHO as tracker indicators for ANC coverage and hence are reported in DHIS 2. A description of the indicators is presented in <xref rid="T1" ref-type="table">table 1</xref>.</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>Description of indicators analysed in this study and Kenyan Ministry of Health (MOH) source forms used to capture the data</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Category</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Description</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Assigned names in this study</td>
+                <td align="left" valign="bottom" rowspan="1" colspan="1">Source form</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top" rowspan="7" colspan="1">Immunisation</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Bacillus Calmette-Guerin (BCG) vaccine doses administered</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BCG</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 710</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Oral polio vaccine (OPV) doses administered</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">OPV dose 1, dose 2 and dose 3</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 710</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Rotavirus vaccine doses administered</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Rotavirus dose 1 and dose 2</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 710</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Pneumococcal conjugate vaccine doses administered</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Pneumococcal dose 1, dose 2 and dose 3</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 710</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Diphtheria, Tetanus, Pertussis (DPT) vaccine doses administered</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">DPT 1, 2 and 3</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 710</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Inactivated Polio Vaccine (IPV) doses administered</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">IPV</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 710</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Measles vaccine doses administered</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Measles dose 1 and dose 2</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 710</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="11" colspan="1">Outpatient visits</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Antenatal care (ANC) first visit</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">ANC 1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 711</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Antenatal care fourth visits</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">ANC 4</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 711</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Outpatient department (OPD) visits in under-fives</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">OPD &lt;5 years</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 705A</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Outpatient department visits in over-fives</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">OPD &gt;5 years</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 705B</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Outpatient department visits with pneumonia in under-fives</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">OPD pneumonia&lt;5 years</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 705 A</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Outpatient department visits with pneumonia in over-fives</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">OPD pneumonia&gt;5 years</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 705B</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">No of new cases of diabetes</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Diabetes new cases</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 705 A and B</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">No of new plus revisits of diabetes cases</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Diabetes total cases</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 705 A and B</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">No of new hypertension cases</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hypertension new cases</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 705 A and B</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">No of new plus revisits of hypertension cases</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Hypertension total cases</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 705 A and B</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">No of HIV tests performed</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">HIV tests performed</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">MOH 731</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Data were not available for the period January 2018 to September 2018 for hypertension and diabetes new cases. For both indicators and for relevant periods data were excluded from the analysis. We chose 2018 as a starting point because of prolonged healthcare worker strikes in 2017 which affected health services provision,<xref rid="R25" ref-type="bibr">25</xref> and consequently reporting. Data were cleaned to remove duplicated health facilities and those indicated as closed. Extreme outliers, defined as values that are more than three SD from the mean of reported values for a given health facility,<xref rid="R26" ref-type="bibr">26 27</xref> were identified, investigated and treated as missing. For each health facility, we obtained the administrative units, level of the facility (level 2: dispensaries with outpatient services only, level 3: comprehensive primary healthcare facilities, level 4: primary referral hospitals, level 5: secondary referral hospitals and level 6: national teaching and referral hospitals) and whether the health facility is private or public.</p>
+      </sec>
+      <sec id="s2-4">
+        <title>Statistical analysis</title>
+        <sec id="s2-4-1">
+          <title>Missing data in DHIS 2</title>
+          <p>Missing data occurred for the indicators in a given month for a given health facility. Missingness varies by health facility and consistency in reporting overtime. Incompleteness in reports has been attributed to inadequate human resources, frequent power outages and slow internet connectivity, use of manual and electronic systems concurrently and frequent changes in DHIS 2 versions.<xref rid="R28" ref-type="bibr">28</xref> Strategies to improve reporting such as improving clinical care documentation, motivation among staff, government commitment and extensive donor support have been identified as strategies to improve completeness in DHIS 2.<xref rid="R29" ref-type="bibr">29 30</xref></p>
+        </sec>
+        <sec id="s2-4-2">
+          <title>Handling missing data</title>
+          <p>To adjust for incompleteness in reporting, multiple imputation (MI) was performed.<xref rid="R31" ref-type="bibr">31&#x2013;33</xref> MI has been shown to perform better in handling missing data in comparison to other methods.<xref rid="R34" ref-type="bibr">34</xref> Missing monthly values were imputed using a mixed effects model in a joint modelling framework.<xref rid="R35" ref-type="bibr">35 36</xref> Health facility ownership (public or private), level of health facility, time (month and year) and COVID-19 binary indicator (0&#x2014;months before pandemic and 1&#x2014;months post pandemic) were used as covariates with the health facility as a clustering variable. MI was performed for health facilities with more than 30% of months reported (at least 12 months reported) to reduce uncertainty in imputed values and ensure generalisability of the estimates. The missing patterns for each indicator are presented in <xref rid="SP1" ref-type="supplementary-material">online supplemental file 1</xref> SI <xref rid="F1" ref-type="fig">figure 1</xref>. The MI model specification has been provided in <xref rid="SP2" ref-type="supplementary-material">online supplemental file 2</xref>. Additionally, through a simulation study we found MI performance and efficiency was best when imputing for health facilities with more than 30% of months reported. The number of health facilities analysed is presented in <xref rid="SP3" ref-type="supplementary-material">online supplemental file 3</xref> SI <xref rid="T1" ref-type="table">table 1</xref>.</p>
+          <supplementary-material id="SP1" position="float" content-type="local-data">
+            <object-id pub-id-type="doi">10.1136/bmjopen-2021-055815.supp1</object-id>
+            <label>Supplementary data</label>
+            <p>
+<inline-supplementary-material id="SS1" xlink:href="bmjopen-2021-055815supp001.pdf" content-type="local-data"/>
+</p>
+          </supplementary-material>
+          <supplementary-material id="SP2" position="float" content-type="local-data">
+            <object-id pub-id-type="doi">10.1136/bmjopen-2021-055815.supp2</object-id>
+            <label>Supplementary data</label>
+            <p>
+<inline-supplementary-material id="SS2" xlink:href="bmjopen-2021-055815supp002.pdf" content-type="local-data"/>
+</p>
+          </supplementary-material>
+          <supplementary-material id="SP3" position="float" content-type="local-data">
+            <object-id pub-id-type="doi">10.1136/bmjopen-2021-055815.supp3</object-id>
+            <label>Supplementary data</label>
+            <p>
+<inline-supplementary-material id="SS3" xlink:href="bmjopen-2021-055815supp003.pdf" content-type="local-data"/>
+</p>
+          </supplementary-material>
+        </sec>
+      </sec>
+      <sec id="s2-5">
+        <title>Interrupted time series analysis</title>
+        <sec id="s2-5-1">
+          <title>Exploratory analyses</title>
+          <p>Data were aggregated monthly for all health facilities. Trends were plotted to visualise changes in utilisation of health services. Statistical process control (SPC) charts with the 2018&#x2013;2019 average as a baseline were used to identify significant shifts in monthly values for 2020&#x2013;2021. Values that are more than three SD from the mean are considered significant shifts and were carried forward for interrupted time series analysis.<xref rid="R37" ref-type="bibr">37</xref> Multiple change point analysis was applied to assess the influence of health worker strike on provision of health services.<xref rid="R38" ref-type="bibr">38 39</xref></p>
+        </sec>
+        <sec id="s2-5-2">
+          <title>Segmented regression</title>
+          <p>We conducted interrupted time series analyses using monthly attendance counts for each indicator as outcomes. The period running from January 2018 to March 2020 when the first case was identified was defined as pre-COVID-19 and April 2020 to March 2021 as post-COVID-19. For indicators where changes were observed in SPC analysis, segmented regression were performed to model attendance before and after COVID-19 was reported.<xref rid="R40" ref-type="bibr">40 41</xref> The following equation specifies the model<xref rid="R40" ref-type="bibr">40</xref>:</p>
+          <p>
+<disp-formula id="E1">
+<mml:math id="eqn1" overflow="scroll"><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mrow><mml:mi mathvariant="normal">l</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">o</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">g</mml:mi></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:msub><mml:mi>Y</mml:mi><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>&#x3B2;</mml:mi><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>&#x3B2;</mml:mi><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>&#x2217;</mml:mo><mml:mi>t</mml:mi><mml:mi>i</mml:mi><mml:mi>m</mml:mi><mml:msub><mml:mi>e</mml:mi><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>&#x3B2;</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>&#x2217;</mml:mo><mml:mi>C</mml:mi><mml:mi>O</mml:mi><mml:mi>V</mml:mi><mml:mi>I</mml:mi><mml:mi>D</mml:mi><mml:msub><mml:mn>19</mml:mn><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>&#x3B2;</mml:mi><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msub><mml:mo>&#x2217;</mml:mo><mml:mi>t</mml:mi><mml:mi>i</mml:mi><mml:mi>m</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>f</mml:mi><mml:mi>t</mml:mi><mml:mi>e</mml:mi><mml:mi>r</mml:mi><mml:mi>C</mml:mi><mml:mi>O</mml:mi><mml:mi>V</mml:mi><mml:mi>I</mml:mi><mml:mi>D</mml:mi><mml:msub><mml:mn>19</mml:mn><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mstyle></mml:math>
+</disp-formula>
+</p>
+          <p>Where, <inline-formula><mml:math id="M1" overflow="scroll"><mml:msub><mml:mrow><mml:mi>Y</mml:mi></mml:mrow><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:math></inline-formula> is the attendance in month <inline-formula><mml:math id="M2" overflow="scroll"><mml:mi>t</mml:mi></mml:math></inline-formula>; <inline-formula><mml:math id="M3" overflow="scroll"><mml:mi>t</mml:mi><mml:mi>i</mml:mi><mml:mi>m</mml:mi><mml:mi>e</mml:mi></mml:math></inline-formula> is a continuous indicator of time in months from January 2018; <inline-formula><mml:math id="M4" overflow="scroll"><mml:mi>C</mml:mi><mml:mi>O</mml:mi><mml:mi>V</mml:mi><mml:mi>I</mml:mi><mml:mi>D</mml:mi><mml:mn>19</mml:mn></mml:math></inline-formula> is an indicator of time <inline-formula><mml:math id="M5" overflow="scroll"><mml:mi>t</mml:mi></mml:math></inline-formula> occurring before (<inline-formula><mml:math id="M6" overflow="scroll"><mml:mi>C</mml:mi><mml:mi>O</mml:mi><mml:mi>V</mml:mi><mml:mi>I</mml:mi><mml:mi>D</mml:mi><mml:mn>19</mml:mn><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>)</mml:mo></mml:math></inline-formula> or after (<inline-formula><mml:math id="M7" overflow="scroll"><mml:mi>C</mml:mi><mml:mi>O</mml:mi><mml:mi>V</mml:mi><mml:mi>I</mml:mi><mml:mi>D</mml:mi><mml:mn>19</mml:mn><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:math></inline-formula> the outbreak, which was implemented at April 2021 in the series; and <inline-formula><mml:math id="M8" overflow="scroll"><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mi>t</mml:mi><mml:mi>i</mml:mi><mml:mi>m</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>f</mml:mi><mml:mi>t</mml:mi><mml:mi>e</mml:mi><mml:mi>r</mml:mi><mml:mi>C</mml:mi><mml:mi>O</mml:mi><mml:mi>V</mml:mi><mml:mi>I</mml:mi><mml:mi>D</mml:mi><mml:mn>19</mml:mn></mml:mrow></mml:mstyle></mml:math></inline-formula> is a continuous variable of the number of months after COVID-19 at time <inline-formula><mml:math id="M9" overflow="scroll"><mml:mi>t</mml:mi><mml:mo>.</mml:mo></mml:math></inline-formula> In the model, <inline-formula><mml:math id="M10" overflow="scroll"><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:msub><mml:mi>&#x3B2;</mml:mi><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mstyle></mml:math></inline-formula> estimates the baseline level of attendance at time zero; <inline-formula><mml:math id="M11" overflow="scroll"><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:msub><mml:mi>&#x3B2;</mml:mi><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mstyle></mml:math></inline-formula> estimates the change in monthly number of visits before COVID-19 (pre-existing trend); <inline-formula><mml:math id="M12" overflow="scroll"><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:msub><mml:mi>&#x3B2;</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mstyle></mml:math></inline-formula> estimates the level change immediately after COVID-19 outbreak; <inline-formula><mml:math id="M13" overflow="scroll"><mml:msub><mml:mrow><mml:mi>&#x3B2;</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> estimates the change in the trend after COVID-19, compared with the pre-existing trend. A change in intercept (immediate COVID-19 effect) and change in slope (gradual COVID-19 effect) were hypothesised.<xref rid="R41" ref-type="bibr">41</xref></p>
+          <p>A generalised linear model was applied assuming a negative binomial distribution. The negative binomial model was selected due to variations in attendance at health facility level. The intraclass correlation coefficients for each indicator are provided in <xref rid="SP4" ref-type="supplementary-material">online supplemental file 4</xref>
+<xref rid="T1" ref-type="table">table 1</xref>. We fitted two negative binomial models to account for over-dispersion, one without accounting for seasonality and another accounting for seasonality.<xref rid="R41" ref-type="bibr">41&#x2013;43</xref> Model performance was evaluated using the Akaike&#x2019;s information criterion.<xref rid="R44" ref-type="bibr">44</xref> Model checking was conducted for autocorrelation using the Durbin-Watson statistic and autoregressive moving average (ARMA) models were fitted for indicators with serial autocorrelation.<xref rid="R45" ref-type="bibr">45&#x2013;47</xref> The ARMA model fitted is presented below;</p>
+          <supplementary-material id="SP4" position="float" content-type="local-data">
+            <object-id pub-id-type="doi">10.1136/bmjopen-2021-055815.supp4</object-id>
+            <label>Supplementary data</label>
+            <p>
+<inline-supplementary-material id="SS4" xlink:href="bmjopen-2021-055815supp004.pdf" content-type="local-data"/>
+</p>
+          </supplementary-material>
+          <p>
+<disp-formula id="E2">
+<mml:math id="eqn2" overflow="scroll"><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:msub><mml:mi>X</mml:mi><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>c</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>&#x3B5;</mml:mi><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:munderover><mml:mo movablelimits="false">&#x2211;</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:munderover><mml:msub><mml:mi>&#x3C6;</mml:mi><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>X</mml:mi><mml:mrow><mml:mi>t</mml:mi><mml:mo>&#x2212;</mml:mo><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:munderover><mml:mo movablelimits="false">&#x2211;</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mi>q</mml:mi></mml:mrow></mml:munderover><mml:msub><mml:mi>&#x3B8;</mml:mi><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>&#x3B5;</mml:mi><mml:mrow><mml:mi>t</mml:mi><mml:mo>&#x2212;</mml:mo><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mstyle></mml:math>
+</disp-formula>
+</p>
+          <p>Where <inline-formula><mml:math id="M14" overflow="scroll"><mml:mi>&#x3C6;</mml:mi></mml:math></inline-formula> is the AR model parameters, <inline-formula><mml:math id="M15" overflow="scroll"><mml:mi>&#x3B8;</mml:mi></mml:math></inline-formula> is the MA model parameters, c a constant and <inline-formula><mml:math id="M16" overflow="scroll"><mml:mi>&#x3B5;</mml:mi></mml:math></inline-formula> is the error term. We fitted the ARMA model using various combinations of <italic toggle="yes">p</italic> and <italic toggle="yes">q</italic> and selected the model with the lowest Akaike information criterion (AIC). The <italic toggle="yes">gcmr</italic> package was used to implement the ARMA models.<xref rid="R48" ref-type="bibr">48</xref> Seasonality was adjusted using Fourier terms by specifying the sine and cosine pairs as 2 and the length of the period as 12 as recommended <xref rid="R41" ref-type="bibr">41</xref><xref rid="R49" ref-type="bibr">49</xref> Results were pooled across the multiple imputed datasets using Rubin&#x2019;s rules.<xref rid="R50" ref-type="bibr">50</xref> The negative binomial model, which was adjusted for seasonality was the best fitting model and its results are presented in this study. AIC values and the estimates from the negative binomial model where seasonality was not accounted for are provided in <xref rid="SP4" ref-type="supplementary-material">online supplemental file 4</xref>
+<xref rid="T2" ref-type="table">table 2</xref> and 3.</p>
+          <table-wrap position="float" id="T2">
+            <label>Table 2</label>
+            <caption>
+              <p>Segmented regression results showing rate ratios (RR) for COVID-19 intervention, time (pre-existing trend) and trend (post-COVID-19 trend)</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <td align="left" valign="bottom" rowspan="1" colspan="1">Covariate</td>
+                  <td align="left" valign="bottom" colspan="3" rowspan="1">OPD &lt;5 years</td>
+                  <td align="left" valign="bottom" colspan="3" rowspan="1">OPD &gt;5 years</td>
+                  <td align="left" valign="bottom" colspan="3" rowspan="1">OPD pneumonia &lt;5 years</td>
+                  <td align="left" valign="bottom" colspan="3" rowspan="1">OPD pneumonia &gt;5 years</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1"><bold>95%</bold> CI</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1"><bold>95%</bold> CI</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1"><bold>95%</bold> CI</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1"><bold>95%</bold> CI</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>COVID-19</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.50</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.44 to 0.57)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.65</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.57 to 0.75)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.43</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.38 to 0.47)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.62</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.55 to 0.70)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;<bold>Time</bold></td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.99 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.15</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.00 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.02</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.00 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.99 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.05</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;<bold>Trend</bold></td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.05</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.03 to 1.06)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.02</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.00 to 1.04)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.03</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.07</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.05 to 1.08)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.03</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.02 to 1.05)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" colspan="13" rowspan="1">&#x2003;</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                  <td align="left" valign="top" colspan="3" rowspan="1">
+<bold>ANC 1</bold>
+</td>
+                  <td align="left" valign="top" colspan="3" rowspan="1">
+<bold>ANC 4</bold>
+</td>
+                  <td align="left" valign="top" colspan="3" rowspan="1">
+<bold>Diabetes new cases</bold>
+</td>
+                  <td align="left" valign="top" colspan="3" rowspan="1">
+<bold>Diabetes total cases</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR*</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">
+<bold>95% CI*</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value*</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1"><bold>95%</bold> CI</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P-value</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1"><bold>95%</bold> CI</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1"><bold>95%</bold> CI</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>COVID-19</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.96</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.83 to 1.10)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.55</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.86</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.80 to 0.93)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.17</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.89 to 1.52)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.25</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.95</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.93 to 0.97)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;<bold>Time</bold></td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.99 to 1.00)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.61</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.99 to 1.00)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.13</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.98 to 1.00)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.13</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.00 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;<bold>Trend</bold></td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.99 to 1.03)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.12</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.99 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.90</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.97 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.57</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.00 to 1.00)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.05</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" colspan="13" rowspan="1">&#x2003;</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                  <td align="left" valign="top" colspan="3" rowspan="1">
+<bold>Hypertension new cases</bold>
+</td>
+                  <td align="left" valign="top" colspan="3" rowspan="1">
+<bold>Hypertension total cases</bold>
+</td>
+                  <td align="left" valign="top" colspan="3" rowspan="1">
+<bold>HIV tests Performed</bold>
+</td>
+                  <td align="left" valign="top" rowspan="5" colspan="3"/>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1"><bold>95%</bold> CI</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1"><bold>95%</bold> CI</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RR*</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">
+<bold>95% CI*</bold>
+</td>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>P value*</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">
+<bold>COVID-19</bold>
+</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.87</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.75 to 1.00)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.05</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.89</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.82 to 0.96)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.94 to 0.99)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.01</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;<bold>Time</bold></td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.99 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.81</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.00 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.97</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.97 to 0.97)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" rowspan="1" colspan="1">&#x2003;<bold>Trend</bold></td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.99 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.59</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(0.99 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">0.90</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">1.01</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">(1.00 to 1.01)</td>
+                  <td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.01</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn id="T2_FN1">
+                <p>The 95% CIs and p values are also show.</p>
+              </fn>
+              <fn id="T2_FN2">
+                <p>*Estimate after fitting ARMA model to indicator where autocorrelation was detected. The ARMA (p, q) parameters for ANC 1 are (1,0) and (2,0) for HIV tests performed.</p>
+              </fn>
+              <fn id="T2_FN3">
+                <p>ANC, antenatal care; ARMA, autoregressive moving average; OPD, outpatient department.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+          <p>As a form of sensitivity analysis, we fitted models excluding months when the national strike occurred and compared estimates with those where data included the strike. We also fitted health-facility level generalised estimating equations (GEE) to test the impact of varying model assumptions on the primary model estimates and hence evaluate robustness of our results.<xref rid="R41" ref-type="bibr">41</xref></p>
+          <p>Statistical significance was defined as p&lt;0.05. All analyses were performed using R (V.3.6.3).</p>
+        </sec>
+      </sec>
+      <sec id="s2-6">
+        <title>Patient and public involvement</title>
+        <p>No patients were involved in this study. We have used secondary aggregated routine health information data available online.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec id="s3-1">
+        <title>COVID-19 impact</title>
+        <p>Annual trends show the first ANC visits remained unaffected while the fourth visits experienced a downward trend from March 2020. Immunisation services remained unaffected with observed spikes in administration of measles vaccines in March 2020. Utilisation of outpatient services (overall and due to pneumonia) by under fives experienced drops after March 2020. Reductions were also experienced in over-fives attendance, hypertension cases and diabetes attendance. HIV testing experienced a gradual decline over the years (<xref rid="F2" ref-type="fig">figure 2</xref>).</p>
+        <fig position="float" id="F2">
+          <label>Figure 2</label>
+          <caption>
+            <p>Temporal trends in monthly immunisation and outpatient attendance nationally and by year. ANC, antenatal care; OPD, outpatient department;BCG, Bacillus Calmette&#x2013;Gu&#xE9;rin vaccine; OPV, Oral polio vaccine;DPT, Diphtheria, Tetanus, Pertussis vaccine; IPV, Inactivated Polio Vaccine</p>
+          </caption>
+          <graphic xlink:href="bmjopen-2021-055815f02" position="float"/>
+        </fig>
+        <p>Further, SPC charts confirmed significant reductions (less than 3 SD) in ANC 4 starting April 2020. Immunisation services remained unaffected during the same period, with significant increase (more than 3 SD) in measles vaccination in March 2020. Moreover, significant reductions in under-fives attendance, over-fives attendance and new visits by hypertensive patients were observed starting April 2020 with no significant reductions for HIV testing and diabetes visits (<xref rid="F3" ref-type="fig">figure 3</xref>). Additionally, utilisation of most services reduced the most in December 2020 coinciding with start of healthcare workers strike, after which utilisation of most services started to go back to expected levels.</p>
+        <fig position="float" id="F3">
+          <label>Figure 3</label>
+          <caption>
+            <p>Statistical process control chart of immunisation, antenatal care (ANC) and outpatient services. Horizontal dashed lines represent the 3 SD mark. OPD, outpatient department;BCG, Bacillus Calmette&#x2013;Gu&#xE9;rin vaccine; OPV, Oral polio vaccine;DPT, Diphtheria, Tetanus, Pertussis vaccine; IPV, Inactivated Polio Vaccine</p>
+          </caption>
+          <graphic xlink:href="bmjopen-2021-055815f03" position="float"/>
+        </fig>
+        <p>We fitted interrupted time series models for indicators that showed significant changes from the SPC charts. The rate ratios from the model are presented in <xref rid="T1" ref-type="table">table 1</xref>. The month-to-month changes before COVID-19 were generally increasing across all the indicators. There was an immediate statistically significant reduction in all the indicators post-COVID-19, in the month immediately after first case, except for ANC 1 and new cases of diabetes and hypertension, which were unaffected. The statistically significant level changes post-COVID-19 were outpatient attendance for children under-fives which reduced by 50%, those for outpatients&#x2019; over-fives by 35%, under-fives pneumonia outpatients by 43%, over-fives pneumonia outpatients by 38%, ANC fourth visit by 14%, total cases of diabetes by 5%, new cases of hypertension by 11% and HIV tests by 3%. There was a slight but statistically significant month-to-month increase in services post-COVID-19 (April 2020 to March 2021) of 5% for under-fives outpatients attendance, 2% for over-fives outpatients, 4% for under-fives pneumonia outpatients, 3% for over-fives pneumonia patients and no significant month-to-month changes for ANC visits, diabetes and hypertension cases. The trends from the fitted interrupted time series model are visually represented in <xref rid="F4" ref-type="fig">figure 4</xref>.</p>
+        <fig position="float" id="F4">
+          <label>Figure 4</label>
+          <caption>
+            <p>Fitted lines of interrupted time series models for outpatient and antenatal care attendance. vertical lines represent the month (March 2020) COVID-19 was announced in Kenya and as a pandemic by the WHO. ANC, antenatal care; OPD, outpatient department.</p>
+          </caption>
+          <graphic xlink:href="bmjopen-2021-055815f04" position="float"/>
+        </fig>
+      </sec>
+      <sec id="s3-2">
+        <title>Sensitivity analyses</title>
+        <p>Change point analysis showed the health workers&#x2019; strike, which started in December 2020 had a significant impact on ANC fourth visits, and no effect on the other indicators (<xref rid="SP5" ref-type="supplementary-material">online supplemental file 5</xref> SI <xref rid="F1" ref-type="fig">figure 1</xref>). Further, excluding the strike period (December 2020 to February 2021) from the segmented regression models of all indicators evaluated resulted in estimates that are not different from primary model estimates (<xref rid="SP5" ref-type="supplementary-material">online supplemental file 5</xref> SI <xref rid="T1" ref-type="table">table 1</xref>). Estimates from the GEE models were not different from the primary model indicating robustness of reported estimates (<xref rid="SP5" ref-type="supplementary-material">online supplemental file 5</xref> SI <xref rid="T2" ref-type="table">table 2</xref>).</p>
+        <supplementary-material id="SP5" position="float" content-type="local-data">
+          <object-id pub-id-type="doi">10.1136/bmjopen-2021-055815.supp5</object-id>
+          <label>Supplementary data</label>
+          <p>
+<inline-supplementary-material id="SS5" xlink:href="bmjopen-2021-055815supp005.pdf" content-type="local-data"/>
+</p>
+        </supplementary-material>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>Using DHIS2 health facility-level monthly reported outpatient data, we provide evidence of COVID-19 impact on utilisation of basic health services in Kenya. The announcement of the first case of COVID-19 in Kenya in March 2020 and the intervention measures that followed coincided with sharp declines in outpatient and ANC fourth visits nationally. By the end of this study, health services are still in the process of returning to pre-COVID-19 levels. However, immunisation services remained unaffected.</p>
+      <p>Previous studies have found variable impacts on immunisation services.<xref rid="R17" ref-type="bibr">17 51 52</xref> In two studies that evaluated performance of routine immunisation on selected indicators in Kenya, which used a relatively shorter period and didn&#x2019;t account for missing data, COVID-19 had no substantial impact on vaccination coverage, ANC first visits and a significant increase in measles immunisation in March 2020 was reported.<xref rid="R17" ref-type="bibr">17 51</xref> The significant increase in measles vaccines in March 2020 was due to increased immunisation to make up for stock-out of measles vaccines between November 2019 and January 2020.<xref rid="R17" ref-type="bibr">17</xref> The sustained immunisation levels in the other antigens suggests there were no significant disruption to vaccine supply chain resulting from the pandemic, and confirmed by the National Vaccines and Immunisation Programme (NVIP).<xref rid="R17" ref-type="bibr">17</xref> Additionally, where health facilities designated as vaccination centres were assigned as COVID-19 isolation centres, the vaccines programme moved immunisation services to neighbouring health facilities.<xref rid="R17" ref-type="bibr">17</xref> These strategies illuminate why immunisation services remained unaffected during the pandemic, contrary to earlier predictions of reductions in immunisation.<xref rid="R8" ref-type="bibr">8 9</xref> Although not statistically significant, the slight reductions in the number of vaccines administered in December 2020 were likely attributed to the nationwide health worker strike, which led to staff shortages consequently affecting administration of the vaccines. These results strengthen previous findings with no observable differences in mean monthly number of immunisation and total ANC visits over a much shorter study period March&#x2013;June 2020 relative to the same period in 2019 in Kenya.<xref rid="R52" ref-type="bibr">52</xref> Additionally, in a recent survey across 18 African countries, which evaluated disruption to essential health services in Africa during COVID-19, found that vaccination was the least disrupted service across all countries.<xref rid="R30" ref-type="bibr">30</xref> In summary, immunisation services were unaffected likely because of a number of reasons; the concerted effort by the NVIP to sustain supply of vaccines and unavailability of alternative sources for vaccination outside of the health system.</p>
+      <p>There were significant drops in nearly all outpatient services evaluated in this study. Total outpatient and pneumonia specific outpatient attendance were most affected, with utilisation of the services dropping by half for under-fives. Moreover, COVID-19 had an impact on ANC 4, total attendance for hypertension and diabetes and HIV testing. Similar findings have been reported in other low- and middle-income countries.<xref rid="R16" ref-type="bibr">16 17 19 53&#x2013;56</xref> Studies evaluating the impact of lockdown measures to combat COVID-19 in South Africa observed a substantial drop in primary healthcare services utilisation.<xref rid="R16" ref-type="bibr">16 55</xref> Significant drops in essential health services were also experienced following institution of public health measures to combat COVID-19 in Kinshasa, Democratic Republic of Congo.<xref rid="R19" ref-type="bibr">19</xref> Disruptions in general attendance have also been reported in various studies globally.<xref rid="R53" ref-type="bibr">53 57&#x2013;60</xref></p>
+      <p>Various factors could explain the downward trends in specific outpatient services. In a survey conducted in Kenya to assess health services utilisation during COVID-19, common causes reported by respondents include fear of risk of catching coronavirus at health facilities (26%), reduced incomes affecting ability to meet transport costs and other healthcare related costs (17%), shortage of healthcare workers in health facilities (14%), difficulties in accessing health facilities due to lockdowns and curfew (14%) and closing of some health facilities (14%).<xref rid="R61" ref-type="bibr">61</xref> The substantial declines for under-fives attendance are likely associated with reduced mixing due to closure of schools, improved hygiene practices and parents choosing to manage non-severe illnesses at home. Although attendance for ANC 4 was affected, it is unclear why the first visits were not affected. Notwithstanding, this might suggest that pregnant women attach greater importance to the primary ANC visit as has been reported,<xref rid="R62" ref-type="bibr">62 63</xref> and hence despite the prevailing conditions managed to prioritise at least one visit to a health facility. Additionally, data have suggested deliveries in health facilities were also not affected during the pandemic <xref rid="R64" ref-type="bibr">64</xref>, and this likely suggests the population of pregnant women remained relatively comfortable to use health services despite the pandemic.</p>
+      <p>A survey in Ethiopia among diabetic and hypertensive patients reported unavailability, unaffordable or increased price of medications and interruptions in follow-up visits were common barriers to accessing chronic care units in public facilities during the pandemic.<xref rid="R65" ref-type="bibr">65</xref> Reduction in attendance for chronic conditions such as hypertensive cases is a significant finding as missing care for these chronic illnesses could lead to further complications and susceptibility to severe COVID-19,<xref rid="R66" ref-type="bibr">66</xref> and increased morbidity and mortality. The gradual decline in HIV testing pre-COVID-19 might suggest reduced coverage due to policies geared towards targeted testing as opposed to blanket testing.<xref rid="R67" ref-type="bibr">67</xref> Additionally increased uptake and accessibility to testing in pharmacies implemented in 2017 might be associated with reduced testing in health facilities.<xref rid="R68" ref-type="bibr">68</xref> Pre-existing challenges in access to health services such as poor road network, disruptions in supplies to health facilities, and limited or no capacity for domestic production of medical supplies could have compounded the dramatic downward trends in utilisation of outpatient services. Additionally, improved hand hygiene and use of face masks during the pandemic could have led to reduced risk of other infectious diseases and consequently fewer visits to health facilities.<xref rid="R69" ref-type="bibr">69 70</xref></p>
+      <sec id="s4-1">
+        <title>Strengths and implications of the study</title>
+        <p>Although most of the public attention is on control measures of COVID-19, possible health consequences from the indirect effects of the measures should not be overlooked. We provide a comprehensive understanding of the present situation on utilisation of immunisation and outpatient services in Kenya. Although the findings provide short-term estimates on the effect of COVID-19 at national level, studies could assess the long-term and differential effects at subnational level. We addressed possible confounders in assessing changes overtime. For instance, in line with a recent guide on using routine data to monitor the effects of COVID-19 by the WHO, we adjusted for missing data which would have affected the validity of the comparisons over time.<xref rid="R71" ref-type="bibr">71</xref> Additionally, incompleteness may lead to biased estimates and strategies to improve data quality in DHIS2 such as investment in better infrastructure, supervisory support, formal data quality assurance and human resources could improve reporting in Kenyan health facilities.<xref rid="R72" ref-type="bibr">72 73</xref> We also use sensitivity analysis to account for any uncertainty in the estimates due to other factors affecting utilisation of services such as healthcare workers strikes and health-facility specific variations, which reduced bias and improved precision of the estimates.</p>
+      </sec>
+      <sec id="s4-2">
+        <title>Limitations and recommendations</title>
+        <p>In this study, controls were not used to differentiate the impact of COVID-19 from other possible causes of the changes as most indicators were indirectly affected by the pandemic. However, since the drops in utilisation of services coincided with the introduction of COVID-19 intervention measures, the changes are attributed to COVID-19. We suggest sensitivity studies in future to assess any departures from the missing at random assumption when using MI for DHIS 2 data.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="s5">
+      <title>Conclusion</title>
+      <p>In summary, COVID-19 pandemic has had varied indirect effects on utilisation of outpatient health services. Although utilisation of immunisation services remained unchanged, there was a significant negative impact on outpatient clinic and ANC visits nationally. Total outpatient attendances for children under-fives reduced by 50%, under-fives pneumonia presentations reduced by 50%, general over-five visits reduced by 35%, over-fives pneumonia reduced by 38%, ANC 4 visits reduced by 14%, total hypertension cases reduced by 11%, total diabetes cases reduced by 5% and HIV testing by 3%. There is need for proactive and targeted interventions to avert and reverse these effects in future pandemics. These include strict implementation of safe practices and infrastructural changes in health facilities to reassure the public that it is safe to go to health facilities. Other innovative measures such as safe modes of transport, mobile clinics and supplementary immunisation activities could be incorporated in the pandemic response to avert any negative effects on utilisation of essential health services.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material content-type="local-data" id="d64e200">
+        <caption>
+          <title>Reviewer comments</title>
+        </caption>
+        <media xlink:href="bmjopen-2021-055815.reviewer_comments.pdf"/>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="d64e201">
+        <caption>
+          <title>Author's
+manuscript</title>
+        </caption>
+        <media xlink:href="bmjopen-2021-055815.draft_revisions.pdf"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="other">
+        <p><bold>Twitter:</bold> @ProfMikeEnglish</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Contributors:</bold> SW: conceptualisation; data curation; formal analysis; investigation; methodology; software; validation; visualisation; writing&#x2014;original draft. LM: data curation; formal analysis; investigation; methodology; software; validation; visualisation; writing&#x2014;review and editing. GM: data curation; investigation; software; validation; visualisation; writing&#x2014;review and editing. A-PN: data curation; formal analysis; investigation; software; validation; visualisation; writing&#x2014;review and editing. JK: data curation; formal analysis; investigation; software; validation; visualisation; writing&#x2014;review and editing. TT: data curation; investigation; validation; writing&#x2014;review and editing. CP: data curation; investigation; validation; writing&#x2014;review and editing. ME: data curation; investigation; validation; writing&#x2014;review and editing. EAO: conceptualization; data curation; investigation; validation; funding acquisition; writing&#x2014;review and editing; guarantor.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Funding:</bold> SW and EO are supported through a Wellcome Trust Intermediate Fellow (Grant No. 201 866). LM, JK, A-PN, GM, TT and CP are supported through Funds from the Wellcome Trust (Grant No. 207 522) awarded to Prof. ME as a senior Fellowship together with additional funds from a Wellcome Trust core grant awarded to the KEMRI-Wellcome Trust Research Programme (Grant No. 092654). SW, LM, GM, TT, ME and EAO acknowledge the support of the Wellcome Trust to the Kenya Major Overseas Programme (Grant No. 203 077).</p>
+      </fn>
+      <fn fn-type="COI-statement">
+        <p><bold>Competing interests:</bold> The authors declare that they have no competing interests</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Ethics approval and consent to participate:</bold> The study does not contain any individual person&#x2019;s data.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Provenance and peer review:</bold> Not commissioned; externally peer reviewed.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Supplemental material:</bold> This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.</p>
+      </fn>
+    </fn-group>
+    <sec sec-type="data-availability">
+      <title>Data availability statement</title>
+      <p>Data are available on reasonable request. Aggregated DHIS2 data are available online with access provided by Kenyan Ministryof Health <ext-link xlink:href="https://hiskenya.org/dhis-web-commons/security/login.action" ext-link-type="uri">https://hiskenya.org/dhis-web-commons/security/login.action</ext-link>.</p>
+    </sec>
+    <sec sec-type="data-availability">
+      <title>Data availability statement</title>
+      <p>Aggregated DHIS2 data is available online with access provided by Ministry of Health <ext-link xlink:href="https://hiskenyaorg/dhis-web-commons/security/loginaction" ext-link-type="uri">https://hiskenyaorg/dhis-web-commons/security/loginaction</ext-link>. Aggregated DHIS2 data are available online with access provided by Kenyan Ministryof Health <ext-link xlink:href="https://hiskenya.org/dhis-web-commons/security/login.action" ext-link-type="uri">https://hiskenya.org/dhis-web-commons/security/login.action</ext-link>.</p>
+    </sec>
+    <sec sec-type="ethics-statement">
+      <title>Ethics statements</title>
+      <sec>
+        <title>Patient consent for publication</title>
+        <p content-type="ethics-consent-to-publish">Not applicable.</p>
+      </sec>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="R1">
+        <label>1</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>John Hopkins University</collab></person-group>. <article-title>COVID-19 Dashboard</article-title>. Available: <uri xlink:href="https://coronavirus.jhu.edu/">https://coronavirus.jhu.edu/</uri></mixed-citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sam</surname>
+<given-names>DSO</given-names></string-name>, <string-name><surname>Pokhariyal</surname>
+<given-names>GP</given-names></string-name>, <string-name><surname>Rogo</surname>
+<given-names>K</given-names></string-name></person-group>. <article-title>Otoi-NARIMA model for forecast seasonality of COVID-19 waves: case of Kenya</article-title>. <source>Int. J. Stat. Appl. Math.</source>
+<year>2021</year>;<volume>6</volume>:<fpage>48</fpage>&#x2013;<lpage>58</lpage>. <pub-id pub-id-type="doi">10.22271/maths.2021.v6.i2a.675</pub-id></mixed-citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Uyoga</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Adetifa</surname>
+<given-names>IMO</given-names></string-name>, <string-name><surname>Karanja</surname>
+<given-names>HK</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Kenyan blood donors</article-title>. <source>Science</source>
+<year>2021</year>;<volume>371</volume>:<fpage>79</fpage>&#x2013;<lpage>82</lpage>. <pub-id pub-id-type="doi">10.1126/science.abe1916</pub-id><pub-id pub-id-type="pmid">33177105</pub-id></mixed-citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>WHO</collab></person-group>. <article-title>Kenya receives COVID-19 vaccines and launches landmark national campaign 2021</article-title>. Available: <uri xlink:href="https://www.afro.who.int/news/kenya-receives-covid-19-vaccines-and-launches-landmark-national-campaign">https://www.afro.who.int/news/kenya-receives-covid-19-vaccines-and-launches-landmark-national-campaign</uri> [Accessed <comment>01/07/2021</comment>].</mixed-citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bai</surname>
+<given-names>HM</given-names></string-name>, <string-name><surname>Zaid</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Catrin</surname>
+<given-names>S</given-names></string-name></person-group>. <article-title>The socio-economic implications of the coronavirus pandemic (COVID-19): a review</article-title>. <source>Int J Surg</source>
+<year>2020</year>;<volume>8</volume>:<fpage>8</fpage>&#x2013;<lpage>17</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Quaife</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>van Zandvoort</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Gimma</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The impact of COVID-19 control measures on social contacts and transmission in Kenyan informal settlements</article-title>. <source>BMC Med</source>
+<year>2020</year>;<volume>18</volume>:<fpage>1</fpage>&#x2013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1186/s12916-020-01779-4</pub-id><pub-id pub-id-type="pmid">31898501</pub-id></mixed-citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Parpia</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Ndeffo-Mbah</surname>
+<given-names>ML</given-names></string-name>, <string-name><surname>Wenzel</surname>
+<given-names>NS</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Effects of response to 2014-2015 Ebola outbreak on deaths from malaria, HIV/AIDS, and tuberculosis, West Africa</article-title>. <source>Emerg Infect Dis</source>
+<year>2016</year>;<volume>22</volume>:<fpage>433</fpage>&#x2013;<lpage>41</lpage>. <pub-id pub-id-type="doi">10.3201/eid2203.150977</pub-id><pub-id pub-id-type="pmid">26886846</pub-id></mixed-citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Riley</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Sully</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Ahmed</surname>
+<given-names>Z</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Estimates of the potential impact of the COVID-19 pandemic on sexual and reproductive health in low- and middle-income countries</article-title>. <source>Int Perspect Sex Reprod Health</source>
+<year>2020</year>;<volume>46</volume>:<fpage>73</fpage>&#x2013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1363/46e9020</pub-id><pub-id pub-id-type="pmid">32343244</pub-id></mixed-citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Roberton</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Carter</surname>
+<given-names>ED</given-names></string-name>, <string-name><surname>Chou</surname>
+<given-names>VB</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Early estimates of the indirect effects of the COVID-19 pandemic on maternal and child mortality in low-income and middle-income countries: a modelling study</article-title>. <source>Lancet Glob Health</source>
+<year>2020</year>;<volume>8</volume>:<fpage>e901</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/S2214-109X(20)30229-1</pub-id><pub-id pub-id-type="pmid">32405459</pub-id></mixed-citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Barden-O'Fallon</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Barry</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Brodish</surname>
+<given-names>P</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Rapid assessment of Ebola-related implications for reproductive, maternal, newborn and child health service delivery and utilization in guinea</article-title>. <source>PLoS Curr</source>
+<year>2015</year>;<volume>7</volume>. <pub-id pub-id-type="doi">10.1371/currents.outbreaks.0b0ba06009dd091bc39ddb3c6d7b0826</pub-id>. [Epub ahead of print: <comment>04 Aug 2015</comment>].</mixed-citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bolkan</surname>
+<given-names>HA</given-names></string-name>, <string-name><surname>van Duinen</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Samai</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Admissions and surgery as indicators of hospital functions in Sierra Leone during the west-African Ebola outbreak</article-title>. <source>BMC Health Serv Res</source>
+<year>2018</year>;<volume>18</volume>:<elocation-id>846</elocation-id>. <pub-id pub-id-type="doi">10.1186/s12913-018-3666-9</pub-id><pub-id pub-id-type="pmid">30413159</pub-id></mixed-citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Brolin Ribacke</surname>
+<given-names>KJ</given-names></string-name>, <string-name><surname>van Duinen</surname>
+<given-names>AJ</given-names></string-name>, <string-name><surname>Nordenstedt</surname>
+<given-names>H</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The impact of the West Africa Ebola outbreak on obstetric health care in Sierra Leone</article-title>. <source>PLoS One</source>
+<year>2016</year>;<volume>11</volume>:<elocation-id>e0150080</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0150080</pub-id><pub-id pub-id-type="pmid">26910462</pub-id></mixed-citation>
+      </ref>
+      <ref id="R13">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Elston</surname>
+<given-names>JWT</given-names></string-name>, <string-name><surname>Moosa</surname>
+<given-names>AJ</given-names></string-name>, <string-name><surname>Moses</surname>
+<given-names>F</given-names></string-name></person-group>. <article-title>Impact of the Ebola outbreak on health systems and population health in Sierra Leone</article-title>. <source>J Public Health</source>
+<year>2016</year>;<volume>38</volume>:<fpage>673</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1093/pubmed/fdv158</pub-id></mixed-citation>
+      </ref>
+      <ref id="R14">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Takahashi</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Metcalf</surname>
+<given-names>CJE</given-names></string-name>, <string-name><surname>Ferrari</surname>
+<given-names>MJ</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Reduced vaccination and the risk of measles and other childhood infections post-Ebola</article-title>. <source>Science</source>
+<year>2015</year>;<volume>347</volume>:<fpage>1240</fpage>&#x2013;<lpage>2</lpage>. <pub-id pub-id-type="doi">10.1126/science.aaa3438</pub-id><pub-id pub-id-type="pmid">25766232</pub-id></mixed-citation>
+      </ref>
+      <ref id="R15">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Chang</surname>
+<given-names>H-J</given-names></string-name>, <string-name><surname>Huang</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Lee</surname>
+<given-names>C-H</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The impact of the SARS epidemic on the utilization of medical services: SARS and the fear of SARS</article-title>. <source>Am J Public Health</source>
+<year>2004</year>;<volume>94</volume>:<fpage>562</fpage>&#x2013;<lpage>4</lpage>. <pub-id pub-id-type="doi">10.2105/AJPH.94.4.562</pub-id><pub-id pub-id-type="pmid">15054005</pub-id></mixed-citation>
+      </ref>
+      <ref id="R16">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Siedner</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Kraemer</surname>
+<given-names>JD</given-names></string-name>, <string-name><surname>Meyer</surname>
+<given-names>MJ</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Access to primary healthcare during lockdown measures for COVID-19 in rural South Africa: an interrupted time series analysis</article-title>. <source>BMJ Open</source>
+<year>2020</year>;<volume>10</volume>:<elocation-id>e043763</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-043763</pub-id></mixed-citation>
+      </ref>
+      <ref id="R17">
+        <label>17</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><string-name><surname>Barasa</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Kazungu</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Orangi</surname>
+<given-names>S</given-names></string-name>, <collab>et al</collab></person-group>. <article-title>Assessing the indirect health effects of the COVID-19 pandemic in Kenya</article-title>, <year>2021</year>. <source>Center for global development forthcoming at</source>. Available: <uri xlink:href="https://wwwcgdevorg/publication/assessing-indirect-health-effects-covid-19-pandemic-kenya">https://wwwcgdevorg/publication/assessing-indirect-health-effects-covid-19-pandemic-kenya</uri></mixed-citation>
+      </ref>
+      <ref id="R18">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>McQuaid</surname>
+<given-names>CF</given-names></string-name>, <string-name><surname>Vassall</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Cohen</surname>
+<given-names>T</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The impact of COVID-19 on TB: a review of the data</article-title>. <source>Int J Tuberc Lung Dis</source>
+<year>2021</year>;<volume>25</volume>:<fpage>436</fpage>&#x2013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.5588/ijtld.21.0148</pub-id><pub-id pub-id-type="pmid">34049605</pub-id></mixed-citation>
+      </ref>
+      <ref id="R19">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Hategeka</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Carter</surname>
+<given-names>SE</given-names></string-name>, <string-name><surname>Chenge</surname>
+<given-names>FM</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Impact of the COVID-19 pandemic and response on the utilisation of health services in public facilities during the first wave in Kinshasa, the Democratic Republic of the Congo</article-title>. <source>BMJ Glob Health</source>
+<year>2021</year>;<volume>6</volume>. <pub-id pub-id-type="doi">10.1136/bmjgh-2021-005955</pub-id></mixed-citation>
+      </ref>
+      <ref id="R20">
+        <label>20</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>Kenya Go</collab></person-group>. <article-title>National emergency response Committee on coronavirus 2020</article-title>, <year>2020</year>. Available: <uri xlink:href="https://www.health.go.ke/wp-content/uploads/2020/06/Executive-Order-No-2-of-2020_National-Emergency-Response-Committee-on-Coronavirus-28.2.20.pdf">https://www.health.go.ke/wp-content/uploads/2020/06/Executive-Order-No-2-of-2020_National-Emergency-Response-Committee-on-Coronavirus-28.2.20.pdf</uri></mixed-citation>
+      </ref>
+      <ref id="R21">
+        <label>21</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>Health Mo</collab></person-group>. <article-title>COVID-19 press releases by health Ministry health Ministry website2020</article-title>, <year>2020</year>. Available: <uri xlink:href="https://www.health.go.ke/press-releases/">https://www.health.go.ke/press-releases/</uri></mixed-citation>
+      </ref>
+      <ref id="R22">
+        <label>22</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><string-name><surname>Barasa</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Kazungu</surname>
+<given-names>J</given-names></string-name>, <collab>CGD Work Pap</collab></person-group>. <article-title>Assessing the indirect health effects of the COVID-19 pandemic in Kenya</article-title>
+<year>2021</year>:<fpage>570</fpage>.</mixed-citation>
+      </ref>
+      <ref id="R23">
+        <label>23</label>
+        <mixed-citation publication-type="confproc"><person-group person-group-type="author"><string-name><surname>Manya</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Braa</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>&#xD8;verland</surname>
+<given-names>LH</given-names></string-name>, <collab>IST-Africa 2012 Conference Proceedings</collab>, <collab>IIMC International Information Management Corporation</collab></person-group>. <conf-name>National roll out of district health information software (DHIS 2) in Kenya, 2011&#x2013;Central server and cloud based infrastructure</conf-name>, <year>2012</year>.</mixed-citation>
+      </ref>
+      <ref id="R24">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dehnavieh</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Haghdoost</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Khosravi</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The district health information system (DHIS2): a literature review and meta-synthesis of its strengths and operational challenges based on the experiences of 11 countries</article-title>. <source>Health Inf Manag</source>
+<year>2019</year>;<volume>48</volume>:<fpage>62</fpage>&#x2013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1177/1833358318777713</pub-id><pub-id pub-id-type="pmid">29898604</pub-id></mixed-citation>
+      </ref>
+      <ref id="R25">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Irimu</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Ogero</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Mbevi</surname>
+<given-names>G</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Tackling health professionals' strikes: an essential part of health system strengthening in Kenya</article-title>. <source>BMJ Glob Health</source>
+<year>2018</year>;<volume>3</volume>:<fpage>e001136</fpage>. <pub-id pub-id-type="doi">10.1136/bmjgh-2018-001136</pub-id></mixed-citation>
+      </ref>
+      <ref id="R26">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kwak</surname>
+<given-names>SK</given-names></string-name>, <string-name><surname>Kim</surname>
+<given-names>JH</given-names></string-name></person-group>. <article-title>Statistical data preparation: management of missing values and outliers</article-title>. <source>Korean J Anesthesiol</source>
+<year>2017</year>;<volume>70</volume>:<elocation-id>407</elocation-id>. <pub-id pub-id-type="doi">10.4097/kjae.2017.70.4.407</pub-id><pub-id pub-id-type="pmid">28794835</pub-id></mixed-citation>
+      </ref>
+      <ref id="R27">
+        <label>27</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>WHO</collab></person-group>. <article-title>Data quality review: a toolkit for facility data quality assessment. module 2. desk review of data quality 2017</article-title>. Available: <uri xlink:href="https://apps.who.int/iris/bitstream/handle/10665/259225/9789241512732-eng.pdf?sequence=1&amp;isAllowed=y">https://apps.who.int/iris/bitstream/handle/10665/259225/9789241512732-eng.pdf?sequence=1&amp;isAllowed=y</uri></mixed-citation>
+      </ref>
+      <ref id="R28">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kiberu</surname>
+<given-names>VM</given-names></string-name>, <string-name><surname>Matovu</surname>
+<given-names>JKB</given-names></string-name>, <string-name><surname>Makumbi</surname>
+<given-names>F</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Strengthening district-based health reporting through the district health management information software system: the Ugandan experience</article-title>. <source>BMC Med Inform Decis Mak</source>
+<year>2014</year>;<volume>14</volume>:<fpage>1</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1186/1472-6947-14-40</pub-id><pub-id pub-id-type="pmid">24387627</pub-id></mixed-citation>
+      </ref>
+      <ref id="R29">
+        <label>29</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Begum</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Khan</surname>
+<given-names>SM</given-names></string-name>, <string-name><surname>Adamou</surname>
+<given-names>B</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Perceptions and experiences with district health information system software to collect and utilize health data in Bangladesh: a qualitative exploratory study</article-title>. <source>BMC Health Serv Res</source>
+<year>2020</year>;<volume>20</volume>:<fpage>1</fpage>&#x2013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1186/s12913-020-05322-2</pub-id></mixed-citation>
+      </ref>
+      <ref id="R30">
+        <label>30</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tuti</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Bitok</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Malla</surname>
+<given-names>L</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Improving documentation of clinical care within a clinical information network: an essential initial step in efforts to understand and improve care in Kenyan hospitals</article-title>. <source>BMJ Glob Health</source>
+<year>2016</year>;<volume>1</volume>:<elocation-id>e000028</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjgh-2016-000028</pub-id></mixed-citation>
+      </ref>
+      <ref id="R31">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Rubin</surname>
+<given-names>DB</given-names></string-name></person-group>. <article-title>Inference and missing data</article-title>. <source>Biometrika</source>
+<year>1976</year>;<volume>63</volume>:<fpage>581</fpage>&#x2013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1093/biomet/63.3.581</pub-id></mixed-citation>
+      </ref>
+      <ref id="R32">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Rubin</surname>
+<given-names>DB</given-names></string-name></person-group>. <article-title>Multiple imputation after 18+ years</article-title>. <source>J Am Stat Assoc</source>
+<year>1996</year>;<volume>91</volume>:<fpage>473</fpage>&#x2013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1080/01621459.1996.10476908</pub-id></mixed-citation>
+      </ref>
+      <ref id="R33">
+        <label>33</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><string-name><surname>Quartagno</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Quartagno</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal>, <collab>London School of Hygiene &amp; Tropical Medicine</collab></person-group>. <article-title>Multiple imputation for individual patient data meta-analyses</article-title>, <year>2016</year></mixed-citation>
+      </ref>
+      <ref id="R34">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Feng</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Hategeka</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Gr&#xE9;pin</surname>
+<given-names>KA</given-names></string-name>, <string-name><surname>Feng</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Feng</surname>
+<given-names>S</given-names></string-name></person-group>. <article-title>Addressing missing values in routine health information system data: an evaluation of imputation methods using data from the Democratic Republic of the Congo during the COVID-19 pandemic</article-title>. <source>Popul Health Metr</source>
+<year>2021</year>;<volume>19</volume>. <pub-id pub-id-type="doi">10.1186/s12963-021-00274-z</pub-id></mixed-citation>
+      </ref>
+      <ref id="R35">
+        <label>35</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><string-name><surname>Quartagno</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Quartagno</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Quartagno</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Package &#x2018;jomo&#x2019;</article-title>, <year>2020</year></mixed-citation>
+      </ref>
+      <ref id="R36">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Quartagno</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Quartagno</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Quartagno</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Jomo: a flexible package for two-level joint modelling multiple imputation</article-title>. <source>R Journal</source>
+<year>2019</year>;<volume>9</volume>.</mixed-citation>
+      </ref>
+      <ref id="R37">
+        <label>37</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Benneyan</surname>
+<given-names>JC</given-names></string-name></person-group>. <article-title>The design, selection, and performance of statistical control charts for healthcare process improvement</article-title>. <source>International Journal of Six Sigma and Competitive Advantage</source>
+<year>2008</year>;<volume>4</volume>:<fpage>209</fpage>&#x2013;<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1504/IJSSCA.2008.021837</pub-id></mixed-citation>
+      </ref>
+      <ref id="R38">
+        <label>38</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Killick</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Eckley</surname>
+<given-names>IA</given-names></string-name></person-group>. <article-title><bold>changepoint</bold> : An R Package for <bold>Changepoint</bold> Analysis</article-title>. <source>J Stat Softw</source>
+<year>2014</year>;<volume>58</volume>:<fpage>1</fpage>&#x2013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.18637/jss.v058.i03</pub-id></mixed-citation>
+      </ref>
+      <ref id="R39">
+        <label>39</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><string-name><surname>Taylor</surname>
+<given-names>WA</given-names></string-name></person-group>. <article-title>Change-Point analysis: a powerful new tool for detecting changes</article-title>
+<year>2000</year>.</mixed-citation>
+      </ref>
+      <ref id="R40">
+        <label>40</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wagner</surname>
+<given-names>AK</given-names></string-name>, <string-name><surname>Soumerai</surname>
+<given-names>SB</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>F</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Segmented regression analysis of interrupted time series studies in medication use research</article-title>. <source>J Clin Pharm Ther</source>
+<year>2002</year>;<volume>27</volume>:<fpage>299</fpage>&#x2013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2710.2002.00430.x</pub-id><pub-id pub-id-type="pmid">12174032</pub-id></mixed-citation>
+      </ref>
+      <ref id="R41">
+        <label>41</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bernal</surname>
+<given-names>JL</given-names></string-name>, <string-name><surname>Cummins</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Gasparrini</surname>
+<given-names>A</given-names></string-name></person-group>. <article-title>Interrupted time series regression for the evaluation of public health interventions: a tutorial</article-title>. <source>Int J Epidemiol</source>
+<year>2017</year>;<volume>46</volume>:<fpage>348</fpage>&#x2013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1093/ije/dyw098</pub-id><pub-id pub-id-type="pmid">27283160</pub-id></mixed-citation>
+      </ref>
+      <ref id="R42">
+        <label>42</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Gardner</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Mulvey</surname>
+<given-names>EP</given-names></string-name>, <string-name><surname>Shaw</surname>
+<given-names>EC</given-names></string-name></person-group>. <article-title>Regression analyses of counts and rates: Poisson, overdispersed Poisson, and negative binomial models</article-title>. <source>Psychol Bull</source>
+<year>1995</year>;<volume>118</volume>:<fpage>392</fpage>&#x2013;<lpage>404</lpage>. <pub-id pub-id-type="doi">10.1037/0033-2909.118.3.392</pub-id><pub-id pub-id-type="pmid">7501743</pub-id></mixed-citation>
+      </ref>
+      <ref id="R43">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ver Hoef</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Boveng</surname>
+<given-names>PL</given-names></string-name>, <string-name><given-names>Quasi&#x2010;Poisson vs</given-names></string-name></person-group>. <article-title>Quasi-Poisson vs. negative binomial regression: how should we model overdispersed count data?</article-title>
+<source>Ecology</source>
+<year>2007</year>;<volume>88</volume>:<fpage>2766</fpage>&#x2013;<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1890/07-0043.1</pub-id><pub-id pub-id-type="pmid">18051645</pub-id></mixed-citation>
+      </ref>
+      <ref id="R44">
+        <label>44</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bozdogan</surname>
+<given-names>H</given-names></string-name></person-group>. <article-title>Model selection and Akaike&#x2019;s Information Criterion (AIC): The general theory and its analytical extensions</article-title>. <source>Psychometrika</source>
+<year>1987</year>;<volume>52</volume>:<fpage>345</fpage>&#x2013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1007/BF02294361</pub-id></mixed-citation>
+      </ref>
+      <ref id="R45">
+        <label>45</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><string-name><surname>Prais</surname>
+<given-names>SJ</given-names></string-name>, <string-name><surname>Winsten</surname>
+<given-names>CB</given-names></string-name></person-group>. <article-title>Trend estimators and serial correlation. Cowles Commission discussion paper Chicago</article-title>
+<year>1954</year>.</mixed-citation>
+      </ref>
+      <ref id="R46">
+        <label>46</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Nelson</surname>
+<given-names>BK</given-names></string-name></person-group>. <article-title>Time series analysis using autoregressive integrated moving average (ARIMA) models</article-title>. <source>Academic Emergency Medicine</source>
+<year>1998</year>;<volume>5</volume>:<fpage>739</fpage>&#x2013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1111/j.1553-2712.1998.tb02493.x</pub-id><pub-id pub-id-type="pmid">9678399</pub-id></mixed-citation>
+      </ref>
+      <ref id="R47">
+        <label>47</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Schaffer</surname>
+<given-names>AL</given-names></string-name>, <string-name><surname>Dobbins</surname>
+<given-names>TA</given-names></string-name>, <string-name><surname>Pearson</surname>
+<given-names>S-A</given-names></string-name></person-group>. <article-title>Interrupted time series analysis using autoregressive integrated moving average (ARIMA) models: a guide for evaluating large-scale health interventions</article-title>. <source>BMC Med Res Methodol</source>
+<year>2021</year>;<volume>21</volume>:<fpage>1</fpage>&#x2013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1186/s12874-021-01235-8</pub-id><pub-id pub-id-type="pmid">33397292</pub-id></mixed-citation>
+      </ref>
+      <ref id="R48">
+        <label>48</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Masarotto</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Varin</surname>
+<given-names>C</given-names></string-name></person-group>. <article-title>Gaussian Copula Regression in R</article-title>. <source>J Stat Softw</source>
+<year>2017</year>;<volume>77</volume>:<fpage>1</fpage>&#x2013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.18637/jss.v077.i08</pub-id></mixed-citation>
+      </ref>
+      <ref id="R49">
+        <label>49</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bhaskaran</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Gasparrini</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Hajat</surname>
+<given-names>S</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Time series regression studies in environmental epidemiology</article-title>. <source>Int J Epidemiol</source>
+<year>2013</year>;<volume>42</volume>:<fpage>1187</fpage>&#x2013;<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1093/ije/dyt092</pub-id><pub-id pub-id-type="pmid">23760528</pub-id></mixed-citation>
+      </ref>
+      <ref id="R50">
+        <label>50</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Rubin</surname>
+<given-names>DB</given-names></string-name></person-group>. <source>Multiple imputation for nonresponse in surveys</source>. <publisher-name>John Wiley &amp; Sons</publisher-name>, <year>2004</year>.</mixed-citation>
+      </ref>
+      <ref id="R51">
+        <label>51</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Masresha</surname>
+<given-names>BG</given-names></string-name>, <string-name><surname>Luce</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Shibeshi</surname>
+<given-names>ME</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The performance of routine immunization in selected African countries during the first six months of the COVID-19 pandemic</article-title>. <source>Pan Afr Med J</source>
+<year>2020</year>;<volume>37</volume>:<fpage>12</fpage>. <pub-id pub-id-type="doi">10.11604/pamj.supp.2020.37.1.26107</pub-id></mixed-citation>
+      </ref>
+      <ref id="R52">
+        <label>52</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>SHIKUKU</surname>
+<given-names>DN</given-names></string-name>, <string-name><surname>Nyaoke</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Gichuru</surname>
+<given-names>S</given-names></string-name></person-group>. <article-title>Early indirect impact of COVID-19 pandemic on utilization and outcomes of reproductive, maternal, newborn, child and adolescent health services in Kenya</article-title>. <source>medRxiv</source>
+<year>2020</year>.</mixed-citation>
+      </ref>
+      <ref id="R53">
+        <label>53</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Burt</surname>
+<given-names>JF</given-names></string-name>, <string-name><surname>Ouma</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Lubyayi</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Amone</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Indirect effects of COVID-19 on maternal, neonatal, child, sexual and reproductive health services in Kampala, Uganda</article-title>. <source>BMJ Glob Health</source>
+<year>2021</year>;<volume>6</volume>:<fpage>e006102</fpage>. <pub-id pub-id-type="doi">10.1136/bmjgh-2021-006102</pub-id></mixed-citation>
+      </ref>
+      <ref id="R54">
+        <label>54</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dorward</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Khubone</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Gate</surname>
+<given-names>K</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The impact of the COVID-19 lockdown on HIV care in 65 South African primary care clinics: an interrupted time series analysis</article-title>. <source>Lancet HIV</source>
+<year>2021</year>;<volume>8</volume>:<fpage>e158</fpage>&#x2013;<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1016/S2352-3018(20)30359-3</pub-id><pub-id pub-id-type="pmid">33549166</pub-id></mixed-citation>
+      </ref>
+      <ref id="R55">
+        <label>55</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Adelekan</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Mihretu</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Mapanga</surname>
+<given-names>W</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Early effects of the COVID-19 pandemic on family planning utilisation and termination of pregnancy services in Gauteng, South Africa: March&#x2013;April 2020</article-title>. <source>Wits Journal of Clinical Medicine</source>
+<year>2020</year>;<volume>2</volume>:<fpage>91</fpage>&#x2013;<lpage>52</lpage>. <pub-id pub-id-type="doi">10.18772/26180197.2020.v2n2a7</pub-id></mixed-citation>
+      </ref>
+      <ref id="R56">
+        <label>56</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wanyana</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Wong</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Hakizimana</surname>
+<given-names>D</given-names></string-name></person-group>. <article-title>Rapid assessment on the utilization of maternal and child health services during COVID-19 in Rwanda</article-title>. <source>Public Health Action</source>
+<year>2021</year>;<volume>11</volume>:<fpage>12</fpage>&#x2013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.5588/pha.20.0057</pub-id><pub-id pub-id-type="pmid">33777716</pub-id></mixed-citation>
+      </ref>
+      <ref id="R57">
+        <label>57</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Chanchlani</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Buchanan</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Gill</surname>
+<given-names>PJ</given-names></string-name></person-group>. <article-title>Addressing the indirect effects of COVID-19 on the health of children and young people</article-title>. <source>CMAJ</source>
+<year>2020</year>;<volume>192</volume>:<fpage>E921</fpage>&#x2013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1503/cmaj.201008</pub-id><pub-id pub-id-type="pmid">32586838</pub-id></mixed-citation>
+      </ref>
+      <ref id="R58">
+        <label>58</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Franchini</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Spessot</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Landoni</surname>
+<given-names>G</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Stranger months: how SARS-CoV-2, fear of contagion, and lockdown measures impacted attendance and clinical activity during February and March 2020 at an urban emergency department in Milan</article-title>. <source>Disaster Med Public Health Prep</source>
+<year>2021</year>;<volume>15</volume>:<fpage>1</fpage>&#x2013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1017/dmp.2020.265</pub-id><pub-id pub-id-type="pmid">31739824</pub-id></mixed-citation>
+      </ref>
+      <ref id="R59">
+        <label>59</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Migliori</surname>
+<given-names>GB</given-names></string-name>, <string-name><surname>Thong</surname>
+<given-names>PM</given-names></string-name>, <string-name><surname>Akkerman</surname>
+<given-names>O</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Worldwide effects of coronavirus disease pandemic on tuberculosis services, January-April 2020</article-title>. <source>Emerg Infect Dis</source>
+<year>2020</year>;<volume>26</volume>:<fpage>2709</fpage>&#x2013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.3201/eid2611.203163</pub-id><pub-id pub-id-type="pmid">32917293</pub-id></mixed-citation>
+      </ref>
+      <ref id="R60">
+        <label>60</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Murewanhema</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Makurumidze</surname>
+<given-names>R</given-names></string-name></person-group>. <article-title>Essential health services delivery in Zimbabwe during the COVID-19 pandemic: perspectives and recommendations</article-title>. <source>Pan Afr Med J</source>
+<year>2020</year>;<volume>35</volume>:<fpage>143</fpage>. <pub-id pub-id-type="doi">10.11604/pamj.supp.2020.35.2.25367</pub-id><pub-id pub-id-type="pmid">33193958</pub-id></mixed-citation>
+      </ref>
+      <ref id="R61">
+        <label>61</label>
+        <mixed-citation publication-type="webpage"><article-title>Partnership for Evidence-Based Response to COVID-19 (PERC). Using data to find a balance, Special report series: Disruption to essential health services in Africa during COVID-19</article-title>, <year>2020</year>. Available: <uri xlink:href="https://preventepidemics.org/wp-content/uploads/2020/11/PERC-Brief-Essential-Services_Report_1120.pdf">https://preventepidemics.org/wp-content/uploads/2020/11/PERC-Brief-Essential-Services_Report_1120.pdf</uri> [Accessed <comment>cited 2021 21/06/2021</comment>].</mixed-citation>
+      </ref>
+      <ref id="R62">
+        <label>62</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Edie</surname>
+<given-names>GEHE</given-names></string-name>, <string-name><surname>Obinchemti</surname>
+<given-names>TE</given-names></string-name>, <string-name><surname>Tamufor</surname>
+<given-names>EN</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Perceptions of antenatal care services by pregnant women attending government health centres in the Buea health district, Cameroon: a cross sectional study</article-title>. <source>Pan Afr Med J</source>
+<year>2015</year>;<volume>21</volume>:<elocation-id>45</elocation-id>. <pub-id pub-id-type="doi">10.11604/pamj.2015.21.45.4858</pub-id><pub-id pub-id-type="pmid">26405481</pub-id></mixed-citation>
+      </ref>
+      <ref id="R63">
+        <label>63</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Brown</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Sohani</surname>
+<given-names>SB</given-names></string-name>, <string-name><surname>Khan</surname>
+<given-names>K</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Antenatal care and perinatal outcomes in Kwale district, Kenya</article-title>. <source>BMC Pregnancy Childbirth</source>
+<year>2008</year>;<volume>8</volume>:<fpage>1</fpage>&#x2013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1186/1471-2393-8-2</pub-id><pub-id pub-id-type="pmid">18179721</pub-id></mixed-citation>
+      </ref>
+      <ref id="R64">
+        <label>64</label>
+        <mixed-citation publication-type="interview">
+<year>2021</year>
+<article-title>The indirect impact of COVID-19 pandemic on inpatient admissions in 204</article-title>
+</mixed-citation>
+      </ref>
+      <ref id="R65">
+        <label>65</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Shimels</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Asrat Kassu</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Bogale</surname>
+<given-names>G</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Magnitude and associated factors of poor medication adherence among diabetic and hypertensive patients visiting public health facilities in Ethiopia during the COVID-19 pandemic</article-title>. <source>PLoS One</source>
+<year>2021</year>;<volume>16</volume>:<elocation-id>e0249222</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0249222</pub-id><pub-id pub-id-type="pmid">33822807</pub-id></mixed-citation>
+      </ref>
+      <ref id="R66">
+        <label>66</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Apicella</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Campopiano</surname>
+<given-names>MC</given-names></string-name>, <string-name><surname>Mantuano</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>COVID-19 in people with diabetes: understanding the reasons for worse outcomes</article-title>. <source>Lancet Diabetes Endocrinol</source>
+<year>2020</year>;<volume>8</volume>:<fpage>782</fpage>&#x2013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1016/S2213-8587(20)30238-2</pub-id><pub-id pub-id-type="pmid">32687793</pub-id></mixed-citation>
+      </ref>
+      <ref id="R67">
+        <label>67</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Agutu</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Oduor</surname>
+<given-names>TH</given-names></string-name>, <string-name><surname>Kombo</surname>
+<given-names>BK</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>High patient acceptability but low coverage of provider-initiated HIV testing among adult outpatients with symptoms of acute infectious illness in coastal Kenya</article-title>. <source>PLoS One</source>
+<year>2021</year>;<volume>16</volume>:<elocation-id>e0246444</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0246444</pub-id><pub-id pub-id-type="pmid">33544736</pub-id></mixed-citation>
+      </ref>
+      <ref id="R68">
+        <label>68</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mugo</surname>
+<given-names>PM</given-names></string-name>, <string-name><surname>Micheni</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Shangala</surname>
+<given-names>J</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Uptake and acceptability of oral HIV self-testing among community pharmacy clients in Kenya: a feasibility study</article-title>. <source>PLoS One</source>
+<year>2017</year>;<volume>12</volume>:<elocation-id>e0170868</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0170868</pub-id><pub-id pub-id-type="pmid">28125699</pub-id></mixed-citation>
+      </ref>
+      <ref id="R69">
+        <label>69</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Aiello</surname>
+<given-names>AE</given-names></string-name>, <string-name><surname>Coulborn</surname>
+<given-names>RM</given-names></string-name>, <string-name><surname>Perez</surname>
+<given-names>V</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Effect of hand hygiene on infectious disease risk in the community setting: a meta-analysis</article-title>. <source>Am J Public Health</source>
+<year>2008</year>;<volume>98</volume>:<fpage>1372</fpage>&#x2013;<lpage>81</lpage>. <pub-id pub-id-type="doi">10.2105/AJPH.2007.124610</pub-id><pub-id pub-id-type="pmid">18556606</pub-id></mixed-citation>
+      </ref>
+      <ref id="R70">
+        <label>70</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Liang</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Gao</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Cheng</surname>
+<given-names>C</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Efficacy of face mask in preventing respiratory virus transmission: a systematic review and meta-analysis</article-title>. <source>Travel Med Infect Dis</source>
+<year>2020</year>;<volume>36</volume>:<elocation-id>101751</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.tmaid.2020.101751</pub-id><pub-id pub-id-type="pmid">32473312</pub-id></mixed-citation>
+      </ref>
+      <ref id="R71">
+        <label>71</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>WHO</collab></person-group>. <article-title>Analysing and using routine data to monitor the effects of COVID-19 on essential health services 2021</article-title>, <year>2021</year>. Available: <uri xlink:href="https://www.who.int/bulletin/volumes/95/10/17-194399/en/">https://www.who.int/bulletin/volumes/95/10/17-194399/en/</uri></mixed-citation>
+      </ref>
+      <ref id="R72">
+        <label>72</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Hagel</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Paton</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Mbevi</surname>
+<given-names>G</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Data for tracking SDGs: challenges in capturing neonatal data from hospitals in Kenya</article-title>. <source>BMJ Glob Health</source>
+<year>2020</year>;<volume>5</volume>:<elocation-id>e002108</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjgh-2019-002108</pub-id></mixed-citation>
+      </ref>
+      <ref id="R73">
+        <label>73</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kihuba</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Gathara</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Mwinga</surname>
+<given-names>S</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Assessing the ability of health information systems in hospitals to support evidence-informed decisions in Kenya</article-title>. <source>Glob Health Action</source>
+<year>2014</year>;<volume>7</volume>:<elocation-id>24859</elocation-id>. <pub-id pub-id-type="doi">10.3402/gha.v7.24859</pub-id><pub-id pub-id-type="pmid">25084834</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>
